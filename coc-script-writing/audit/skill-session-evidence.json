@@ -1,0 +1,754 @@
+{
+  "date": "2026-10-07",
+  "scope": "Eight other accessible COC-related threads, latest sampled turns plus two older pages; not exhaustive historical frequency census. Successful reads confirm reading, not every downstream invocation or effectiveness. Summaries and local session logs are secondary evidence.",
+  "pages": [
+    {
+      "thread_id": "01a0fcfc-afec-7972-add5-52ad319ebcf8",
+      "title": "统筹会话",
+      "page_next_cursor": "{\"requestedThreadId\":\"01a0fcfc-afec-7972-add5-52ad319ebcf8\",\"rolloutOrdinal\":8821,\"includeAnchor\":false,\"scope\":{\"kind\":\"turns\"}}",
+      "turns_sampled": 10,
+      "skill_reads": [
+        {
+          "turn_id": "01a11229-e10e-70b3-8617-2967c194f72b",
+          "item_id": "exec-3cba0a91-9821-463c-b06d-2cf6b182c087",
+          "skills": [
+            "using-superpowers"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a11229-e10e-70b3-8617-2967c194f72b",
+          "item_id": "exec-3d0c8a96-75df-46a2-82c8-9a7432065865",
+          "skills": [
+            "chinese-writing"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a1121f-921e-7810-90ea-04ccbe54698a",
+          "item_id": "exec-40b46c26-4ac1-4e7c-aeb3-e299fe6a4487",
+          "skills": [
+            "mystery-payoff-and-fairness-judge",
+            "brainstorming"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10ed1-f8b9-7943-b785-54059375f10a",
+          "item_id": "exec-28bf9876-ff66-48ce-9d61-4e3316b7b99d",
+          "skills": [
+            "brainstorming",
+            "creative-research"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10ed1-f8b9-7943-b785-54059375f10a",
+          "item_id": "exec-4ce4b813-73b9-43d5-a596-b9a99d3bd53d",
+          "skills": [
+            "chinese-writing",
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10ed1-f8b9-7943-b785-54059375f10a",
+          "item_id": "exec-ef53a67d-86fb-4d20-aced-e5a895962057",
+          "skills": [
+            "chinese-writing",
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10ed1-f8b9-7943-b785-54059375f10a",
+          "item_id": "exec-ebdb0b91-56bf-4486-99d0-bdc45614dc7b",
+          "skills": [
+            "creative-research"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10ced-ed0a-72f3-a00d-a0dfe9640b8d",
+          "item_id": "exec-3d41a291-21f9-40f9-acff-18a153bad9a1",
+          "skills": [
+            "brainstorming"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10ced-ed0a-72f3-a00d-a0dfe9640b8d",
+          "item_id": "exec-ba3a6a87-a46c-4227-9322-66456dc1c96b",
+          "skills": [
+            "chinese-writing"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10ced-ed0a-72f3-a00d-a0dfe9640b8d",
+          "item_id": "exec-30d78086-6b26-45c2-89e0-ece92306df85",
+          "skills": [
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10cc5-5af9-7ad2-a0eb-ee6767546f5f",
+          "item_id": "exec-f53d8f43-c6fd-4ae8-acd3-0850dd0d2b1f",
+          "skills": [
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10cc5-5af9-7ad2-a0eb-ee6767546f5f",
+          "item_id": "exec-3381fd30-d96a-4e9c-8473-bcadf44a5061",
+          "skills": [
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "failed",
+          "exit_code": 1
+        },
+        {
+          "turn_id": "01a10c8d-113b-7ac0-abe3-5d43ccfe6ca8",
+          "item_id": "exec-9f1f66ec-9c20-49e6-8cd1-70d34b75cd5a",
+          "skills": [
+            "brainstorming",
+            "chinese-writing"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        }
+      ]
+    },
+    {
+      "thread_id": "01a0fbfa-5334-7fa2-8b60-fc30b22f7c5b",
+      "title": "母版基线会话",
+      "page_next_cursor": "{\"requestedThreadId\":\"01a0fbfa-5334-7fa2-8b60-fc30b22f7c5b\",\"rolloutOrdinal\":1476,\"includeAnchor\":false,\"scope\":{\"kind\":\"turns\"}}",
+      "turns_sampled": 10,
+      "skill_reads": [
+        {
+          "turn_id": "01a10a67-06de-7382-bec3-6bb73c2e8f03",
+          "item_id": "exec-8bf6a25d-cb0d-4127-9434-c34ac517112a",
+          "skills": [
+            "documents"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10a67-06de-7382-bec3-6bb73c2e8f03",
+          "item_id": "exec-9b6a9383-47f5-4173-92f6-68893a56755a",
+          "skills": [
+            "documents"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10a67-06de-7382-bec3-6bb73c2e8f03",
+          "item_id": "exec-f04318ec-cf82-48ad-a694-47cbca36ec45",
+          "skills": [
+            "documents"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10a67-06de-7382-bec3-6bb73c2e8f03",
+          "item_id": "exec-65f45e28-418e-4c9b-81ae-2079f5ce1793",
+          "skills": [
+            "documents",
+            "pdf"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10a67-06de-7382-bec3-6bb73c2e8f03",
+          "item_id": "exec-e60bdff7-425e-4663-a2c7-60684509c8a2",
+          "skills": [
+            "pdf"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10a17-22da-72e2-890e-13a58011f05f",
+          "item_id": "exec-f028147c-eb10-4698-a21e-fa087d59aaa0",
+          "skills": [
+            "creative-research"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10a17-22da-72e2-890e-13a58011f05f",
+          "item_id": "exec-3c967ca2-db8d-46af-84b5-a81ef0a28ea5",
+          "skills": [
+            "fiction-workshop"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a10a17-22da-72e2-890e-13a58011f05f",
+          "item_id": "exec-d20ea5c0-2631-4848-96d4-77c88a96cdb8",
+          "skills": [
+            "brainstorming"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a109f6-a618-7761-b344-54d32de3b096",
+          "item_id": "exec-8f88cfc9-dbc4-4989-bebe-98ec87fd3713",
+          "skills": [
+            "fiction-workshop"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a107fa-ce1f-7383-88df-98f64b235275",
+          "item_id": "exec-7219d5ae-1c2d-4302-a285-688c7210890a",
+          "skills": [
+            "brainstorming",
+            "creative-research"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0fcda-84d2-7e62-b86a-f293c2b00d87",
+          "item_id": "exec-4affd7c1-8cd9-4848-a26b-ba2f9ba43e0d",
+          "skills": [
+            "fiction-workshop",
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0fcda-84d2-7e62-b86a-f293c2b00d87",
+          "item_id": "exec-73778ab3-ba72-470c-8f6c-f54cdbc7cc55",
+          "skills": [
+            "verification-before-completion"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        }
+      ]
+    },
+    {
+      "thread_id": "01a0fcd9-5fd9-7aa3-9a3c-f76b05ef5ed7",
+      "title": "地图设计会话",
+      "page_next_cursor": null,
+      "turns_sampled": 2,
+      "skill_reads": [
+        {
+          "turn_id": "01a0fcd9-6209-7501-8245-b6e41da5c1f8",
+          "item_id": "exec-a4a5bd02-7594-4516-a535-e07d0495206f",
+          "skills": [
+            "using-superpowers",
+            "imagegen"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0fcd9-6209-7501-8245-b6e41da5c1f8",
+          "item_id": "exec-294c2c90-614c-4d8a-86c6-ffd1c4f5aa9e",
+          "skills": [
+            "brainstorming"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0fcd9-6209-7501-8245-b6e41da5c1f8",
+          "item_id": "exec-bd6c5a0a-1d3e-463f-84c8-abae56f38581",
+          "skills": [
+            "brainstorming"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        }
+      ]
+    },
+    {
+      "thread_id": "01a0d804-88e2-7ba3-9189-e4cf2c2c85ec",
+      "title": "这是D-9项目的新会话。开始任何工作前，请按顺序读取 D9-MASTER.md、sessions/CURRENT-D9…",
+      "page_next_cursor": "{\"requestedThreadId\":\"01a0d804-88e2-7ba3-9189-e4cf2c2c85ec\",\"rolloutOrdinal\":19511,\"includeAnchor\":false,\"scope\":{\"kind\":\"turns\"}}",
+      "turns_sampled": 10,
+      "skill_reads": [
+        {
+          "turn_id": "01a0fcbd-036b-7390-aa13-e418f0dd24ec",
+          "item_id": "exec-18eeb61f-1ce7-4ce0-9132-819ce2bb5192",
+          "skills": [
+            "writing-for-agents"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0fcad-f751-7021-870b-faa4f282a126",
+          "item_id": "exec-ec1819ce-7b87-4e14-a83b-9123664ab53a",
+          "skills": [
+            "verification-before-completion"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0fcac-8ac1-7b32-967b-cc2383c1dbc6",
+          "item_id": "exec-ac22a8fc-f001-44bf-846f-010b70d93eb2",
+          "skills": [
+            "using-superpowers",
+            "fiction-workshop"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0fc97-d3ef-7853-9a63-885bf4c1fdca",
+          "item_id": "exec-7fab92f9-48d8-4e93-a8be-4d6984be7f8a",
+          "skills": [
+            "fiction-workshop"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0fc97-d3ef-7853-9a63-885bf4c1fdca",
+          "item_id": "exec-1b618bd4-cc45-4285-80f9-93856f29b3f4",
+          "skills": [
+            "brainstorming"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0fc88-435f-7613-9cf2-ca9097527d63",
+          "item_id": "exec-9df222cf-173b-4db1-bcbe-13c88554b937",
+          "skills": [
+            "fiction-workshop"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0fc88-435f-7613-9cf2-ca9097527d63",
+          "item_id": "exec-f5c782fa-1662-4564-9a61-6a69d12a28a4",
+          "skills": [
+            "brainstorming"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0fc83-7a8d-7eb1-b218-79b9e08a3a87",
+          "item_id": "exec-c9785e95-1111-4315-84f7-d0446c434a95",
+          "skills": [
+            "fiction-workshop"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0fc83-7a8d-7eb1-b218-79b9e08a3a87",
+          "item_id": "exec-08f94d2a-fdda-4030-bfc5-267aa6c0bdeb",
+          "skills": [
+            "brainstorming"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        }
+      ]
+    },
+    {
+      "thread_id": "01a07761-3876-70a1-8cc7-2c8331426eb3",
+      "title": null,
+      "page_next_cursor": "{\"requestedThreadId\":\"01a07761-3876-70a1-8cc7-2c8331426eb3\",\"rolloutOrdinal\":25635,\"includeAnchor\":false,\"scope\":{\"kind\":\"turns\"}}",
+      "turns_sampled": 10,
+      "skill_reads": [
+        {
+          "turn_id": "01a0d7c7-447f-77f1-8b1d-79e97fe4c420",
+          "item_id": "exec-cd1450e7-1d4a-4e2e-8711-9ed67e48d53e",
+          "skills": [
+            "fiction-workshop"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0d7c7-447f-77f1-8b1d-79e97fe4c420",
+          "item_id": "exec-3b0d887f-611b-46ec-8e87-c657a4c4d635",
+          "skills": [
+            "coc-trpg-skill"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0d7c7-447f-77f1-8b1d-79e97fe4c420",
+          "item_id": "exec-49d5fdae-da35-44e6-8b82-1dd4c542a39c",
+          "skills": [
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0d79e-1efa-7a21-9139-227f89282fb2",
+          "item_id": "exec-63ce54c8-650d-4ce5-8ef0-686b6f1b3769",
+          "skills": [
+            "writing-for-agents"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0d78a-1a55-7c03-9d74-72b9eee3eeed",
+          "item_id": "exec-c542f06e-b27c-4338-939d-8d5c5b460402",
+          "skills": [
+            "find-skills"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        }
+      ]
+    },
+    {
+      "thread_id": "01a05fdd-f4f2-7411-8b73-5ccb38b6d066",
+      "title": "安装中文撰写、小说、悬疑推理类、逻辑推理、trpg coc的相关skill",
+      "page_next_cursor": "{\"requestedThreadId\":\"01a05fdd-f4f2-7411-8b73-5ccb38b6d066\",\"rolloutOrdinal\":8138,\"includeAnchor\":false,\"scope\":{\"kind\":\"turns\"}}",
+      "turns_sampled": 10,
+      "skill_reads": [
+        {
+          "turn_id": "01a07755-6f3d-76e1-8eef-d8613539e986",
+          "item_id": "exec-4c8dd3f1-2402-455c-b3be-84aac8638522",
+          "skills": [
+            "writing-plans",
+            "coc-trpg-skill"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a07755-6f3d-76e1-8eef-d8613539e986",
+          "item_id": "exec-7a9726cb-5048-4963-81e2-8638f3ad3243",
+          "skills": [
+            "executing-plans"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0774e-9a50-7b72-b1f2-bad6a4e17cd6",
+          "item_id": "exec-fb915f97-65c5-4a69-a324-5527c7f4a56e",
+          "skills": [
+            "brainstorming",
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a076e7-c999-7833-b58c-87eb4243dbe6",
+          "item_id": "exec-29cdae8b-1764-4af0-a114-ad8c8ed09a1c",
+          "skills": [
+            "verification-before-completion"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a076e5-2b89-7140-8a86-a2ffddc703f4",
+          "item_id": "exec-364ae7fd-bc55-4978-9367-c10d869e051c",
+          "skills": [
+            "brainstorming",
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a07603-2a36-7263-945b-7879d087986b",
+          "item_id": "exec-3f44e710-87e3-4760-9302-cc25f5d8e9b3",
+          "skills": [
+            "dispatching-parallel-agents"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a075ff-ec26-7f30-9887-827668d8314b",
+          "item_id": "exec-ebba6b33-e8d0-4c14-a988-d5e0797252a2",
+          "skills": [
+            "brainstorming",
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        }
+      ]
+    },
+    {
+      "thread_id": "01a10c76-bb38-7923-b8ba-a18e91323de6",
+      "title": "学习这个文档，根据这个文档分析，我们现有的通用开发流程有什么可以补充学习的通用的部分",
+      "page_next_cursor": "{\"requestedThreadId\":\"01a10c76-bb38-7923-b8ba-a18e91323de6\",\"rolloutOrdinal\":663,\"includeAnchor\":false,\"scope\":{\"kind\":\"turns\"}}",
+      "turns_sampled": 10,
+      "skill_reads": []
+    },
+    {
+      "thread_id": "01a0f0f8-d2ff-72c3-99c0-151a7d7fb7ae",
+      "title": "帮我思考问题，在灾难和利益共同压迫下，对人对事有哪些不同的合理人性与态度",
+      "page_next_cursor": null,
+      "turns_sampled": 5,
+      "skill_reads": [
+        {
+          "turn_id": "01a0f139-2921-7c93-aa4c-aab9c7ad0af5",
+          "item_id": "exec-665fe5a9-5cf0-43fa-82a7-d95a5977c707",
+          "skills": [
+            "coc-trpg-skill"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        }
+      ]
+    },
+    {
+      "thread_id": "01a07761-3876-70a1-8cc7-2c8331426eb3",
+      "title": null,
+      "page_next_cursor": "{\"requestedThreadId\":\"01a07761-3876-70a1-8cc7-2c8331426eb3\",\"rolloutOrdinal\":24079,\"includeAnchor\":false,\"scope\":{\"kind\":\"turns\"}}",
+      "turns_sampled": 10,
+      "skill_reads": [
+        {
+          "turn_id": "01a0d76a-ef46-77f3-99cb-e6eee39dc225",
+          "item_id": "exec-2023b4f3-2782-4079-a74e-abe7290d3826",
+          "skills": [
+            "mystery-payoff-and-fairness-judge",
+            "coc-trpg-skill"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0d64f-ec39-7851-8c70-ac19e23d186e",
+          "item_id": "exec-5db9944c-4a1c-4a7c-8f4e-b33b5a94d902",
+          "skills": [
+            "creative-research"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0d64f-ec39-7851-8c70-ac19e23d186e",
+          "item_id": "exec-5ff35ac2-a8a9-4cbd-81aa-025fce62701d",
+          "skills": [
+            "creative-research",
+            "fiction-workshop"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0d64a-2c17-78d2-8e67-f859e79fee38",
+          "item_id": "exec-242f8f9b-b8e3-4087-9a39-e7be234e2ef4",
+          "skills": [
+            "fiction-workshop"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0d635-4873-7b82-9985-a07fd0baa7f4",
+          "item_id": "exec-759a898d-27b7-444a-96c4-7996dadea117",
+          "skills": [
+            "fiction-workshop"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0d631-907a-77d3-9ff7-a6027b1d34e4",
+          "item_id": "exec-3bfedc77-da5b-4174-9865-0c6f01a285b8",
+          "skills": [
+            "fiction-workshop"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0d49b-bd1e-7283-84fa-a7dfd60e0abf",
+          "item_id": "exec-3d320566-0c39-425a-bc2d-63234e8c7aa6",
+          "skills": [
+            "fiction-workshop",
+            "coc-trpg-skill",
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0d490-d538-72e1-9ccd-dc6a36bedd0e",
+          "item_id": "exec-135e71dc-dd5f-4e9f-9ed9-617cd3201351",
+          "skills": [
+            "fiction-workshop",
+            "mystery-payoff-and-fairness-judge",
+            "coc-trpg-skill"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0d48c-9894-72a2-9837-197200b2d1a1",
+          "item_id": "exec-ac7e053a-bafa-4d53-9597-d3643e85a3ea",
+          "skills": [
+            "fiction-workshop",
+            "coc-trpg-skill",
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0d47e-2bc7-76d1-a866-8cc38b432015",
+          "item_id": "exec-6ce79b78-bd5c-4426-bdc4-bbb5167e33e4",
+          "skills": [
+            "fiction-workshop",
+            "coc-trpg-skill",
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        }
+      ]
+    },
+    {
+      "thread_id": "01a05fdd-f4f2-7411-8b73-5ccb38b6d066",
+      "title": "安装中文撰写、小说、悬疑推理类、逻辑推理、trpg coc的相关skill",
+      "page_next_cursor": "{\"requestedThreadId\":\"01a05fdd-f4f2-7411-8b73-5ccb38b6d066\",\"rolloutOrdinal\":7277,\"includeAnchor\":false,\"scope\":{\"kind\":\"turns\"}}",
+      "turns_sampled": 10,
+      "skill_reads": [
+        {
+          "turn_id": "01a075f4-9da2-7371-9d86-8d361043aba3",
+          "item_id": "exec-1a710a4d-a53c-4768-96a3-cf8975747047",
+          "skills": [
+            "brainstorming",
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a07546-041d-7a33-bd3d-c1b5bfb02542",
+          "item_id": "exec-9282ac38-466e-41f2-adec-123cc11dd286",
+          "skills": [
+            "brainstorming",
+            "dispatching-parallel-agents",
+            "fiction-workshop",
+            "coc-trpg-skill"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a07546-041d-7a33-bd3d-c1b5bfb02542",
+          "item_id": "exec-9df42c70-b7de-485a-8384-2e87d7fe8f94",
+          "skills": [
+            "dispatching-parallel-agents",
+            "fiction-workshop"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a07530-62c2-7240-abe1-0867a5b61585",
+          "item_id": "exec-18748634-b7eb-43b7-bc09-cbe398898f9a",
+          "skills": [
+            "fiction-workshop"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a07530-62c2-7240-abe1-0867a5b61585",
+          "item_id": "exec-f06b7e36-21e7-48d5-bc69-c3eb04ac6834",
+          "skills": [
+            "coc-trpg-skill"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0752c-5858-76f3-b6de-da20bc0fd5db",
+          "item_id": "exec-5504bdbd-6093-4e3a-a028-1bcf5ab70257",
+          "skills": [
+            "brainstorming"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0752c-5858-76f3-b6de-da20bc0fd5db",
+          "item_id": "exec-cae44860-af83-449a-ba03-0a23f2f77730",
+          "skills": [
+            "coc-trpg-skill"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0750e-a43d-7550-a230-d27e3b4c50fb",
+          "item_id": "exec-f1571064-19e8-4919-ad54-a42fbac8b39c",
+          "skills": [
+            "coc-trpg-skill"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0750e-a43d-7550-a230-d27e3b4c50fb",
+          "item_id": "exec-1211fe92-e271-4bf6-8e7f-5c155c65bb1b",
+          "skills": [
+            "fiction-workshop"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0750e-a43d-7550-a230-d27e3b4c50fb",
+          "item_id": "exec-2382e880-c99a-4670-99a5-00cc63fb1f53",
+          "skills": [
+            "mystery-payoff-and-fairness-judge"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        },
+        {
+          "turn_id": "01a0721d-de34-74f3-9544-a0a90169e31d",
+          "item_id": "exec-167b4f9c-7153-420f-ad19-7891e3b922ec",
+          "skills": [
+            "brainstorming",
+            "writing-plans"
+          ],
+          "status": "completed",
+          "exit_code": 0
+        }
+      ]
+    }
+  ]
+}

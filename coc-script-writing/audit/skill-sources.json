@@ -1,0 +1,454 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-07",
+  "qualification": "R3 independent migration and actual-use acceptance tracked in audit/acceptance.md; paths are audit-only, not portable runtime dependencies",
+  "history_scope": "Sampled reads and secondary logs; not exhaustive frequency or effectiveness census. Current source bytes do not establish historical version.",
+  "meta_skills": "using-superpowers, writing-for-agents and find-skills observed as discovery/authoring tools; not migrated as scenario methods.",
+  "sources": [
+    {
+      "id": "SKS-01",
+      "skill": "fiction-workshop",
+      "source_path": "C:/Users/T14 Gen 4/.agents/skills/fiction-workshop/SKILL.md",
+      "sha256": "2de5ffc914f379cdf976bf9afb6e277b003cba679ad13905e18a796033083363",
+      "read_scope": "Full entry; adaptation, not whole novel workflow",
+      "evidence_level": "sampled_successful_skill_read",
+      "disposition": "adapted_core_method",
+      "targets": [
+        {
+          "path": "references/narrative.md",
+          "heading": "## 可选人物诊断"
+        },
+        {
+          "path": "references/craft.md",
+          "heading": "## 编辑分工与结构优先"
+        },
+        {
+          "path": "references/review.md",
+          "heading": "## 悬疑专项审核与修订层级"
+        }
+      ]
+    },
+    {
+      "id": "SKS-02",
+      "skill": "fiction-workshop",
+      "source_path": "C:/Users/T14 Gen 4/.agents/skills/fiction-workshop/references/character-work.md",
+      "sha256": "2fcff137b59319d6d466c8886978ec7d1e87775cc5ac488a497edf94b86660d9",
+      "read_scope": "Full reference; optional diagnostic model",
+      "evidence_level": "sampled_successful_skill_read",
+      "disposition": "adapted_core_method",
+      "targets": [
+        {
+          "path": "references/narrative.md",
+          "heading": "## 可选人物诊断"
+        }
+      ]
+    },
+    {
+      "id": "SKS-03",
+      "skill": "fiction-workshop",
+      "source_path": "C:/Users/T14 Gen 4/.agents/skills/fiction-workshop/references/developmental-editing.md",
+      "sha256": "1752019d2be5ab2df74f1715f194b184b13c01c6c1c9c743d361ea8bbc3e8bfb",
+      "read_scope": "Full reference; structural model adapted",
+      "evidence_level": "sampled_successful_skill_read",
+      "disposition": "adapted_core_method",
+      "targets": [
+        {
+          "path": "references/craft.md",
+          "heading": "## 编辑分工与结构优先"
+        }
+      ]
+    },
+    {
+      "id": "SKS-04",
+      "skill": "creative-research",
+      "source_path": "C:/Users/T14 Gen 4/.agents/skills/creative-research/SKILL.md",
+      "sha256": "6d82084bbc50897e751ca457a921c2c5d1b47c5daf964b036f766cd936ce3657",
+      "read_scope": "Full entry; evidence report and story-fit distinction",
+      "evidence_level": "sampled_successful_skill_read",
+      "disposition": "adapted_core_method",
+      "targets": [
+        {
+          "path": "references/craft.md",
+          "heading": "## 研究报告与时代检查"
+        }
+      ]
+    },
+    {
+      "id": "SKS-05",
+      "skill": "historical-fiction-research",
+      "source_path": "C:/Users/T14 Gen 4/.agents/skills/historical-fiction-research/SKILL.md",
+      "sha256": "82b8ac0b6d1d1e119f0c7ae8e3f6a383003386e71ae2c93d23a412b2c4c9c030",
+      "read_scope": "Full entry; texture/accuracy distinction and three anachronism categories",
+      "evidence_level": "session_log_reported_use",
+      "disposition": "adapted_core_method",
+      "targets": [
+        {
+          "path": "references/craft.md",
+          "heading": "## 研究报告与时代检查"
+        }
+      ]
+    },
+    {
+      "id": "SKS-06",
+      "skill": "mystery-payoff-and-fairness-judge",
+      "source_path": "C:/Users/T14 Gen 4/.agents/skills/mystery-payoff-and-fairness-judge/SKILL.md",
+      "sha256": "c63753189c59a1d1fa2b50cf981ffbcf71cc45ca71541dc321e9b7296ef4dab4",
+      "read_scope": "Full entry; conditional mystery audit",
+      "evidence_level": "sampled_successful_skill_read",
+      "disposition": "adapted_core_method",
+      "targets": [
+        {
+          "path": "references/review.md",
+          "heading": "## 悬疑专项审核与修订层级"
+        }
+      ]
+    },
+    {
+      "id": "SKS-07",
+      "skill": "mystery-payoff-and-fairness-judge",
+      "source_path": "C:/Users/T14 Gen 4/.agents/skills/mystery-payoff-and-fairness-judge/references/scorecard.md",
+      "sha256": "d465506f793d4a5672a8f12a5f033d5853c7bb8507881a5dfccf166fd4259aa9",
+      "read_scope": "Full reference; diagnostic order, no universal score",
+      "evidence_level": "sampled_successful_skill_read",
+      "disposition": "adapted_core_method",
+      "targets": [
+        {
+          "path": "references/review.md",
+          "heading": "## 悬疑专项审核与修订层级"
+        }
+      ]
+    },
+    {
+      "id": "SKS-08",
+      "skill": "coc-trpg-skill",
+      "source_path": "C:/Users/T14 Gen 4/.agents/skills/coc-trpg-skill/SKILL.md",
+      "sha256": "c9a6cf63ed9bf96fc6cb0b1b0ad96013058f42c331738d5ecbd703676981bd8f",
+      "read_scope": "Full entry; design/host separation and specialized routing",
+      "evidence_level": "sampled_successful_skill_read",
+      "disposition": "adapted_core_method",
+      "targets": [
+        {
+          "path": "references/coc.md",
+          "heading": "## 专用工具与主持交接"
+        },
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 按目标选择"
+        }
+      ]
+    },
+    {
+      "id": "SKS-09",
+      "skill": "coc-trpg-skill",
+      "source_path": "C:/Users/T14 Gen 4/.agents/skills/coc-trpg-skill/references/scenario_design.md",
+      "sha256": "11d5d404a14212362b44df306e828b035eed23b1246c5f7707e8e34ef5bbbf34",
+      "read_scope": "Full reference; conditions/visibility adapted; numerical quotas not adopted",
+      "evidence_level": "sampled_successful_skill_read",
+      "disposition": "adapted_core_method",
+      "targets": [
+        {
+          "path": "references/coc.md",
+          "heading": "## 专用工具与主持交接"
+        },
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 冲突与交接规则"
+        }
+      ]
+    },
+    {
+      "id": "SKS-10",
+      "skill": "chinese-writing",
+      "source_path": "C:/Users/T14 Gen 4/.agents/skills/chinese-writing/SKILL.md",
+      "sha256": "458219a5cf77974e53698bf3890bd9f0df4b30a8debbd3a5490de05bee18fd83",
+      "read_scope": "Full entry; clear Chinese adapted, article formats not imposed",
+      "evidence_level": "sampled_successful_skill_read",
+      "disposition": "adapted_core_method",
+      "targets": [
+        {
+          "path": "references/craft.md",
+          "heading": "## 编辑分工与结构优先"
+        }
+      ]
+    },
+    {
+      "id": "SKS-11",
+      "skill": "critical-thinking-logical-reasoning",
+      "source_path": "C:/Users/T14 Gen 4/.agents/skills/critical-thinking-logical-reasoning/SKILL.md",
+      "sha256": "c4e6f1c5f04cf4bc38bb940723c4b48b98a4d7447b447ffd568a25e491543435",
+      "read_scope": "Full entry; explicit critique trigger only",
+      "evidence_level": "available_only_not_confirmed_common",
+      "disposition": "conditional_external_route",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 按目标选择"
+        }
+      ]
+    },
+    {
+      "id": "SKS-12",
+      "skill": "coc-kp-host",
+      "source_path": "C:/Users/T14 Gen 4/.agents/skills/coc-kp-host/SKILL.md",
+      "sha256": "33b18dbb9a49d4e90f46f4c48a0ad54b83d3d62f05dd0d754ad86b2298529184",
+      "read_scope": "Trigger/core behavior and table-style excerpts; routing only, not full host-protocol migration",
+      "evidence_level": "available_only_not_confirmed_common",
+      "disposition": "conditional_external_route",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 按目标选择"
+        },
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 冲突与交接规则"
+        }
+      ]
+    },
+    {
+      "id": "SKS-13",
+      "skill": "historical-map",
+      "source_path": "C:/Users/T14 Gen 4/.agents/skills/historical-map/SKILL.md",
+      "sha256": "388bf1acd61e96ccf3d7ae02953a672703cdcf9f67e54f4aee11cef65e2afddf",
+      "read_scope": "Frontmatter and output/capability introduction, lines 1-40; routing only",
+      "evidence_level": "session_log_reported_use",
+      "disposition": "conditional_external_route",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 按目标选择"
+        }
+      ]
+    },
+    {
+      "id": "SKS-14",
+      "skill": "humanizer:humanizer",
+      "source_path": "C:/Users/T14 Gen 4/.codex/skills/humanizer/SKILL.md",
+      "sha256": "e8269e236bed06ed0fe4824c274112e54950b0cb46b0bafe5e1576ef7c9f93d5",
+      "read_scope": "Frontmatter/work/voice/file modes, lines 1-55; optional routing only",
+      "evidence_level": "available_only_not_confirmed_common",
+      "disposition": "conditional_external_route",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 按目标选择"
+        }
+      ]
+    },
+    {
+      "id": "SKS-15",
+      "skill": "imagegen",
+      "source_path": "C:/Users/T14 Gen 4/.codex/skills/.system/imagegen/SKILL.md",
+      "sha256": "706d4d96e1d5c9e6023fe3ccabba1bb34b364024d344fd25b8515ec7d28fe3c4",
+      "read_scope": "Frontmatter/top-level mode and save policy excerpt, lines 1-42; asset routing only",
+      "evidence_level": "sampled_successful_read_and_use_case_decision_not_generation_test",
+      "disposition": "conditional_external_route",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 按目标选择"
+        }
+      ]
+    },
+    {
+      "id": "SKS-16",
+      "skill": "documents:documents",
+      "source_path": "C:/Users/T14 Gen 4/.codex/plugins/cache/openai-primary-runtime/documents/26.904.11930/skills/documents/SKILL.md",
+      "sha256": "9fcc13c3cc34746b134d4ecf4a3c96c9f464d59944fcc99862b2e69ac953f19e",
+      "read_scope": "Frontmatter and opening format/verification requirements, lines 1-35; asset routing only",
+      "evidence_level": "sampled_successful_skill_read_and_declared_delivery_use",
+      "disposition": "conditional_external_route",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 按目标选择"
+        }
+      ]
+    },
+    {
+      "id": "SKS-17",
+      "skill": "pdf:pdf",
+      "source_path": "C:/Users/T14 Gen 4/.codex/plugins/cache/openai-primary-runtime/pdf/26.904.11930/skills/pdf/SKILL.md",
+      "sha256": "9e429bfc5ada20ccf25a531484e3dcc5da59811d936a7cc5dfd23dbf2dfadd31",
+      "read_scope": "Frontmatter and opening format/verification requirements, lines 1-35; asset routing only",
+      "evidence_level": "sampled_successful_skill_read_and_declared_delivery_use",
+      "disposition": "conditional_external_route",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 按目标选择"
+        }
+      ]
+    },
+    {
+      "id": "SKS-18",
+      "skill": "superpowers:brainstorming",
+      "source_path": "C:/Users/T14 Gen 4/.codex/plugins/cache/openai-curated-remote/superpowers/6.4.2/skills/brainstorming/SKILL.md",
+      "sha256": "a32d2255354775aa124855aa7100cf276bea096fff4ebb3a0edf57be216e6c72",
+      "read_scope": "Full entry as adaptation source",
+      "evidence_level": "sampled_successful_skill_read_current_file_not_historical_bytes",
+      "disposition": "adapted_goal_selection_and_external_task_range",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 按目标选择"
+        },
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 冲突与交接规则"
+        }
+      ]
+    },
+    {
+      "id": "SKS-19",
+      "skill": "superpowers:writing-plans",
+      "source_path": "C:/Users/T14 Gen 4/.codex/plugins/cache/openai-curated-remote/superpowers/6.4.2/skills/writing-plans/SKILL.md",
+      "sha256": "a6c67c1900064347c2a329990dd3c555657c51c3ec53b259a08aa01a2c26139a",
+      "read_scope": "Frontmatter/overview, lines 1-24; task-range routing only",
+      "evidence_level": "sampled_successful_skill_read_current_file_not_historical_bytes",
+      "disposition": "adapted_goal_selection_and_external_task_range",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 按目标选择"
+        },
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 冲突与交接规则"
+        }
+      ]
+    },
+    {
+      "id": "SKS-20",
+      "skill": "superpowers:executing-plans",
+      "source_path": "C:/Users/T14 Gen 4/.codex/plugins/cache/openai-curated-remote/superpowers/6.4.2/skills/executing-plans/SKILL.md",
+      "sha256": "f38e8f2ddcf079f65493adc713c1fed78421dfaf5f4dbf6b3a6b2b1d95466e71",
+      "read_scope": "Frontmatter/overview, lines 1-24; task-range routing only",
+      "evidence_level": "sampled_successful_skill_read_current_file_not_historical_bytes",
+      "disposition": "adapted_goal_selection_and_external_task_range",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 按目标选择"
+        },
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 冲突与交接规则"
+        }
+      ]
+    },
+    {
+      "id": "SKS-21",
+      "skill": "superpowers:dispatching-parallel-agents",
+      "source_path": "C:/Users/T14 Gen 4/.codex/plugins/cache/openai-curated-remote/superpowers/6.4.2/skills/dispatching-parallel-agents/SKILL.md",
+      "sha256": "1968923066f3b707eb01d1992cdf4c42284c3855f70253b9cd5000ff45fca13c",
+      "read_scope": "Frontmatter/overview, lines 1-24; task-range routing only",
+      "evidence_level": "sampled_successful_skill_read_current_file_not_historical_bytes",
+      "disposition": "adapted_goal_selection_and_external_task_range",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 按目标选择"
+        },
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 冲突与交接规则"
+        }
+      ]
+    },
+    {
+      "id": "SKS-22",
+      "skill": "superpowers:verification-before-completion",
+      "source_path": "C:/Users/T14 Gen 4/.codex/plugins/cache/openai-curated-remote/superpowers/6.4.2/skills/verification-before-completion/SKILL.md",
+      "sha256": "2befe7fc55bcadaa3d97dd9e8efeb633d2561c0ebe74c5a8b17c4d9e7e4520b3",
+      "read_scope": "Frontmatter/overview, lines 1-24; task-range routing only",
+      "evidence_level": "sampled_successful_skill_read_current_file_not_historical_bytes",
+      "disposition": "adapted_goal_selection_and_external_task_range",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 按目标选择"
+        },
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 冲突与交接规则"
+        }
+      ]
+    },
+    {
+      "id": "SKS-23",
+      "skill": "local_session_record",
+      "source_path": "D:/SZK/Personal/COC/echo/sessions/2026-09-04_阶段1建筑线路与状态原型.md",
+      "sha256": "6228a4df36c529d3fe0b08e8f3d567567c558d32c1e48bf0b1ce0c823cf7bae2",
+      "read_scope": "Matching skill-use paragraphs; secondary author record",
+      "evidence_level": "secondary_session_log",
+      "disposition": "use_evidence_not_general_project_facts",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 维护与来源"
+        }
+      ]
+    },
+    {
+      "id": "SKS-24",
+      "skill": "local_session_record",
+      "source_path": "D:/SZK/Personal/COC/echo/sessions/2026-09-30_S2安娜线继续诊断.md",
+      "sha256": "f2883880f10a3189e71b3f0c0aa482651527ab718c8f0c099522447436671675",
+      "read_scope": "Matching skill-use paragraphs; secondary author record",
+      "evidence_level": "secondary_session_log",
+      "disposition": "use_evidence_not_general_project_facts",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 维护与来源"
+        }
+      ]
+    },
+    {
+      "id": "SKS-25",
+      "skill": "local_session_record",
+      "source_path": "D:/SZK/Personal/COC/echo/sessions/2026-09-29_五线叙事重构三轮审核交接.md",
+      "sha256": "0c248c1d183a0fa29f1578deab308528b493263d7102ce052bea459840be7495",
+      "read_scope": "Matching skill-use paragraphs; secondary author record",
+      "evidence_level": "secondary_session_log",
+      "disposition": "use_evidence_not_general_project_facts",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 维护与来源"
+        }
+      ]
+    },
+    {
+      "id": "SKS-26",
+      "skill": "local_session_record",
+      "source_path": "D:/SZK/Personal/COC/echo/sessions/2026-10-02_R7.3新母版归并交付.md",
+      "sha256": "3223ce6c4b11ae1a9ea5340e0cf29796ceb23d1643777715abd1121df74aac60",
+      "read_scope": "Matching skill-use paragraphs; secondary author record",
+      "evidence_level": "secondary_session_log",
+      "disposition": "use_evidence_not_general_project_facts",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 维护与来源"
+        }
+      ]
+    },
+    {
+      "id": "SKS-27",
+      "skill": "local_session_record",
+      "source_path": "D:/SZK/Personal/COC/echo/sessions/2026-10-02_S3休挑拨文学海选与双重探索.md",
+      "sha256": "6841948d91861f182583028e3ac58d93becf9fcddf7714c03c85afd0877dfad4",
+      "read_scope": "Matching skill-use paragraphs; secondary author record",
+      "evidence_level": "secondary_session_log",
+      "disposition": "use_evidence_not_general_project_facts",
+      "targets": [
+        {
+          "path": "references/skill-integration.md",
+          "heading": "## 维护与来源"
+        }
+      ]
+    }
+  ]
+}

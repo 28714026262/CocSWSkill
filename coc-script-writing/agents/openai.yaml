@@ -1,0 +1,4 @@
+interface:
+  display_name: "COC剧本撰写"
+  short_description: "分层组织一般叙事、互动游戏与COC剧本的开发、撰写、审核及维护"
+  default_prompt: "请使用 $coc-script-writing，根据已有材料和当前阶段，完成剧本设计、撰写或审核，并明确产物、事实状态及验证范围。"

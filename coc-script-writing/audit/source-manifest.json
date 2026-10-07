@@ -1,0 +1,3067 @@
+{
+  "created": "2026-10-07",
+  "phase": "R2",
+  "source_root": "../design-guides",
+  "coverage_status": "当前逐章语义登记；独立验收资格与对象版本见audit/acceptance.md",
+  "sources": [
+    {
+      "path": "../design-guides/COC完整开发流程.md",
+      "sha256": "647ccee47488379caaa084a8cbf436f35f3c6291c227a34c2fd434a10e830cb7",
+      "sections": [
+        {
+          "heading": "# COC完整开发流程",
+          "line": 1,
+          "disposition": "合并",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 媒介与任务适配"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 工作循环与返修"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 1. 可行性与上一版流程比较",
+          "line": 9,
+          "disposition": "合并",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 媒介与任务适配"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 工作循环与返修"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 2. 前置：此前母版大纲的形成流程",
+          "line": 15,
+          "disposition": "合并",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 前置：大纲形成"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 3. 用户第一步：最高体验上限与重要情节保障",
+          "line": 28,
+          "disposition": "合并",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第1步：完整体验上限与开发范例"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 3.1 第一阶段内部的七步创作与验收",
+          "line": 64,
+          "disposition": "合并",
+          "targets": [
+            "references/craft.md",
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/craft.md",
+              "heading": "## 七步深度发展循环"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第1步：完整体验上限与开发范例"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 4. 第二步：逐线强化、跨线融合与时间／因果基线",
+          "line": 78,
+          "disposition": "合并",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第2步：逐线强化、融合与因果基线"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 5. 用户第三步：事件与游戏世界事实关联",
+          "line": 102,
+          "disposition": "合并",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第3步：世界事实与痕迹关联"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 6. 第四步：推理章程与统一进程管理",
+          "line": 116,
+          "disposition": "合并",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第4步：推理章程与统一进程"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 6.1 推理与线索分册",
+          "line": 122,
+          "disposition": "合并",
+          "targets": [
+            "references/investigation.md",
+            "references/workflow.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/investigation.md",
+              "heading": "## 认知阶段与信息释放"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 线索作用与最低充分集"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第4步：推理章程与统一进程"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 世界事实与推理"
+            }
+          ],
+          "notes": "保留认知/释放/最低充分集，明确线索重要性按推进及证明作用分级，与取得难度独立；字段引用唯一语义定义。"
+        },
+        {
+          "heading": "### 6.2 事件推进与节奏分册",
+          "line": 144,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 统一事件节点"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 关键机制依赖与时钟"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第4步：推理章程与统一进程"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 消息、离屏行动与披露"
+            }
+          ],
+          "notes": "节点、依赖时钟、真实消息来源/延迟/相信/反应成本及合成分别落位。"
+        },
+        {
+          "heading": "### 6.3 合成与验收",
+          "line": 152,
+          "disposition": "合并",
+          "targets": [
+            "references/workflow.md",
+            "references/review.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第4步：推理章程与统一进程"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 定点测试"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 7. 用户第五步：地图、细节、场景与线索分布联合施工",
+          "line": 160,
+          "disposition": "合并",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第5步：地图、场景、细节与线索联合施工"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 8. 保留的后三步",
+          "line": 170,
+          "disposition": "合并",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第6步：规则工具与KP手册收束"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第7步：测试与修订"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第8步：编辑与交付"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 9. 需要贯穿而非新增冗长阶段的工作",
+          "line": 180,
+          "disposition": "合并",
+          "targets": [
+            "references/workflow.md",
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 工作循环与返修"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 联查与交接"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 10. 阶段交付与执行接口",
+          "line": 184,
+          "disposition": "合并",
+          "targets": [
+            "references/workflow.md",
+            "references/contracts.md",
+            "references/review.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 工作循环与返修"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 项目与阶段"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 先确定审核对象"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 人物公开信息的贯穿核验",
+          "line": 206,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/investigation.md",
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 五部分人物运行模型"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 消息、离屏行动与披露"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 认知阶段与信息释放"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 联查与交接"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        }
+      ]
+    },
+    {
+      "path": "../design-guides/COC完整开发流程_讨论稿.md",
+      "sha256": "91fe639e02d9436e0210f1f96c5f683e332137257951923850b5c244717912c8",
+      "sections": [
+        {
+          "heading": "# COC完整开发流程：讨论稿",
+          "line": 1,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/workflow.md",
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 媒介与任务适配"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 1. 可行性与上一版流程比较",
+          "line": 7,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 媒介与任务适配"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 工作循环与返修"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 2. 前置：此前母版大纲的形成流程",
+          "line": 13,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 前置：大纲形成"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 3. 用户第一步：最高体验上限与重要情节保障",
+          "line": 26,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第1步：完整体验上限与开发范例"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 4. 用户第二步：逐线与合流时间／因果基线",
+          "line": 42,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第2步：逐线强化、融合与因果基线"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 5. 用户第三步：事件与游戏世界事实关联",
+          "line": 54,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第3步：世界事实与痕迹关联"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 6. 用户第四步：推理章程（职责待确认）",
+          "line": 66,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第4步：推理章程与统一进程"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 7. 用户第五步：地图、细节、场景与线索分布联合施工",
+          "line": 84,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第5步：地图、场景、细节与线索联合施工"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 8. 保留的后三步",
+          "line": 92,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第6步：规则工具与KP手册收束"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第7步：测试与修订"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第8步：编辑与交付"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 9. 需要贯穿而非新增冗长阶段的工作",
+          "line": 100,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/workflow.md",
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 工作循环与返修"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 联查与交接"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        }
+      ]
+    },
+    {
+      "path": "../design-guides/README.md",
+      "sha256": "445124357c6a41aad8e020d6e7d072c3cc5172c35093ee1c63465433ed34c681",
+      "sections": [
+        {
+          "heading": "# 通用开发方法入口",
+          "line": 1,
+          "disposition": "合并",
+          "targets": [
+            "references/scope.md",
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/scope.md",
+              "heading": "## 适用层"
+            },
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        }
+      ]
+    },
+    {
+      "path": "../design-guides/人集市学习_通用开发流程优化补充修改方案.md",
+      "sha256": "3c1e9202d280c2360978f279c0caf6d870c3847168a4251459a24734c4866729",
+      "sections": [
+        {
+          "heading": "# 人集市学习 通用开发流程优化补充修改方案",
+          "line": 1,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/maintenance.md",
+            "references/scope.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            },
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 修改目标与总体判断",
+          "line": 9,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/workflow.md",
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 媒介与任务适配"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 现有覆盖与建议增量",
+          "line": 15,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/interactive.md",
+            "references/coc.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 参与前提与选择"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 五部分人物运行模型"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 合作与玩家作用"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 统一事件节点"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## 背景特色与知识入口"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 关键机制依赖与时钟"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## KP使用手册"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 具体修改条文",
+          "line": 32,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### M1 按剧本类型确定前期开放程度（已讨论定稿）",
+          "line": 36,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 参与前提与选择"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 项目与阶段"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### M2 人物行动模式与空间呈现（已讨论固化）",
+          "line": 56,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 五部分人物运行模型"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 重要互动NPC"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### M3 人物认知域与人际关系（已讨论固化）",
+          "line": 76,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 五部分人物运行模型"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 消息、离屏行动与披露"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 重要互动NPC"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### M4 盟友支持与玩家任务（已讨论定稿）",
+          "line": 102,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 合作与玩家作用"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 场景／事件节点"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### M5 事件节点组织与KP推动要求（已讨论固化）",
+          "line": 124,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 统一事件节点"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 场景／事件节点"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### M6 背景特色与玩家体验的结合（已讨论固化）",
+          "line": 146,
+          "disposition": "合并",
+          "targets": [
+            "references/coc.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/coc.md",
+              "heading": "## 背景特色与知识入口"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 场景／事件节点"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### M7 能力依赖与破局成果（已讨论固化）",
+          "line": 168,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 关键机制依赖与时钟"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 机制、时钟与结局"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### M8 KP使用手册编制（已讨论固化）",
+          "line": 190,
+          "disposition": "合并",
+          "targets": [
+            "references/coc.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/coc.md",
+              "heading": "## KP使用手册"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 合并产物与施工顺序",
+          "line": 212,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/workflow.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第2步：逐线强化、融合与因果基线"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第3步：世界事实与痕迹关联"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第4步：推理章程与统一进程"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第5步：地图、场景、细节与线索联合施工"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第6步：规则工具与KP手册收束"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 场景／事件节点"
+            }
+          ],
+          "notes": "旧三类材料建立时点保留历史追溯；当前阶段与字段由workflow第2—6步及contracts统一承载。"
+        },
+        {
+          "heading": "## 测试补充",
+          "line": 224,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/review.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 定点测试"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 验证资格"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 配套文件修改与版本安排",
+          "line": 241,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 联查与交接"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 委员会结论与采纳状态",
+          "line": 251,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/scope.md",
+            "references/review.md",
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 先确定审核对象"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 2026-10-06正式并入与当前维护入口",
+          "line": 257,
+          "disposition": "历史追溯",
+          "targets": [
+            "references/maintenance.md",
+            "references/scope.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            },
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        }
+      ]
+    },
+    {
+      "path": "../design-guides/多线交织与支线作用通用方案.md",
+      "sha256": "ed1d9c51d4f4eafcf0b89b9637c92e3d7d5796292358c7088c7ac2a4efc2124e",
+      "sections": [
+        {
+          "heading": "# 多线交织与支线作用通用方案（扩充提案）",
+          "line": 1,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md",
+            "references/craft.md",
+            "references/scope.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 多线交织模型"
+            },
+            {
+              "path": "references/craft.md",
+              "heading": "## 定向研究与转译"
+            },
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 一、这次补什么",
+          "line": 7,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md",
+            "references/craft.md",
+            "references/investigation.md",
+            "references/coc.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 重量与删除测试"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 多线交织模型"
+            },
+            {
+              "path": "references/craft.md",
+              "heading": "## 定向研究与转译"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 证明责任与否定"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## 异常与恐怖"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 二、扩充功能：从结果标签到影响机制",
+          "line": 25,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 多线交织模型"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 三、交织单元：写关系，不只写人物卡",
+          "line": 42,
+          "disposition": "合并",
+          "targets": [
+            "references/contracts.md",
+            "references/investigation.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/contracts.md",
+              "heading": "## 因果与跨线"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 由联系到游玩"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 四、结构不是九条直线",
+          "line": 57,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 结构模型：总—分—总—分"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 多线交织模型"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 五、检验与接受批评",
+          "line": 65,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md",
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 定点测试"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 重量与删除测试"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 六、D-9这轮应用的固定骨架",
+          "line": 73,
+          "disposition": "配置隔离",
+          "targets": [
+            "references/scope.md",
+            "references/narrative.md",
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 重量与删除测试"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        }
+      ]
+    },
+    {
+      "path": "../design-guides/支线意义与主线回收通用规范.md",
+      "sha256": "e6f3f89dfa12ea36a1bda92102588e00d16ca0a98cec1e3cf5d26ec6a6b3017a",
+      "sections": [
+        {
+          "heading": "# 支线意义与主线回收通用规范（研究综合提案）",
+          "line": 1,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md",
+            "references/scope.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 重量与删除测试"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 多线交织模型"
+            },
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 依据与适用边界",
+          "line": 5,
+          "disposition": "适配",
+          "targets": [
+            "references/craft.md",
+            "references/scope.md",
+            "references/interactive.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/craft.md",
+              "heading": "## 定向研究与转译"
+            },
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 游戏循环、状态与结局"
+            }
+          ],
+          "notes": "原研究视角按玩家机会、条件与反馈转译；理论综合非原作逐字引文、非新实测认证。"
+        },
+        {
+          "heading": "## 一、先辨别是什么",
+          "line": 15,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 需求先行与材料角色"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 二、一条主功能，至多两条辅功能",
+          "line": 24,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 重量与删除测试"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 三、接口链",
+          "line": 38,
+          "disposition": "合并",
+          "targets": [
+            "references/contracts.md",
+            "references/investigation.md",
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/contracts.md",
+              "heading": "## 因果与跨线"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 由联系到游玩"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 需求先行与材料角色"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 四、重要性与复杂度分开",
+          "line": 52,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 重量与删除测试"
+            }
+          ],
+          "notes": "恢复原作用范围三类及重/中/轻操作判据为可选模型；不与价值/完成顺序/篇幅绑定，不增加配额或跨项目认证。"
+        },
+        {
+          "heading": "## 五、审核",
+          "line": 60,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 定点测试"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 六、修改护栏",
+          "line": 74,
+          "disposition": "合并",
+          "targets": [
+            "references/maintenance.md",
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 事实与变更"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 联查与交接"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 重量与删除测试"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        }
+      ]
+    },
+    {
+      "path": "../design-guides/支线需求与推理行动交织通用能力.md",
+      "sha256": "1716fe6cc38463075c105974ae078ef4a8c7c2a7e93593f9e402bc6c8308f576",
+      "sections": [
+        {
+          "heading": "# 支线需求与推理行动交织：通用能力文档",
+          "line": 1,
+          "disposition": "合并",
+          "targets": [
+            "references/investigation.md",
+            "references/narrative.md",
+            "references/scope.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/investigation.md",
+              "heading": "## 七类推理／行动联系"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 需求先行与材料角色"
+            },
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 1. 使用范围与输入",
+          "line": 7,
+          "disposition": "合并",
+          "targets": [
+            "references/scope.md",
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/scope.md",
+              "heading": "## 任务模式"
+            },
+            {
+              "path": "references/scope.md",
+              "heading": "## 项目最小约定"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 恢复工作与协作"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 2. 从需求开始，不从数量或功能标签开始",
+          "line": 15,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 需求先行与材料角色"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 3. 先成立故事，再建立联系",
+          "line": 27,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 人物与事件因果"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 需求先行与材料角色"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 4. 七类主支线／支线间关系",
+          "line": 35,
+          "disposition": "合并",
+          "targets": [
+            "references/investigation.md",
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/investigation.md",
+              "heading": "## 七类推理／行动联系"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 多线交织模型"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 推理侧",
+          "line": 39,
+          "disposition": "合并",
+          "targets": [
+            "references/investigation.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/investigation.md",
+              "heading": "## 七类推理／行动联系"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 行动侧",
+          "line": 49,
+          "disposition": "合并",
+          "targets": [
+            "references/investigation.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/investigation.md",
+              "heading": "## 七类推理／行动联系"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 5. 将联系落实为游玩",
+          "line": 60,
+          "disposition": "合并",
+          "targets": [
+            "references/investigation.md",
+            "references/interactive.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/investigation.md",
+              "heading": "## 由联系到游玩"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 统一事件节点"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 合作与玩家作用"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 因果与跨线"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 6. 检查可玩性与叙事回收",
+          "line": 72,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md",
+            "references/investigation.md",
+            "references/narrative.md",
+            "references/interactive.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 定点测试"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 由联系到游玩"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 重量与删除测试"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 游戏循环、状态与结局"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 7. 输出与审核流程",
+          "line": 96,
+          "disposition": "合并",
+          "targets": [
+            "references/workflow.md",
+            "references/review.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 工作循环与返修"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 先确定审核对象"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 因果与跨线"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 8. 简短示例：从人物需求进入互动",
+          "line": 111,
+          "disposition": "合并",
+          "targets": [
+            "references/investigation.md",
+            "references/interactive.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/investigation.md",
+              "heading": "## 七类推理／行动联系"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 合作与玩家作用"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 游戏循环、状态与结局"
+            }
+          ],
+          "notes": "干衣短例不逐字复制；R1/A1/A2/A4作用与真实分配成果合并到七类、合作及状态结算。柜子例为新夹具，不冒称旧例。"
+        },
+        {
+          "heading": "## 9. 研究基础与项目配置",
+          "line": 117,
+          "disposition": "合并",
+          "targets": [
+            "references/craft.md",
+            "references/scope.md",
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/craft.md",
+              "heading": "## 定向研究与转译"
+            },
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 10. 故事成立与发现后的推进（2026-10-02工作补充）",
+          "line": 123,
+          "disposition": "合并",
+          "targets": [
+            "references/scope.md",
+            "references/narrative.md",
+            "references/craft.md",
+            "references/investigation.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 人物与事件因果"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 需求先行与材料角色"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 揭晓与结尾"
+            },
+            {
+              "path": "references/craft.md",
+              "heading": "## 可读正文与交付颗粒度"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 证明责任与否定"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        }
+      ]
+    },
+    {
+      "path": "../design-guides/调查悬疑类COC剧本通用设计与审核框架.md",
+      "sha256": "22d93e6ac481c02602925a2175f4696f0820f01ddf20053cdefb8d67d393c70f",
+      "sections": [
+        {
+          "heading": "# 调查／悬疑类 COC 剧本通用设计与审核框架",
+          "line": 1,
+          "disposition": "合并",
+          "targets": [
+            "references/scope.md",
+            "references/review.md",
+            "references/workflow.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/scope.md",
+              "heading": "## 适用层"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 十二项评价框架"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 媒介与任务适配"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 使用前：阶段与评价口径（2026-10-02补充）",
+          "line": 10,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md",
+            "references/investigation.md",
+            "references/coc.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 阶段校准"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 证明责任与否定"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## 人数、战斗、伤势与SAN接口"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 一、先确定玩家体验，而不是先堆设定",
+          "line": 24,
+          "disposition": "合并",
+          "targets": [
+            "references/workflow.md",
+            "references/scope.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/workflow.md",
+              "heading": "## 前置：大纲形成"
+            },
+            {
+              "path": "references/workflow.md",
+              "heading": "## 第1步：完整体验上限与开发范例"
+            },
+            {
+              "path": "references/scope.md",
+              "heading": "## 项目最小约定"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 二、四层分离",
+          "line": 38,
+          "disposition": "合并",
+          "targets": [
+            "references/investigation.md",
+            "references/coc.md",
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/investigation.md",
+              "heading": "## 四层分离中的推理层"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## 异常与恐怖"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 人物与事件因果"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 2.1 故事层",
+          "line": 40,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md",
+            "references/investigation.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 人物与事件因果"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 四层分离中的推理层"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 2.2 推理层",
+          "line": 48,
+          "disposition": "合并",
+          "targets": [
+            "references/investigation.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/investigation.md",
+              "heading": "## 四层分离中的推理层"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 证明责任与否定"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 线索作用与最低充分集"
+            }
+          ],
+          "notes": "保留七种玩家认知动作及实际可得材料条件，实验可选；旧档案绝对限制按使用前校准改为局部事实可直述，不包办全部谜底。"
+        },
+        {
+          "heading": "### 2.3 异常层",
+          "line": 62,
+          "disposition": "合并",
+          "targets": [
+            "references/coc.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/coc.md",
+              "heading": "## 异常与恐怖"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 2.4 恐怖呈现层",
+          "line": 71,
+          "disposition": "合并",
+          "targets": [
+            "references/coc.md",
+            "references/craft.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/coc.md",
+              "heading": "## 异常与恐怖"
+            },
+            {
+              "path": "references/craft.md",
+              "heading": "## 媒介表达"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 三、十二项一级评价指标",
+          "line": 86,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 十二项评价框架"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 3.1 故事与主题内核",
+          "line": 90,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md",
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 十二项评价框架"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 人物与事件因果"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 揭晓与结尾"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 3.2 背景特色、历史与生活可信度",
+          "line": 99,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md",
+            "references/coc.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 十二项评价框架"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## 背景特色与知识入口"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 3.3 人物主体性与关系网络",
+          "line": 120,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md",
+            "references/interactive.md",
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 十二项评价框架"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 五部分人物运行模型"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 人物与事件因果"
+            }
+          ],
+          "notes": "人物主体性、关系运行与优点/错误同源分别落位；不是用评审问句代替人物因果定义。"
+        },
+        {
+          "heading": "### 3.4 推理公平性与误区设计",
+          "line": 128,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md",
+            "references/investigation.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 十二项评价框架"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 证明责任与否定"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 线索作用与最低充分集"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 3.5 反转、交集与爆点质量",
+          "line": 136,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md",
+            "references/craft.md",
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 十二项评价框架"
+            },
+            {
+              "path": "references/craft.md",
+              "heading": "## 冲突、反转与节奏"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 多线交织模型"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 3.6 生存压力与不可逆威胁",
+          "line": 144,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md",
+            "references/interactive.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 十二项评价框架"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 关键机制依赖与时钟"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 游戏循环、状态与结局"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 3.7 建筑探索与恐怖呈现",
+          "line": 152,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md",
+            "references/coc.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 十二项评价框架"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## 异常与恐怖"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 3.8 玩家主体性与操作自由",
+          "line": 160,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md",
+            "references/investigation.md",
+            "references/interactive.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 十二项评价框架"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 由联系到游玩"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 合作与玩家作用"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 游戏循环、状态与结局"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 3.9 机制简洁度与剧情融合",
+          "line": 168,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md",
+            "references/coc.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 十二项评价框架"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## 异常与恐怖"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## 人数、战斗、伤势与SAN接口"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 3.10 节奏、高潮与信息负担",
+          "line": 176,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md",
+            "references/craft.md",
+            "references/interactive.md",
+            "references/coc.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 十二项评价框架"
+            },
+            {
+              "path": "references/craft.md",
+              "heading": "## 冲突、反转与节奏"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 游戏循环、状态与结局"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## 人数、战斗、伤势与SAN接口"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 3.11 结局代价与情感余韵",
+          "line": 184,
+          "disposition": "适配",
+          "targets": [
+            "references/review.md",
+            "references/narrative.md",
+            "references/interactive.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 十二项评价框架"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 揭晓与结尾"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 游戏循环、状态与结局"
+            }
+          ],
+          "notes": "旧收费完美结局限定按作品承诺判断；不强制所有结局付代价。"
+        },
+        {
+          "heading": "### 3.12 KP可主持性与制作扩展性",
+          "line": 192,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 十二项评价框架"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 场景／事件节点"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## KP使用手册"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## 成品资产与规格"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 阶段校准"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 四、总—分—总—分结构",
+          "line": 202,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 结构模型：总—分—总—分"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 第一总：共同危机",
+          "line": 206,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 结构模型：总—分—总—分"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 第一分：局部故事",
+          "line": 210,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 结构模型：总—分—总—分"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 第二总：连续交集",
+          "line": 214,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md",
+            "references/craft.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 结构模型：总—分—总—分"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 多线交织模型"
+            },
+            {
+              "path": "references/craft.md",
+              "heading": "## 冲突、反转与节奏"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 最后分：当下选择",
+          "line": 223,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md",
+            "references/interactive.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 结构模型：总—分—总—分"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 揭晓与结尾"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 游戏循环、状态与结局"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 五、生存—探索—讨论—抉择闭环",
+          "line": 229,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 游戏循环、状态与结局"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 六、线索与推理设计",
+          "line": 249,
+          "disposition": "合并",
+          "targets": [
+            "references/investigation.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/investigation.md",
+              "heading": "## 四层分离中的推理层"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 证明责任与否定"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 线索作用与最低充分集"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 认知阶段与信息释放"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 6.1 线索分层",
+          "line": 251,
+          "disposition": "合并",
+          "targets": [
+            "references/investigation.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/investigation.md",
+              "heading": "## 线索作用与最低充分集"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 6.2 最低充分集",
+          "line": 262,
+          "disposition": "合并",
+          "targets": [
+            "references/investigation.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/investigation.md",
+              "heading": "## 线索作用与最低充分集"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 世界事实与推理"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 6.3 文件使用限制",
+          "line": 274,
+          "disposition": "合并",
+          "targets": [
+            "references/investigation.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/investigation.md",
+              "heading": "## 四层分离中的推理层"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 证明责任与否定"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 七、人物设计",
+          "line": 280,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 五部分人物运行模型"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 消息、离屏行动与披露"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 重要互动NPC"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 人物与事件因果"
+            }
+          ],
+          "notes": "五部分与披露维护于interactive，NPC字段在contracts，优点及同源错误的原则在narrative。"
+        },
+        {
+          "heading": "### 合作场景的任务分工与玩家作用",
+          "line": 301,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 合作与玩家作用"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 场景／事件节点"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 八、威胁与不可逆事件",
+          "line": 319,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 关键机制依赖与时钟"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 游戏循环、状态与结局"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 九、玩家自由与结局伦理",
+          "line": 337,
+          "disposition": "适配",
+          "targets": [
+            "references/interactive.md",
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 游戏循环、状态与结局"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 揭晓与结尾"
+            }
+          ],
+          "notes": "旧四终局类别改作可选检查方向，保留真实成果与伦理边界。"
+        },
+        {
+          "heading": "## 十、双玩家、战斗、伤势与SAN",
+          "line": 350,
+          "disposition": "合并",
+          "targets": [
+            "references/coc.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/coc.md",
+              "heading": "## 人数、战斗、伤势与SAN接口"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 十一、生产资产",
+          "line": 360,
+          "disposition": "合并",
+          "targets": [
+            "references/coc.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/coc.md",
+              "heading": "## 成品资产与规格"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 十二、委员会与盲测闸门",
+          "line": 381,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 先确定审核对象"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 验证资格"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 12.1 席位",
+          "line": 383,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 先确定审核对象"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 12.2 问题等级",
+          "line": 390,
+          "disposition": "适配",
+          "targets": [
+            "references/review.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 先确定审核对象"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 验证资格"
+            }
+          ],
+          "notes": "P0/P1/P2转换为阻断、体验、表达制作等语义严重度，按当前阶段承诺判断。"
+        },
+        {
+          "heading": "### 12.3 盲测",
+          "line": 398,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 定点测试"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 验证资格"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 十三、最终自检",
+          "line": 413,
+          "disposition": "合并",
+          "targets": [
+            "references/review.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/review.md",
+              "heading": "## 定点测试"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 停止与复测"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        }
+      ]
+    },
+    {
+      "path": "../design-guides/通用开发备忘录.md",
+      "sha256": "1e89d53082148026e270c4a2e7b71a433e6aac4837a3336015c8148321ffa79c",
+      "sections": [
+        {
+          "heading": "# 通用开发备忘录",
+          "line": 1,
+          "disposition": "合并",
+          "targets": [
+            "references/maintenance.md",
+            "references/scope.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            },
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 2026-10-06：人集市学习后已确认方法的正式归并",
+          "line": 3,
+          "disposition": "合并",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 参与前提与选择"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 五部分人物运行模型"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 统一事件节点"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 关键机制依赖与时钟"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## KP使用手册"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 1. 按剧本类型确定前期开放程度",
+          "line": 11,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 参与前提与选择"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 项目与阶段"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 2. 通用人物五部分模型与空间呈现",
+          "line": 27,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 五部分人物运行模型"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 重要互动NPC"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 2.1 认知域、人际关系与更新",
+          "line": 43,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 五部分人物运行模型"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 消息、离屏行动与披露"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 重要互动NPC"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 3. 统一事件节点与KP推动要求",
+          "line": 65,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 统一事件节点"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 场景／事件节点"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 4. 关键机制依赖与破局成果",
+          "line": 83,
+          "disposition": "合并",
+          "targets": [
+            "references/interactive.md",
+            "references/contracts.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/interactive.md",
+              "heading": "## 关键机制依赖与时钟"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 机制、时钟与结局"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 5. 剧本完善后的KP使用手册编制",
+          "line": 101,
+          "disposition": "合并",
+          "targets": [
+            "references/coc.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/coc.md",
+              "heading": "## KP使用手册"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 2026-10-02：会话工作习惯与内容要求的归并",
+          "line": 118,
+          "disposition": "合并",
+          "targets": [
+            "references/maintenance.md",
+            "references/scope.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            },
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 已归属的内容",
+          "line": 122,
+          "disposition": "合并",
+          "targets": [
+            "references/scope.md",
+            "references/narrative.md",
+            "references/review.md",
+            "references/investigation.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 需求先行与材料角色"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 揭晓与结尾"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 阶段校准"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 证明责任与否定"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 七类推理／行动联系"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 暂存：长期项目协作与授权",
+          "line": 132,
+          "disposition": "合并",
+          "targets": [
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 恢复工作与协作"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 事实与变更"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 暂存：多轮批评、发散与收束",
+          "line": 140,
+          "disposition": "合并",
+          "targets": [
+            "references/craft.md",
+            "references/review.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/craft.md",
+              "heading": "## 七步深度发展循环"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 先确定审核对象"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 停止与复测"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 个人配置与项目事实：暂不提升为普遍规则",
+          "line": 153,
+          "disposition": "配置隔离",
+          "targets": [
+            "references/scope.md",
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 恢复工作与协作"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "### 二次整理的方向与条件",
+          "line": 157,
+          "disposition": "合并",
+          "targets": [
+            "references/scope.md",
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/scope.md",
+              "heading": "## 两个分类轴"
+            },
+            {
+              "path": "references/scope.md",
+              "heading": "## 任务模式"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 2026-09-28：主题、作用与支线性质共同确定",
+          "line": 161,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md",
+            "references/review.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 需求先行与材料角色"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 重量与删除测试"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 阶段校准"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 2026-09-27：已整理的支线能力",
+          "line": 173,
+          "disposition": "合并",
+          "targets": [
+            "references/investigation.md",
+            "references/scope.md",
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/investigation.md",
+              "heading": "## 七类推理／行动联系"
+            },
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 单一归属与来源状态"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 2026-09-26：体验性行动优先，禁止行政流程剧情",
+          "line": 177,
+          "disposition": "配置隔离+合并",
+          "targets": [
+            "references/scope.md",
+            "references/investigation.md",
+            "references/narrative.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/scope.md",
+              "heading": "## 方法状态"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 由联系到游玩"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 需求先行与材料角色"
+            }
+          ],
+          "notes": "D-9行政动作禁令留项目配置；通用部分仅抽取调查行为用途与实际体验检查。"
+        },
+        {
+          "heading": "## 2026-09-26：从人物因果进入场景",
+          "line": 186,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md",
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 人物与事件因果"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 联查与交接"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 消息、离屏行动与披露"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## 人数、战斗、伤势与SAN接口"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 先确定审核对象"
+            }
+          ],
+          "notes": "九细项对应MEM-28—35及事实状态、旧分边界；人物、年代、离屏、战斗、尾声分别落位。"
+        },
+        {
+          "heading": "## 人物修订补记",
+          "line": 198,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md",
+            "references/maintenance.md",
+            "references/investigation.md",
+            "references/coc.md",
+            "references/interactive.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 人物与事件因果"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 事实与变更"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 证明责任与否定"
+            },
+            {
+              "path": "references/coc.md",
+              "heading": "## 异常与恐怖"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 关键机制依赖与时钟"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 支线方法研究补记（2026-09-26，提案待验证）",
+          "line": 213,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md",
+            "references/contracts.md",
+            "references/investigation.md",
+            "references/interactive.md",
+            "references/review.md",
+            "references/maintenance.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 需求先行与材料角色"
+            },
+            {
+              "path": "references/narrative.md",
+              "heading": "## 重量与删除测试"
+            },
+            {
+              "path": "references/contracts.md",
+              "heading": "## 因果与跨线"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 由联系到游玩"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 游戏循环、状态与结局"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 定点测试"
+            },
+            {
+              "path": "references/maintenance.md",
+              "heading": "## 事实与变更"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        },
+        {
+          "heading": "## 多线交织补记（同日，研究提案）",
+          "line": 224,
+          "disposition": "合并",
+          "targets": [
+            "references/narrative.md",
+            "references/craft.md",
+            "references/investigation.md",
+            "references/interactive.md",
+            "references/review.md"
+          ],
+          "target_sections": [
+            {
+              "path": "references/narrative.md",
+              "heading": "## 多线交织模型"
+            },
+            {
+              "path": "references/craft.md",
+              "heading": "## 媒介表达"
+            },
+            {
+              "path": "references/investigation.md",
+              "heading": "## 证明责任与否定"
+            },
+            {
+              "path": "references/interactive.md",
+              "heading": "## 游戏循环、状态与结局"
+            },
+            {
+              "path": "references/review.md",
+              "heading": "## 定点测试"
+            }
+          ],
+          "notes": "通用方法合并至所列具体节，保留来源原状态；不复制项目配额。"
+        }
+      ]
+    }
+  ],
+  "semantic_units": [
+    {
+      "id": "SU-01",
+      "source": "../design-guides/调查悬疑类COC剧本通用设计与审核框架.md",
+      "lines": [
+        48,
+        60
+      ],
+      "experience": "玩家认知动作及实际可取得材料",
+      "targets": [
+        {
+          "path": "references/investigation.md",
+          "heading": "## 四层分离中的推理层"
+        }
+      ],
+      "scope": "调查或相应悬疑认知任务",
+      "status": "来源方法合并；实验保留可选"
+    },
+    {
+      "id": "SU-02",
+      "source": "../design-guides/COC完整开发流程.md",
+      "lines": [
+        122,
+        142
+      ],
+      "experience": "线索重要性与取得难度分轴",
+      "targets": [
+        {
+          "path": "references/investigation.md",
+          "heading": "## 线索作用与最低充分集"
+        },
+        {
+          "path": "references/contracts.md",
+          "heading": "## 世界事实与推理"
+        }
+      ],
+      "scope": "调查线索分级",
+      "status": "现行方法合并"
+    },
+    {
+      "id": "SU-03",
+      "source": "../design-guides/支线意义与主线回收通用规范.md",
+      "lines": [
+        52,
+        59
+      ],
+      "experience": "作用范围与重中轻复杂度操作判据",
+      "targets": [
+        {
+          "path": "references/narrative.md",
+          "heading": "## 重量与删除测试"
+        }
+      ],
+      "scope": "需要分重量和作用范围的支线分析",
+      "status": "研究提案的可选模型，未补实测认证"
+    }
+  ]
+}
