@@ -1,0 +1,86 @@
+{
+  "records": [
+    {
+      "source": "research\\2026-10-08_游玩时间与节奏评估理论依据.md",
+      "source_sha256": "cfb4e8c789478777fe87bc7239bb5607da3b592f7583cae2d07f62bbacea7cc3",
+      "target": "audit\\r4-research\\2026-10-08_游玩时间与节奏评估理论依据.md",
+      "target_sha256": "cfb4e8c789478777fe87bc7239bb5607da3b592f7583cae2d07f62bbacea7cc3",
+      "adaptation": "保留正文；包内链接转译，历史非运行依赖定位到来源说明"
+    },
+    {
+      "source": "design-guides\\游玩时间与节奏评估通用能力.md",
+      "source_sha256": "7d40caceae3e4150a3041c8844e038464305064cf89f97e1edf1e05a91e63483",
+      "target": "references\\play-evaluation.md",
+      "target_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "adaptation": "保留正文；包内链接转译，历史非运行依赖定位到来源说明"
+    }
+  ],
+  "historical_notes": [
+    {
+      "id": 1,
+      "label": "专项方案v0.3",
+      "original_path": "design-guides\\通用游玩时间与节奏评估方案.md",
+      "source_sha256": "68c7e7867da0efe1418e3b051b47db7502e5c4525186579df73b3e9027c180ad"
+    },
+    {
+      "id": 2,
+      "label": "原开发记录",
+      "original_path": "design-guides\\游玩评估委员会\\00-委员会记录与交付.md",
+      "source_sha256": "0e0f94644aa365f8eed00ab02fcac17fe208edc178520e194212ce60400cbfb4"
+    },
+    {
+      "id": 3,
+      "label": "已完成的虚构试填",
+      "original_path": "design-guides\\游玩评估委员会\\06-AI首次试用与试填.md",
+      "source_sha256": "99a6cb69076da1bcc6311cd6c080960c8107109ddedd28a6f1333ae1611a6386"
+    },
+    {
+      "id": 4,
+      "label": "90分钟演算",
+      "original_path": "design-guides\\游玩评估委员会\\09-模型算例与算术复核.md",
+      "source_sha256": "709ee2251dbeb21a1c7d454f8e1bd43a5e0f9d97d4baf75c1252c961cc7412f0"
+    },
+    {
+      "id": 5,
+      "label": "时间子方案",
+      "original_path": "design-guides\\游玩评估委员会\\02-时间估算设计.md",
+      "source_sha256": "d05d1d86a2c2f84d8b4782deeebaed2ef5a49395375359a84c51e66edc5c9620"
+    },
+    {
+      "id": 6,
+      "label": "主管与产品经理讨论",
+      "original_path": "design-guides\\游玩评估委员会\\04-产品讨论与展示决策.md",
+      "source_sha256": "f714b0eaeeece85a5cdf7da7c070bceecb5c03ac2e02ebd8959a8ab6e35ad5cc"
+    },
+    {
+      "id": 7,
+      "label": "时间例7.2",
+      "original_path": "design-guides\\游玩评估委员会\\02-时间估算设计.md",
+      "source_sha256": "d05d1d86a2c2f84d8b4782deeebaed2ef5a49395375359a84c51e66edc5c9620"
+    },
+    {
+      "id": 8,
+      "label": "休息口径",
+      "original_path": "production\\30-play\\P1-novel\\S27-rhythm-bridges\\03-休息作为玩家层游玩的节奏口径.md",
+      "source_sha256": "7c2984e7e91f133ca6627e18a634a793e4ba31b4fa0e4dd6e654fa6e59553cca"
+    },
+    {
+      "id": 9,
+      "label": "R3节奏说明",
+      "original_path": "production\\30-play\\P1-novel\\S26-rhythm-chart\\R3\\三类节奏曲线说明.md",
+      "source_sha256": "df01946c34c6c105d634782fefda66fbab96b3b4f99d50e342813c0e123eeb5c"
+    },
+    {
+      "id": 10,
+      "label": "历史维护记录",
+      "original_path": "sessions\\2026-10-08_节奏评估独立能力整合.md",
+      "source_sha256": "19536f31e5595a15a42952586a47e77f81bbbeb88df7d5aa3f0a6dcfc81d1ffa"
+    },
+    {
+      "id": 11,
+      "label": "百分制修订记录",
+      "original_path": "sessions\\2026-10-08_节奏评估百分制与小数修订.md",
+      "source_sha256": "4c73a781b8b49b13ce1d2f07066eacbe987cf6e71309296ee8618a4d238a1855"
+    }
+  ]
+}

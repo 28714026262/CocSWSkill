@@ -56,7 +56,7 @@ $skillTarget = Join-Path $skillRoot 'coc-script-writing'
 if (Test-Path -LiteralPath $skillTarget) { throw '目标技能已存在，请先比较版本并安排更新。' }
 New-Item -ItemType Directory -Path $skillRoot -Force | Out-Null
 New-Item -ItemType Directory -Path $skillTarget | Out-Null
-foreach ($item in 'SKILL.md', 'README.md', 'ARCHITECTURE.md', 'agents', 'references', 'audit') {
+foreach ($item in 'SKILL.md', 'README.md', 'ARCHITECTURE.md', 'LICENSE.md', 'agents', 'references', 'audit') {
     Copy-Item -LiteralPath (Join-Path './coc-script-writing' $item) -Destination $skillTarget -Recurse
 }
 ```
@@ -72,6 +72,8 @@ foreach ($item in 'SKILL.md', 'README.md', 'ARCHITECTURE.md', 'agents', 'referen
 | 玩家选择、人物响应、节点与状态 | [interactive.md](references/interactive.md) |
 | 证据总览与七类推理／行动联系 | [investigation.md](references/investigation.md) |
 | 推理目标、双层认知、线索分布、推理体验及P4 | [inference-design.md](references/inference-design.md) |
+| 游玩时间、节奏、疲劳与复盘 | [play-evaluation.md](references/play-evaluation.md) |
+| 主题及线索／痕迹呈现 | [theme-presentation.md](references/theme-presentation.md) |
 | 异常、恐怖、规则接口与KP交付 | [coc.md](references/coc.md) |
 | 整阶段或整轮开发 | [workflow.md](references/workflow.md) |
 | 表达、研究、编辑、候选与筛选 | [craft.md](references/craft.md) |
@@ -92,7 +94,7 @@ coc-script-writing/
   README.md                   使用、结构和维护说明
   ARCHITECTURE.md              架构与分步建设方案
   agents/openai.yaml          技能显示信息
-  references/                 十二份按任务加载的参考
+  references/                 按任务加载的领域与专项参考
   audit/                      来源映射、实际试用及独立验收证据
 ```
 
@@ -119,3 +121,14 @@ coc-script-writing/
 修订后检查结构与链接，执行受影响的实际请求；若任务约定独立验收，由未参与该步编写者读实际产物，问题实改后再复验。保留旧结论及对象指纹，记录当前资格、开放项和下一步。达到本轮目标后收束，普通扩展建议不变成无限加料。
 
 仓库保留原文件字节，以支持审计指纹核对。编辑已验收文件会产生新对象，应重新登记相应验证；无需为了统一换行而批量重写历史审计文件。
+
+
+## 背景、目标与方法特点
+
+本技能来自COC开发实践与通用方法整理，目标是把故事设想发展成可读、可调查、可选择、可主持、可维护的剧本。它按媒介、任务和阶段选方法；从剧情用途连接推理目标、证据与行动；共同检查时间、体验、疲劳和主题呈现。方法特色是已有研究与实践的工程整合，不宣称学术首创或已证明真人效果。
+
+简要流程：前置大纲→体验设计→逐线融合→世界事实→推理／事件章程→场景施工→规则工具→测试修订→编辑交付。局部任务按需调用，不必完整走一遍。
+
+## 授权：仅允许自用
+
+原创内容采用[个人自用许可](LICENSE.md)：可个人下载、私下修改、安装并用于自己的非商业创作与跑团准备；其他商业使用、收费服务、重新发布或分发须另获书面许可。第三方材料沿用原权利。本许可不主张取得使用者独立创作产物的所有权，也不因此扩展使用授权。

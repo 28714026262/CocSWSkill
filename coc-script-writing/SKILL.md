@@ -1,6 +1,6 @@
 ---
 name: "coc-script-writing"
-description: "Use when drafting, revising, planning, or reviewing Chinese Call of Cthulhu scenarios, investigative tabletop adventures, interactive game narratives, or general stage/screen story outlines; also use when organizing their development workflow, principles, writing craft, or continuity. Not for standalone dice or rules lookup, novel style imitation, or game engine implementation."
+description: "Use when drafting, revising, planning, or reviewing Chinese Call of Cthulhu scenarios, investigative tabletop adventures, interactive game narratives, or general stage/screen story outlines; also use when organizing their development workflow, principles, writing craft, play-time/pacing/fatigue evaluation, thematic clue presentation, or continuity. Not for standalone dice or rules lookup, novel style imitation, or game engine implementation."
 ---
 
 # 剧本撰写与开发
@@ -17,6 +17,8 @@ description: "Use when drafting, revising, planning, or reviewing Chinese Call o
 | 参与前提、人物响应、合作、节点、依赖和成果 | [互动](references/interactive.md) |
 | 证据总览、七类推理／行动联系 | [调查](references/investigation.md) |
 | 推理目标、认知阶段、线索分布、推理体验或P4填充 | [推理设计](references/inference-design.md)；整阶段再加[流程](references/workflow.md)和[互动](references/interactive.md) |
+| 游玩估时、节奏、疲劳、版本比较或复盘 | [时间与节奏](references/play-evaluation.md)，先读第18节合同，粗稿用第14节A—D |
+| 题材主题及线索／痕迹的呈现 | [主题呈现](references/theme-presentation.md)及当前领域 |
 | 异常、恐怖、系统接口、KP手册和成品 | [COC](references/coc.md) |
 | 整阶段或整轮开发 | [流程](references/workflow.md)，随后逐阶段加载相关领域 |
 | 大纲、场景、重写、可读性、候选发展 | [技巧](references/craft.md)及当前领域 |

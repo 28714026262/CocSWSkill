@@ -1,0 +1,3415 @@
+{
+  "date": "2026-10-10",
+  "status": "实际迁移及处置已登记；等待本轮独立内容与使用验收",
+  "source_root": "design-guides（维护来源，非技能运行依赖）",
+  "sources": [
+    {
+      "path": "COC完整开发流程.md",
+      "initial_sha256": "d3542a0422d43dedbcbac10336dfc5dc9d77219ad67d1e15c51e7500d17e3e2a",
+      "initial_headings": [
+        "# COC完整开发流程",
+        "## 1. 可行性与上一版流程比较",
+        "## 2. 前置：此前母版大纲的形成流程",
+        "## 3. 用户第一步：最高体验上限与重要情节保障",
+        "### 3.1 第一阶段内部的七步创作与验收",
+        "## 4. 第二步：逐线强化、跨线融合与时间／因果基线",
+        "## 5. 用户第三步：事件与游戏世界事实关联",
+        "### 5.1 后续设计反馈与第三步返工",
+        "## 6. 第四步：推理章程与统一进程管理",
+        "### 6.1 推理与线索分册",
+        "### 6.2 事件推进与节奏分册",
+        "### 6.3 合成与验收",
+        "## 7. 用户第五步：地图、细节、场景与线索分布联合施工",
+        "## 8. 保留的后三步",
+        "## 9. 需要贯穿而非新增冗长阶段的工作",
+        "### 9.1 独立能力：游玩时间与节奏评估（2026-10-08整合）",
+        "## 10. 阶段交付与执行接口",
+        "### 人物公开信息的贯穿核验"
+      ],
+      "final_sha256": "368ca26a15545dcbe67797f4e4bf183dc70a8043e90570e2b53b65b9410504d8",
+      "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+      "targets": [
+        "references/workflow.md"
+      ],
+      "final_headings": [
+        "# COC完整开发流程",
+        "## 1. 可行性与上一版流程比较",
+        "## 2. 前置：此前母版大纲的形成流程",
+        "## 3. 用户第一步：最高体验上限与重要情节保障",
+        "### 3.1 第一阶段内部的七步创作与验收",
+        "## 4. 第二步：逐线强化、跨线融合与时间／因果基线",
+        "## 5. 用户第三步：事件与游戏世界事实关联",
+        "### 5.1 后续设计反馈与第三步返工",
+        "## 6. 第四步：推理章程与统一进程管理",
+        "### 6.1 推理与线索分册",
+        "### 6.2 事件推进与节奏分册",
+        "### 6.3 合成与验收",
+        "## 7. 用户第五步：地图、细节、场景与线索分布联合施工",
+        "## 8. 保留的后三步",
+        "## 9. 需要贯穿而非新增冗长阶段的工作",
+        "### 9.1 独立能力：游玩时间与节奏评估（2026-10-08整合）",
+        "## 10. 阶段交付与执行接口",
+        "### 人物公开信息的贯穿核验"
+      ],
+      "chapter_disposition": [
+        {
+          "heading": "# COC完整开发流程",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 1. 可行性与上一版流程比较",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2. 前置：此前母版大纲的形成流程",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 3. 用户第一步：最高体验上限与重要情节保障",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.1 第一阶段内部的七步创作与验收",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 4. 第二步：逐线强化、跨线融合与时间／因果基线",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 5. 用户第三步：事件与游戏世界事实关联",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 5.1 后续设计反馈与第三步返工",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 6. 第四步：推理章程与统一进程管理",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 6.1 推理与线索分册",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 6.2 事件推进与节奏分册",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 6.3 合成与验收",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 7. 用户第五步：地图、细节、场景与线索分布联合施工",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 8. 保留的后三步",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 9. 需要贯穿而非新增冗长阶段的工作",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 9.1 独立能力：游玩时间与节奏评估（2026-10-08整合）",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 10. 阶段交付与执行接口",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 人物公开信息的贯穿核验",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        }
+      ]
+    },
+    {
+      "path": "COC完整开发流程_讨论稿.md",
+      "initial_sha256": "91fe639e02d9436e0210f1f96c5f683e332137257951923850b5c244717912c8",
+      "initial_headings": [
+        "# COC完整开发流程：讨论稿",
+        "## 1. 可行性与上一版流程比较",
+        "## 2. 前置：此前母版大纲的形成流程",
+        "## 3. 用户第一步：最高体验上限与重要情节保障",
+        "## 4. 用户第二步：逐线与合流时间／因果基线",
+        "## 5. 用户第三步：事件与游戏世界事实关联",
+        "## 6. 用户第四步：推理章程（职责待确认）",
+        "## 7. 用户第五步：地图、细节、场景与线索分布联合施工",
+        "## 8. 保留的后三步",
+        "## 9. 需要贯穿而非新增冗长阶段的工作"
+      ],
+      "final_sha256": "91fe639e02d9436e0210f1f96c5f683e332137257951923850b5c244717912c8",
+      "disposition": "历史追溯；当前定义转维护正文",
+      "targets": [
+        "audit/source-map.md",
+        "references/workflow.md"
+      ],
+      "final_headings": [
+        "# COC完整开发流程：讨论稿",
+        "## 1. 可行性与上一版流程比较",
+        "## 2. 前置：此前母版大纲的形成流程",
+        "## 3. 用户第一步：最高体验上限与重要情节保障",
+        "## 4. 用户第二步：逐线与合流时间／因果基线",
+        "## 5. 用户第三步：事件与游戏世界事实关联",
+        "## 6. 用户第四步：推理章程（职责待确认）",
+        "## 7. 用户第五步：地图、细节、场景与线索分布联合施工",
+        "## 8. 保留的后三步",
+        "## 9. 需要贯穿而非新增冗长阶段的工作"
+      ],
+      "chapter_disposition": [
+        {
+          "heading": "# COC完整开发流程：讨论稿",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 1. 可行性与上一版流程比较",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2. 前置：此前母版大纲的形成流程",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 3. 用户第一步：最高体验上限与重要情节保障",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 4. 用户第二步：逐线与合流时间／因果基线",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 5. 用户第三步：事件与游戏世界事实关联",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 6. 用户第四步：推理章程（职责待确认）",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 7. 用户第五步：地图、细节、场景与线索分布联合施工",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 8. 保留的后三步",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 9. 需要贯穿而非新增冗长阶段的工作",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/workflow.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        }
+      ]
+    },
+    {
+      "path": "README.md",
+      "initial_sha256": "d4ffe72cd04e86733972a9bf2ce42939040ff5996289ba8cef306ebb6d925f9c",
+      "initial_headings": [
+        "# 通用剧本开发方案",
+        "## 从哪里开始",
+        "## 完整工作流",
+        "## 专项能力怎样接入",
+        "## 当前文档与采用状态",
+        "## 评分与验收",
+        "## 维护与历史追溯"
+      ],
+      "final_sha256": "db319ced137d4d15aac07540bec7797199ec820eaba1a279635df5664e6716cd",
+      "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+      "targets": [
+        "README.md",
+        "ARCHITECTURE.md"
+      ],
+      "final_headings": [
+        "# 通用剧本开发方案",
+        "## 从哪里开始",
+        "## 完整工作流",
+        "## 专项能力怎样接入",
+        "## 当前文档与采用状态",
+        "## 评分与验收",
+        "## 维护与历史追溯"
+      ],
+      "chapter_disposition": [
+        {
+          "heading": "# 通用剧本开发方案",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "README.md",
+            "ARCHITECTURE.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 从哪里开始",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "README.md",
+            "ARCHITECTURE.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 完整工作流",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "README.md",
+            "ARCHITECTURE.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 专项能力怎样接入",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "README.md",
+            "ARCHITECTURE.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 当前文档与采用状态",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "README.md",
+            "ARCHITECTURE.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 评分与验收",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "README.md",
+            "ARCHITECTURE.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 维护与历史追溯",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "README.md",
+            "ARCHITECTURE.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        }
+      ]
+    },
+    {
+      "path": "主题倾向与线索痕迹呈现-待合入要求.md",
+      "initial_sha256": "d82bbf4d998d683b892951f5836a8f339ce6f64ece00faf3c3942636a90c72f1",
+      "initial_headings": [
+        "# 主题倾向与线索、痕迹呈现：后续通用方案合入要求",
+        "## 已明确的要求",
+        "## 后续通用方案的合入方向",
+        "## 当前状态",
+        "## 本次P4审查包的执行范围"
+      ],
+      "final_sha256": "708fc2679217aa7beb005966d49131293b495cce50ec752527e2ab31e96ca3ea",
+      "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+      "targets": [
+        "references/theme-presentation.md"
+      ],
+      "final_headings": [
+        "# 主题倾向与线索、痕迹呈现：后续通用方案合入要求",
+        "## 已明确的要求",
+        "## 后续通用方案的合入方向",
+        "## 当前状态",
+        "## 本次P4审查包的执行范围",
+        "## 后续落位（2026-10-10）"
+      ],
+      "chapter_disposition": [
+        {
+          "heading": "# 主题倾向与线索、痕迹呈现：后续通用方案合入要求",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/theme-presentation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 已明确的要求",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/theme-presentation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 后续通用方案的合入方向",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/theme-presentation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 当前状态",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/theme-presentation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 本次P4审查包的执行范围",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/theme-presentation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 后续落位（2026-10-10）",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/theme-presentation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        }
+      ]
+    },
+    {
+      "path": "人集市学习_通用开发流程优化补充修改方案.md",
+      "initial_sha256": "3c1e9202d280c2360978f279c0caf6d870c3847168a4251459a24734c4866729",
+      "initial_headings": [
+        "# 人集市学习 通用开发流程优化补充修改方案",
+        "## 修改目标与总体判断",
+        "## 现有覆盖与建议增量",
+        "## 具体修改条文",
+        "### M1 按剧本类型确定前期开放程度（已讨论定稿）",
+        "### M2 人物行动模式与空间呈现（已讨论固化）",
+        "### M3 人物认知域与人际关系（已讨论固化）",
+        "### M4 盟友支持与玩家任务（已讨论定稿）",
+        "### M5 事件节点组织与KP推动要求（已讨论固化）",
+        "### M6 背景特色与玩家体验的结合（已讨论固化）",
+        "### M7 能力依赖与破局成果（已讨论固化）",
+        "### M8 KP使用手册编制（已讨论固化）",
+        "## 合并产物与施工顺序",
+        "## 测试补充",
+        "## 配套文件修改与版本安排",
+        "## 委员会结论与采纳状态",
+        "## 2026-10-06正式并入与当前维护入口"
+      ],
+      "final_sha256": "3c1e9202d280c2360978f279c0caf6d870c3847168a4251459a24734c4866729",
+      "disposition": "历史追溯；当前定义转维护正文",
+      "targets": [
+        "audit/source-map.md",
+        "references/interactive.md",
+        "references/contracts.md",
+        "references/coc.md"
+      ],
+      "final_headings": [
+        "# 人集市学习 通用开发流程优化补充修改方案",
+        "## 修改目标与总体判断",
+        "## 现有覆盖与建议增量",
+        "## 具体修改条文",
+        "### M1 按剧本类型确定前期开放程度（已讨论定稿）",
+        "### M2 人物行动模式与空间呈现（已讨论固化）",
+        "### M3 人物认知域与人际关系（已讨论固化）",
+        "### M4 盟友支持与玩家任务（已讨论定稿）",
+        "### M5 事件节点组织与KP推动要求（已讨论固化）",
+        "### M6 背景特色与玩家体验的结合（已讨论固化）",
+        "### M7 能力依赖与破局成果（已讨论固化）",
+        "### M8 KP使用手册编制（已讨论固化）",
+        "## 合并产物与施工顺序",
+        "## 测试补充",
+        "## 配套文件修改与版本安排",
+        "## 委员会结论与采纳状态",
+        "## 2026-10-06正式并入与当前维护入口"
+      ],
+      "chapter_disposition": [
+        {
+          "heading": "# 人集市学习 通用开发流程优化补充修改方案",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 修改目标与总体判断",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 现有覆盖与建议增量",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 具体修改条文",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### M1 按剧本类型确定前期开放程度（已讨论定稿）",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### M2 人物行动模式与空间呈现（已讨论固化）",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### M3 人物认知域与人际关系（已讨论固化）",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### M4 盟友支持与玩家任务（已讨论定稿）",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### M5 事件节点组织与KP推动要求（已讨论固化）",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### M6 背景特色与玩家体验的结合（已讨论固化）",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### M7 能力依赖与破局成果（已讨论固化）",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### M8 KP使用手册编制（已讨论固化）",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 合并产物与施工顺序",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 测试补充",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 配套文件修改与版本安排",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 委员会结论与采纳状态",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2026-10-06正式并入与当前维护入口",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/source-map.md",
+            "references/interactive.md",
+            "references/contracts.md",
+            "references/coc.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        }
+      ]
+    },
+    {
+      "path": "多线交织与支线作用通用方案.md",
+      "initial_sha256": "ed1d9c51d4f4eafcf0b89b9637c92e3d7d5796292358c7088c7ac2a4efc2124e",
+      "initial_headings": [
+        "# 多线交织与支线作用通用方案（扩充提案）",
+        "## 一、这次补什么",
+        "## 二、扩充功能：从结果标签到影响机制",
+        "## 三、交织单元：写关系，不只写人物卡",
+        "## 四、结构不是九条直线",
+        "## 五、检验与接受批评",
+        "## 六、D-9这轮应用的固定骨架"
+      ],
+      "final_sha256": "ed1d9c51d4f4eafcf0b89b9637c92e3d7d5796292358c7088c7ac2a4efc2124e",
+      "disposition": "可选研究综合；保留待实测，项目配置隔离",
+      "targets": [
+        "references/narrative.md",
+        "references/interactive.md",
+        "audit/source-map.md"
+      ],
+      "final_headings": [
+        "# 多线交织与支线作用通用方案（扩充提案）",
+        "## 一、这次补什么",
+        "## 二、扩充功能：从结果标签到影响机制",
+        "## 三、交织单元：写关系，不只写人物卡",
+        "## 四、结构不是九条直线",
+        "## 五、检验与接受批评",
+        "## 六、D-9这轮应用的固定骨架"
+      ],
+      "chapter_disposition": [
+        {
+          "heading": "# 多线交织与支线作用通用方案（扩充提案）",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "references/interactive.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 一、这次补什么",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "references/interactive.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 二、扩充功能：从结果标签到影响机制",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "references/interactive.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 三、交织单元：写关系，不只写人物卡",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "references/interactive.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 四、结构不是九条直线",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "references/interactive.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 五、检验与接受批评",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "references/interactive.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 六、D-9这轮应用的固定骨架",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "references/interactive.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        }
+      ]
+    },
+    {
+      "path": "推理目标与线索分布设计通用能力.md",
+      "initial_sha256": "bf0dca0963574a5e5ec3d364b6bb0306663b6dfe3ee6589cca209a970ae66d64",
+      "initial_headings": [
+        "# 推理目标与线索分布设计通用能力",
+        "## 1. 已有理论能支持到哪里",
+        "### 1.1 五部分是否足以构成整个基础",
+        "### 1.2 迁移、融合、游戏特化与需求扩展分别在哪里",
+        "## 2. 基本对象与关系",
+        "### 2.1 玩家前置知识与推论规则的可用性",
+        "## 3. 第一部分：从剧情需求构建推理目标",
+        "### 3.1 先确定事件需要带来什么",
+        "### 3.2 决定哪些目标合并，哪些拆开",
+        "### 3.3 为每个目标登记完成标准",
+        "### 3.4 建立目标组合与剧情接口",
+        "## 4. 第二部分：事件与单目标的两层认知进程",
+        "### 4.1 事件整体进程",
+        "### 4.2 单个推理目标进程",
+        "### 4.3 分开实际相信与证据支持",
+        "## 5. 第三部分：线索的多轴定义与设计",
+        "### 5.1 来源距离、真实性、可靠性与证明力分别定义",
+        "### 5.2 欺骗与误导的发生层",
+        "### 5.3 功能标签、重要性与难度分开",
+        "### 5.4 移动性与剧情、人物限制",
+        "## 6. 第四部分：设计玩家亲手推理的满足感",
+        "### 6.1 推理方法作为路径工具",
+        "### 6.2 可设计的满足感模式",
+        "## 7. 第五部分：单目标阶段×线索×提供方式",
+        "## 8. 线索分布的可操作工作流",
+        "### 8.0 调用与交付合同",
+        "### 8.1 主动调查、呈现与停滞的运行循环",
+        "### 8.2 人物自主、消息与取消接口",
+        "## 9. 最小制作模板",
+        "### A. 事件与目标卡",
+        "### B. 线索卡",
+        "### C. 运行与投放表",
+        "### D. 轻量事件整合卡",
+        "### E. 上游运行接口核对",
+        "### F. 三类边与产物映射",
+        "### G. 验收与返修记录",
+        "## 10. 完整有限事件试填：原稿在哪里，谁还可以搬它",
+        "### 10.1 输入事实、范围和人物",
+        "### 10.2 目标与证明",
+        "### 10.3 线索卡实际填值",
+        "### 10.4 阶段、查法和运行反馈",
+        "### 10.5 整合、合法结束与验收",
+        "## 11. 审核与反例",
+        "## 12. 与开发流程的关系"
+      ],
+      "final_sha256": "bf0dca0963574a5e5ec3d364b6bb0306663b6dfe3ee6589cca209a970ae66d64",
+      "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+      "targets": [
+        "references/inference-design.md",
+        "audit/inference/02-reference-coverage.json"
+      ],
+      "final_headings": [
+        "# 推理目标与线索分布设计通用能力",
+        "## 1. 已有理论能支持到哪里",
+        "### 1.1 五部分是否足以构成整个基础",
+        "### 1.2 迁移、融合、游戏特化与需求扩展分别在哪里",
+        "## 2. 基本对象与关系",
+        "### 2.1 玩家前置知识与推论规则的可用性",
+        "## 3. 第一部分：从剧情需求构建推理目标",
+        "### 3.1 先确定事件需要带来什么",
+        "### 3.2 决定哪些目标合并，哪些拆开",
+        "### 3.3 为每个目标登记完成标准",
+        "### 3.4 建立目标组合与剧情接口",
+        "## 4. 第二部分：事件与单目标的两层认知进程",
+        "### 4.1 事件整体进程",
+        "### 4.2 单个推理目标进程",
+        "### 4.3 分开实际相信与证据支持",
+        "## 5. 第三部分：线索的多轴定义与设计",
+        "### 5.1 来源距离、真实性、可靠性与证明力分别定义",
+        "### 5.2 欺骗与误导的发生层",
+        "### 5.3 功能标签、重要性与难度分开",
+        "### 5.4 移动性与剧情、人物限制",
+        "## 6. 第四部分：设计玩家亲手推理的满足感",
+        "### 6.1 推理方法作为路径工具",
+        "### 6.2 可设计的满足感模式",
+        "## 7. 第五部分：单目标阶段×线索×提供方式",
+        "## 8. 线索分布的可操作工作流",
+        "### 8.0 调用与交付合同",
+        "### 8.1 主动调查、呈现与停滞的运行循环",
+        "### 8.2 人物自主、消息与取消接口",
+        "## 9. 最小制作模板",
+        "### A. 事件与目标卡",
+        "### B. 线索卡",
+        "### C. 运行与投放表",
+        "### D. 轻量事件整合卡",
+        "### E. 上游运行接口核对",
+        "### F. 三类边与产物映射",
+        "### G. 验收与返修记录",
+        "## 10. 完整有限事件试填：原稿在哪里，谁还可以搬它",
+        "### 10.1 输入事实、范围和人物",
+        "### 10.2 目标与证明",
+        "### 10.3 线索卡实际填值",
+        "### 10.4 阶段、查法和运行反馈",
+        "### 10.5 整合、合法结束与验收",
+        "## 11. 审核与反例",
+        "## 12. 与开发流程的关系"
+      ],
+      "chapter_disposition": [
+        {
+          "heading": "# 推理目标与线索分布设计通用能力",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 1. 已有理论能支持到哪里",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 1.1 五部分是否足以构成整个基础",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 1.2 迁移、融合、游戏特化与需求扩展分别在哪里",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2. 基本对象与关系",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 2.1 玩家前置知识与推论规则的可用性",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 3. 第一部分：从剧情需求构建推理目标",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.1 先确定事件需要带来什么",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.2 决定哪些目标合并，哪些拆开",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.3 为每个目标登记完成标准",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.4 建立目标组合与剧情接口",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 4. 第二部分：事件与单目标的两层认知进程",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 4.1 事件整体进程",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 4.2 单个推理目标进程",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 4.3 分开实际相信与证据支持",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 5. 第三部分：线索的多轴定义与设计",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 5.1 来源距离、真实性、可靠性与证明力分别定义",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 5.2 欺骗与误导的发生层",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 5.3 功能标签、重要性与难度分开",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 5.4 移动性与剧情、人物限制",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 6. 第四部分：设计玩家亲手推理的满足感",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 6.1 推理方法作为路径工具",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 6.2 可设计的满足感模式",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 7. 第五部分：单目标阶段×线索×提供方式",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 8. 线索分布的可操作工作流",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 8.0 调用与交付合同",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 8.1 主动调查、呈现与停滞的运行循环",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 8.2 人物自主、消息与取消接口",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 9. 最小制作模板",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### A. 事件与目标卡",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### B. 线索卡",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### C. 运行与投放表",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### D. 轻量事件整合卡",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### E. 上游运行接口核对",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### F. 三类边与产物映射",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### G. 验收与返修记录",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 10. 完整有限事件试填：原稿在哪里，谁还可以搬它",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 10.1 输入事实、范围和人物",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 10.2 目标与证明",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 10.3 线索卡实际填值",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 10.4 阶段、查法和运行反馈",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 10.5 整合、合法结束与验收",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 11. 审核与反例",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 12. 与开发流程的关系",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/inference-design.md",
+            "audit/inference/02-reference-coverage.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        }
+      ]
+    },
+    {
+      "path": "支线意义与主线回收通用规范.md",
+      "initial_sha256": "e6f3f89dfa12ea36a1bda92102588e00d16ca0a98cec1e3cf5d26ec6a6b3017a",
+      "initial_headings": [
+        "# 支线意义与主线回收通用规范（研究综合提案）",
+        "## 依据与适用边界",
+        "## 一、先辨别是什么",
+        "## 二、一条主功能，至多两条辅功能",
+        "## 三、接口链",
+        "## 四、重要性与复杂度分开",
+        "## 五、审核",
+        "## 六、修改护栏"
+      ],
+      "final_sha256": "e6f3f89dfa12ea36a1bda92102588e00d16ca0a98cec1e3cf5d26ec6a6b3017a",
+      "disposition": "可选研究综合；保留待实测，项目配置隔离",
+      "targets": [
+        "references/narrative.md",
+        "audit/source-map.md"
+      ],
+      "final_headings": [
+        "# 支线意义与主线回收通用规范（研究综合提案）",
+        "## 依据与适用边界",
+        "## 一、先辨别是什么",
+        "## 二、一条主功能，至多两条辅功能",
+        "## 三、接口链",
+        "## 四、重要性与复杂度分开",
+        "## 五、审核",
+        "## 六、修改护栏"
+      ],
+      "chapter_disposition": [
+        {
+          "heading": "# 支线意义与主线回收通用规范（研究综合提案）",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 依据与适用边界",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 一、先辨别是什么",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 二、一条主功能，至多两条辅功能",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 三、接口链",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 四、重要性与复杂度分开",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 五、审核",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 六、修改护栏",
+          "disposition": "可选研究综合；保留待实测，项目配置隔离",
+          "targets": [
+            "references/narrative.md",
+            "audit/source-map.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        }
+      ]
+    },
+    {
+      "path": "支线需求与推理行动交织通用能力.md",
+      "initial_sha256": "1716fe6cc38463075c105974ae078ef4a8c7c2a7e93593f9e402bc6c8308f576",
+      "initial_headings": [
+        "# 支线需求与推理行动交织：通用能力文档",
+        "## 1. 使用范围与输入",
+        "## 2. 从需求开始，不从数量或功能标签开始",
+        "## 3. 先成立故事，再建立联系",
+        "## 4. 七类主支线／支线间关系",
+        "### 推理侧",
+        "### 行动侧",
+        "## 5. 将联系落实为游玩",
+        "## 6. 检查可玩性与叙事回收",
+        "## 7. 输出与审核流程",
+        "## 8. 简短示例：从人物需求进入互动",
+        "## 9. 研究基础与项目配置",
+        "## 10. 故事成立与发现后的推进（2026-10-02工作补充）"
+      ],
+      "final_sha256": "1716fe6cc38463075c105974ae078ef4a8c7c2a7e93593f9e402bc6c8308f576",
+      "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+      "targets": [
+        "references/narrative.md",
+        "references/investigation.md"
+      ],
+      "final_headings": [
+        "# 支线需求与推理行动交织：通用能力文档",
+        "## 1. 使用范围与输入",
+        "## 2. 从需求开始，不从数量或功能标签开始",
+        "## 3. 先成立故事，再建立联系",
+        "## 4. 七类主支线／支线间关系",
+        "### 推理侧",
+        "### 行动侧",
+        "## 5. 将联系落实为游玩",
+        "## 6. 检查可玩性与叙事回收",
+        "## 7. 输出与审核流程",
+        "## 8. 简短示例：从人物需求进入互动",
+        "## 9. 研究基础与项目配置",
+        "## 10. 故事成立与发现后的推进（2026-10-02工作补充）"
+      ],
+      "chapter_disposition": [
+        {
+          "heading": "# 支线需求与推理行动交织：通用能力文档",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/narrative.md",
+            "references/investigation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 1. 使用范围与输入",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/narrative.md",
+            "references/investigation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2. 从需求开始，不从数量或功能标签开始",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/narrative.md",
+            "references/investigation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 3. 先成立故事，再建立联系",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/narrative.md",
+            "references/investigation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 4. 七类主支线／支线间关系",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/narrative.md",
+            "references/investigation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 推理侧",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/narrative.md",
+            "references/investigation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 行动侧",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/narrative.md",
+            "references/investigation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 5. 将联系落实为游玩",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/narrative.md",
+            "references/investigation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 6. 检查可玩性与叙事回收",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/narrative.md",
+            "references/investigation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 7. 输出与审核流程",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/narrative.md",
+            "references/investigation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 8. 简短示例：从人物需求进入互动",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/narrative.md",
+            "references/investigation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 9. 研究基础与项目配置",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/narrative.md",
+            "references/investigation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 10. 故事成立与发现后的推进（2026-10-02工作补充）",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/narrative.md",
+            "references/investigation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        }
+      ]
+    },
+    {
+      "path": "游玩时间与节奏评估通用能力.md",
+      "initial_sha256": "7d40caceae3e4150a3041c8844e038464305064cf89f97e1edf1e05a91e63483",
+      "initial_headings": [
+        "# 游玩时间与节奏评估通用能力",
+        "## 1. 方案解决什么",
+        "## 2. 通用核心与适配层",
+        "## 3. 开始评估前填写项目配置",
+        "## 4. 时间衡量：三套时间，不相互偷换",
+        "### 4.1 三个时钟",
+        "### 4.2 活动包估算",
+        "### 4.3 合成与并发",
+        "### 4.4 时间范围与校准",
+        "## 5. 体验方向：发生了什么，与质量怎样分别记录",
+        "## 6. 实时体验、积累与延迟释放",
+        "### 6.1 内容按来源存储",
+        "### 6.2 更新规则",
+        "### 6.3 跨段归属",
+        "## 7. 活动丰富度、连续同类与疲劳",
+        "### 7.1 分开三件事",
+        "### 7.2 四类疲劳与单调指标",
+        "### 7.3 同类持续与单调",
+        "## 8. 阶段目的决定评分模式",
+        "## 9. 当下有效游玩分与疲劳分",
+        "## 10. 完整折线图的总分：收益、目的、承接与转换",
+        "### 10.1 四个全程构成",
+        "### 10.2 全程损失，按程度与时长累计",
+        "## 11. 三类路线与不确定性",
+        "## 12. 输出图与评分报告",
+        "## 13. 最小执行流程",
+        "## 14. 内置工作表",
+        "### 14.A. 对象与用户",
+        "### 14.B. 阶段目的",
+        "### 14.C. 活动与时间",
+        "### 14.D. 首轮诊断",
+        "### 14.E. 内容积累与后效",
+        "### 14.F. 分段体验与状态",
+        "### 14.G. 完整模式配置与总评",
+        "### 14.H. 一页结果与复核",
+        "## 15. 来源吸收、委员会与验证状态",
+        "## 16. 内置展示与交付规范",
+        "### 16.1. 使用目标",
+        "### 16.2. 默认一页结论",
+        "### 16.3. 标准分析层",
+        "### 16.4. 专家层",
+        "### 16.5. 首次使用流程",
+        "### 16.6. 状态与文案规则",
+        "### 16.7. 展示验收",
+        "## 17. 集中参数注册与配置管理",
+        "### 17.1 参数命名与保存",
+        "### 17.2 配置变更与比较",
+        "## 18. 独立能力调用与完成合同",
+        "### 18.1 何时调用",
+        "### 18.2 两种使用深度",
+        "### 18.3 六类统一交付",
+        "### 18.4 模块协作与边界",
+        "### 18.5 验证与维护责任"
+      ],
+      "final_sha256": "7d40caceae3e4150a3041c8844e038464305064cf89f97e1edf1e05a91e63483",
+      "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+      "targets": [
+        "references/play-evaluation.md",
+        "audit/r4-export-map.json"
+      ],
+      "final_headings": [
+        "# 游玩时间与节奏评估通用能力",
+        "## 1. 方案解决什么",
+        "## 2. 通用核心与适配层",
+        "## 3. 开始评估前填写项目配置",
+        "## 4. 时间衡量：三套时间，不相互偷换",
+        "### 4.1 三个时钟",
+        "### 4.2 活动包估算",
+        "### 4.3 合成与并发",
+        "### 4.4 时间范围与校准",
+        "## 5. 体验方向：发生了什么，与质量怎样分别记录",
+        "## 6. 实时体验、积累与延迟释放",
+        "### 6.1 内容按来源存储",
+        "### 6.2 更新规则",
+        "### 6.3 跨段归属",
+        "## 7. 活动丰富度、连续同类与疲劳",
+        "### 7.1 分开三件事",
+        "### 7.2 四类疲劳与单调指标",
+        "### 7.3 同类持续与单调",
+        "## 8. 阶段目的决定评分模式",
+        "## 9. 当下有效游玩分与疲劳分",
+        "## 10. 完整折线图的总分：收益、目的、承接与转换",
+        "### 10.1 四个全程构成",
+        "### 10.2 全程损失，按程度与时长累计",
+        "## 11. 三类路线与不确定性",
+        "## 12. 输出图与评分报告",
+        "## 13. 最小执行流程",
+        "## 14. 内置工作表",
+        "### 14.A. 对象与用户",
+        "### 14.B. 阶段目的",
+        "### 14.C. 活动与时间",
+        "### 14.D. 首轮诊断",
+        "### 14.E. 内容积累与后效",
+        "### 14.F. 分段体验与状态",
+        "### 14.G. 完整模式配置与总评",
+        "### 14.H. 一页结果与复核",
+        "## 15. 来源吸收、委员会与验证状态",
+        "## 16. 内置展示与交付规范",
+        "### 16.1. 使用目标",
+        "### 16.2. 默认一页结论",
+        "### 16.3. 标准分析层",
+        "### 16.4. 专家层",
+        "### 16.5. 首次使用流程",
+        "### 16.6. 状态与文案规则",
+        "### 16.7. 展示验收",
+        "## 17. 集中参数注册与配置管理",
+        "### 17.1 参数命名与保存",
+        "### 17.2 配置变更与比较",
+        "## 18. 独立能力调用与完成合同",
+        "### 18.1 何时调用",
+        "### 18.2 两种使用深度",
+        "### 18.3 六类统一交付",
+        "### 18.4 模块协作与边界",
+        "### 18.5 验证与维护责任"
+      ],
+      "chapter_disposition": [
+        {
+          "heading": "# 游玩时间与节奏评估通用能力",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 1. 方案解决什么",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2. 通用核心与适配层",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 3. 开始评估前填写项目配置",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 4. 时间衡量：三套时间，不相互偷换",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 4.1 三个时钟",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 4.2 活动包估算",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 4.3 合成与并发",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 4.4 时间范围与校准",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 5. 体验方向：发生了什么，与质量怎样分别记录",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 6. 实时体验、积累与延迟释放",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 6.1 内容按来源存储",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 6.2 更新规则",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 6.3 跨段归属",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 7. 活动丰富度、连续同类与疲劳",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 7.1 分开三件事",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 7.2 四类疲劳与单调指标",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 7.3 同类持续与单调",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 8. 阶段目的决定评分模式",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 9. 当下有效游玩分与疲劳分",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 10. 完整折线图的总分：收益、目的、承接与转换",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 10.1 四个全程构成",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 10.2 全程损失，按程度与时长累计",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 11. 三类路线与不确定性",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 12. 输出图与评分报告",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 13. 最小执行流程",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 14. 内置工作表",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 14.A. 对象与用户",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 14.B. 阶段目的",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 14.C. 活动与时间",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 14.D. 首轮诊断",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 14.E. 内容积累与后效",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 14.F. 分段体验与状态",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 14.G. 完整模式配置与总评",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 14.H. 一页结果与复核",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 15. 来源吸收、委员会与验证状态",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 16. 内置展示与交付规范",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 16.1. 使用目标",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 16.2. 默认一页结论",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 16.3. 标准分析层",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 16.4. 专家层",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 16.5. 首次使用流程",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 16.6. 状态与文案规则",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 16.7. 展示验收",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 17. 集中参数注册与配置管理",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 17.1 参数命名与保存",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 17.2 配置变更与比较",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 18. 独立能力调用与完成合同",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 18.1 何时调用",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 18.2 两种使用深度",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 18.3 六类统一交付",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 18.4 模块协作与边界",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 18.5 验证与维护责任",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/play-evaluation.md",
+            "audit/r4-export-map.json"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        }
+      ]
+    },
+    {
+      "path": "调查悬疑类COC剧本通用设计与审核框架.md",
+      "initial_sha256": "ea349364cf8da9dfd2bcd13b0452acc6687cfd5b5d8c9ab1220edc92a5a96015",
+      "initial_headings": [
+        "# 调查／悬疑类 COC 剧本通用设计与审核框架",
+        "## 使用前：阶段与评价口径（2026-10-02补充）",
+        "## 一、先确定玩家体验，而不是先堆设定",
+        "## 二、四层分离",
+        "### 2.1 故事层",
+        "### 2.2 推理层",
+        "### 2.3 异常层",
+        "### 2.4 恐怖呈现层",
+        "## 三、十二项一级评价指标",
+        "### 3.1 故事与主题内核",
+        "### 3.2 背景特色、历史与生活可信度",
+        "### 3.3 人物主体性与关系网络",
+        "### 3.4 推理公平性与误区设计",
+        "### 3.5 反转、交集与爆点质量",
+        "### 3.6 生存压力与不可逆威胁",
+        "### 3.7 建筑探索与恐怖呈现",
+        "### 3.8 玩家主体性与操作自由",
+        "### 3.9 机制简洁度与剧情融合",
+        "### 3.10 节奏、高潮与信息负担",
+        "### 3.11 结局代价与情感余韵",
+        "### 3.12 KP可主持性与制作扩展性",
+        "## 四、总—分—总—分结构",
+        "### 第一总：共同危机",
+        "### 第一分：局部故事",
+        "### 第二总：连续交集",
+        "### 最后分：当下选择",
+        "## 五、生存—探索—讨论—抉择闭环",
+        "## 六、线索与推理设计",
+        "### 6.1 线索分层",
+        "### 6.2 最低充分集",
+        "### 6.3 文件使用限制",
+        "## 七、人物设计",
+        "### 合作场景的任务分工与玩家作用",
+        "## 八、威胁与不可逆事件",
+        "## 九、玩家自由与结局伦理",
+        "## 十、双玩家、战斗、伤势与SAN",
+        "## 十一、生产资产",
+        "## 十二、委员会与盲测闸门",
+        "### 12.1 席位",
+        "### 12.2 问题等级",
+        "### 12.3 盲测",
+        "## 十三、最终自检"
+      ],
+      "final_sha256": "10edf74b65ff7d38ecbc487822c19bcbeb6899863d43b8fe83916f07c6108bf7",
+      "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+      "targets": [
+        "references/review.md",
+        "references/contracts.md",
+        "references/interactive.md"
+      ],
+      "final_headings": [
+        "# 调查／悬疑类 COC 剧本通用设计与审核框架",
+        "## 使用前：阶段与评价口径（2026-10-02补充）",
+        "## 一、先确定玩家体验，而不是先堆设定",
+        "## 二、四层分离",
+        "### 2.1 故事层",
+        "### 2.2 推理层",
+        "### 2.3 异常层",
+        "### 2.4 恐怖呈现层",
+        "## 三、十二项一级评价指标",
+        "### 3.1 故事与主题内核",
+        "### 3.2 背景特色、历史与生活可信度",
+        "### 3.3 人物主体性与关系网络",
+        "### 3.4 推理公平性与误区设计",
+        "### 3.5 反转、交集与爆点质量",
+        "### 3.6 生存压力与不可逆威胁",
+        "### 3.7 建筑探索与恐怖呈现",
+        "### 3.8 玩家主体性与操作自由",
+        "### 3.9 机制简洁度与剧情融合",
+        "### 3.10 节奏、高潮与信息负担",
+        "### 3.11 结局代价与情感余韵",
+        "### 3.12 KP可主持性与制作扩展性",
+        "## 四、总—分—总—分结构",
+        "### 第一总：共同危机",
+        "### 第一分：局部故事",
+        "### 第二总：连续交集",
+        "### 最后分：当下选择",
+        "## 五、生存—探索—讨论—抉择闭环",
+        "## 六、线索与推理设计",
+        "### 6.1 线索分层",
+        "### 6.2 最低充分集",
+        "### 6.3 文件使用限制",
+        "## 七、人物设计",
+        "### 合作场景的任务分工与玩家作用",
+        "## 八、威胁与不可逆事件",
+        "## 九、玩家自由与结局伦理",
+        "## 十、双玩家、战斗、伤势与SAN",
+        "## 十一、生产资产",
+        "## 十二、委员会与盲测闸门",
+        "### 12.1 席位",
+        "### 12.2 问题等级",
+        "### 12.3 盲测",
+        "## 十三、最终自检"
+      ],
+      "chapter_disposition": [
+        {
+          "heading": "# 调查／悬疑类 COC 剧本通用设计与审核框架",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 使用前：阶段与评价口径（2026-10-02补充）",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 一、先确定玩家体验，而不是先堆设定",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 二、四层分离",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 2.1 故事层",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 2.2 推理层",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 2.3 异常层",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 2.4 恐怖呈现层",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 三、十二项一级评价指标",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.1 故事与主题内核",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.2 背景特色、历史与生活可信度",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.3 人物主体性与关系网络",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.4 推理公平性与误区设计",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.5 反转、交集与爆点质量",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.6 生存压力与不可逆威胁",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.7 建筑探索与恐怖呈现",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.8 玩家主体性与操作自由",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.9 机制简洁度与剧情融合",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.10 节奏、高潮与信息负担",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.11 结局代价与情感余韵",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3.12 KP可主持性与制作扩展性",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 四、总—分—总—分结构",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 第一总：共同危机",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 第一分：局部故事",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 第二总：连续交集",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 最后分：当下选择",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 五、生存—探索—讨论—抉择闭环",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 六、线索与推理设计",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 6.1 线索分层",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 6.2 最低充分集",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 6.3 文件使用限制",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 七、人物设计",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 合作场景的任务分工与玩家作用",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 八、威胁与不可逆事件",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 九、玩家自由与结局伦理",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 十、双玩家、战斗、伤势与SAN",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 十一、生产资产",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 十二、委员会与盲测闸门",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 12.1 席位",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 12.2 问题等级",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 12.3 盲测",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 十三、最终自检",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/review.md",
+            "references/contracts.md",
+            "references/interactive.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        }
+      ]
+    },
+    {
+      "path": "通用开发备忘录.md",
+      "initial_sha256": "19096c4de8705fd15bbd8f8825dbdf4c9adeb3a22d614c1bcbc5e99ef14d07e4",
+      "initial_headings": [
+        "# 通用开发备忘录",
+        "## 2026-10-08：百分制与小数评分",
+        "## 2026-10-08：后续统一设计的正式采用通知",
+        "## 2026-10-08：节奏评估成为内属独立能力",
+        "## 2026-10-08：游玩时间与节奏评估正式并入",
+        "## 2026-10-06：人集市学习后已确认方法的正式归并",
+        "### 1. 按剧本类型确定前期开放程度",
+        "### 2. 通用人物五部分模型与空间呈现",
+        "### 2.1 认知域、人际关系与更新",
+        "### 3. 统一事件节点与KP推动要求",
+        "### 4. 关键机制依赖与破局成果",
+        "### 5. 剧本完善后的KP使用手册编制",
+        "## 2026-10-02：会话工作习惯与内容要求的归并",
+        "### 已归属的内容",
+        "### 暂存：长期项目协作与授权",
+        "### 暂存：多轮批评、发散与收束",
+        "### 个人配置与项目事实：暂不提升为普遍规则",
+        "### 二次整理的方向与条件",
+        "## 2026-09-28：主题、作用与支线性质共同确定",
+        "## 2026-09-27：已整理的支线能力",
+        "## 2026-09-26：体验性行动优先，禁止行政流程剧情",
+        "## 2026-09-26：从人物因果进入场景",
+        "## 人物修订补记",
+        "## 支线方法研究补记（2026-09-26，提案待验证）",
+        "## 多线交织补记（同日，研究提案）"
+      ],
+      "final_sha256": "cabde434b4c215ae10bb9bc98f47d05f88e9965109fb75243f16c59c4430e8dd",
+      "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+      "targets": [
+        "references/maintenance.md",
+        "references/interactive.md",
+        "references/coc.md",
+        "references/review.md"
+      ],
+      "final_headings": [
+        "# 通用开发备忘录",
+        "## 当前维护归属（2026-10-10整合）",
+        "## 2026-10-08：百分制与小数评分",
+        "## 2026-10-08：后续统一设计的正式采用通知",
+        "## 2026-10-08：节奏评估成为内属独立能力",
+        "## 2026-10-08：游玩时间与节奏评估正式并入",
+        "## 2026-10-06：人集市学习后已确认方法的正式归并",
+        "### 1. 按剧本类型确定前期开放程度",
+        "### 2. 通用人物五部分模型与空间呈现",
+        "### 2.1 认知域、人际关系与更新",
+        "### 3. 统一事件节点与KP推动要求",
+        "### 4. 关键机制依赖与破局成果",
+        "### 5. 剧本完善后的KP使用手册编制",
+        "## 2026-10-02：会话工作习惯与内容要求的归并",
+        "### 已归属的内容",
+        "### 暂存：长期项目协作与授权",
+        "### 暂存：多轮批评、发散与收束",
+        "### 个人配置与项目事实：暂不提升为普遍规则",
+        "### 二次整理的方向与条件",
+        "## 2026-09-28：主题、作用与支线性质共同确定",
+        "## 2026-09-27：已整理的支线能力",
+        "## 2026-09-26：体验性行动优先，禁止行政流程剧情",
+        "## 2026-09-26：从人物因果进入场景",
+        "## 人物修订补记",
+        "## 支线方法研究补记（2026-09-26，提案待验证）",
+        "## 多线交织补记（同日，研究提案）"
+      ],
+      "chapter_disposition": [
+        {
+          "heading": "# 通用开发备忘录",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 当前维护归属（2026-10-10整合）",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2026-10-08：百分制与小数评分",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2026-10-08：后续统一设计的正式采用通知",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2026-10-08：节奏评估成为内属独立能力",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2026-10-08：游玩时间与节奏评估正式并入",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2026-10-06：人集市学习后已确认方法的正式归并",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 1. 按剧本类型确定前期开放程度",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 2. 通用人物五部分模型与空间呈现",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 2.1 认知域、人际关系与更新",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 3. 统一事件节点与KP推动要求",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 4. 关键机制依赖与破局成果",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 5. 剧本完善后的KP使用手册编制",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2026-10-02：会话工作习惯与内容要求的归并",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 已归属的内容",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 暂存：长期项目协作与授权",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 暂存：多轮批评、发散与收束",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 个人配置与项目事实：暂不提升为普遍规则",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 二次整理的方向与条件",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2026-09-28：主题、作用与支线性质共同确定",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2026-09-27：已整理的支线能力",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2026-09-26：体验性行动优先，禁止行政流程剧情",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2026-09-26：从人物因果进入场景",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 人物修订补记",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 支线方法研究补记（2026-09-26，提案待验证）",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 多线交织补记（同日，研究提案）",
+          "disposition": "当前方法或要求已实际映射；资格另见本轮独立报告",
+          "targets": [
+            "references/maintenance.md",
+            "references/interactive.md",
+            "references/coc.md",
+            "references/review.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        }
+      ]
+    },
+    {
+      "path": "通用游玩时间与节奏评估方案.md",
+      "initial_sha256": "68c7e7867da0efe1418e3b051b47db7502e5c4525186579df73b3e9027c180ad",
+      "initial_headings": [
+        "# 通用游玩时间与节奏评估方案",
+        "## 1. 方案解决什么",
+        "## 2. 通用核心与适配层",
+        "## 3. 开始评估前填写项目配置",
+        "## 4. 时间衡量：三套时间，不相互偷换",
+        "### 4.1 三个时钟",
+        "### 4.2 活动包估算",
+        "### 4.3 合成与并发",
+        "### 4.4 时间范围与校准",
+        "## 5. 体验方向：发生了什么，与质量怎样分别记录",
+        "## 6. 实时体验、积累与延迟释放",
+        "### 6.1 内容按来源存储",
+        "### 6.2 更新规则",
+        "### 6.3 跨段归属",
+        "## 7. 活动丰富度、连续同类与疲劳",
+        "### 7.1 分开三件事",
+        "### 7.2 四类疲劳与单调指标",
+        "### 7.3 同类持续与单调",
+        "## 8. 阶段目的决定评分模式",
+        "## 9. 当下有效游玩分与疲劳分",
+        "## 10. 完整折线图的总分：收益、目的、承接与转换",
+        "### 10.1 四个全程构成",
+        "### 10.2 全程损失，按程度与时长累计",
+        "## 11. 三类路线与不确定性",
+        "## 12. 输出图与评分报告",
+        "## 13. 最小执行流程",
+        "## 14. 试填模板",
+        "## 15. 来源吸收、委员会与验证状态"
+      ],
+      "final_sha256": "68c7e7867da0efe1418e3b051b47db7502e5c4525186579df73b3e9027c180ad",
+      "disposition": "历史追溯；当前定义转维护正文",
+      "targets": [
+        "audit/r4-source-notes.md",
+        "references/play-evaluation.md"
+      ],
+      "final_headings": [
+        "# 通用游玩时间与节奏评估方案",
+        "## 1. 方案解决什么",
+        "## 2. 通用核心与适配层",
+        "## 3. 开始评估前填写项目配置",
+        "## 4. 时间衡量：三套时间，不相互偷换",
+        "### 4.1 三个时钟",
+        "### 4.2 活动包估算",
+        "### 4.3 合成与并发",
+        "### 4.4 时间范围与校准",
+        "## 5. 体验方向：发生了什么，与质量怎样分别记录",
+        "## 6. 实时体验、积累与延迟释放",
+        "### 6.1 内容按来源存储",
+        "### 6.2 更新规则",
+        "### 6.3 跨段归属",
+        "## 7. 活动丰富度、连续同类与疲劳",
+        "### 7.1 分开三件事",
+        "### 7.2 四类疲劳与单调指标",
+        "### 7.3 同类持续与单调",
+        "## 8. 阶段目的决定评分模式",
+        "## 9. 当下有效游玩分与疲劳分",
+        "## 10. 完整折线图的总分：收益、目的、承接与转换",
+        "### 10.1 四个全程构成",
+        "### 10.2 全程损失，按程度与时长累计",
+        "## 11. 三类路线与不确定性",
+        "## 12. 输出图与评分报告",
+        "## 13. 最小执行流程",
+        "## 14. 试填模板",
+        "## 15. 来源吸收、委员会与验证状态"
+      ],
+      "chapter_disposition": [
+        {
+          "heading": "# 通用游玩时间与节奏评估方案",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 1. 方案解决什么",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 2. 通用核心与适配层",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 3. 开始评估前填写项目配置",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 4. 时间衡量：三套时间，不相互偷换",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 4.1 三个时钟",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 4.2 活动包估算",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 4.3 合成与并发",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 4.4 时间范围与校准",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 5. 体验方向：发生了什么，与质量怎样分别记录",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 6. 实时体验、积累与延迟释放",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 6.1 内容按来源存储",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 6.2 更新规则",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 6.3 跨段归属",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 7. 活动丰富度、连续同类与疲劳",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 7.1 分开三件事",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 7.2 四类疲劳与单调指标",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 7.3 同类持续与单调",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 8. 阶段目的决定评分模式",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 9. 当下有效游玩分与疲劳分",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 10. 完整折线图的总分：收益、目的、承接与转换",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 10.1 四个全程构成",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "### 10.2 全程损失，按程度与时长累计",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 11. 三类路线与不确定性",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 12. 输出图与评分报告",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 13. 最小执行流程",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 14. 试填模板",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        },
+        {
+          "heading": "## 15. 来源吸收、委员会与验证状态",
+          "disposition": "历史追溯；当前定义转维护正文",
+          "targets": [
+            "audit/r4-source-notes.md",
+            "references/play-evaluation.md"
+          ],
+          "qualification": "标题登记不是语义完整证明；旧迁移参考audit/source-map，本轮增量及独立复验见20/21"
+        }
+      ]
+    }
+  ],
+  "new_documents": [
+    {
+      "path": "通用方案统筹与维护.md",
+      "sha256": "1d1bde9048b2d8bf6713d5c1854eb2c9b90ac9992adbd5eb211dc3a2198d36af",
+      "targets": [
+        "ARCHITECTURE.md",
+        "references/maintenance.md"
+      ]
+    },
+    {
+      "path": "主题与线索痕迹呈现通用规范.md",
+      "sha256": "ecc04464ae9b80449208bc0d5d802ed07774e1ce06ac0e1308a0bd5b3aec401a",
+      "targets": [
+        "references/theme-presentation.md"
+      ]
+    }
+  ],
+  "semantic_map": "audit/source-map-r4.md"
+}

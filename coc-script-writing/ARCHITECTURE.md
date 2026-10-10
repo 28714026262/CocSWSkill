@@ -1,6 +1,6 @@
 # 剧本撰写技能架构
 
-更新日期：2026-10-07。本页解释文件职责和维护方式，普通写作从[SKILL.md](SKILL.md)开始。当前验收范围见[台账](audit/acceptance.md)，建设过程见[审计导航](audit/README.md)。
+更新日期：2026-10-10。本轮在既有推理迁移基础上整合节奏、主题与当前源接口；历史建设资格保留原对象。本页解释文件职责和维护方式，普通写作从[SKILL.md](SKILL.md)开始。当前验收范围见[台账](audit/acceptance.md)，建设过程见[审计导航](audit/README.md)。
 
 ## 1. 目标与边界
 
@@ -136,3 +136,10 @@ coc-script-writing/
 ## 2026-10-10 推理设计增量
 
 新增[推理设计](references/inference-design.md)作为完整目标、认知、多轴线索、体验和投放模板的唯一详细归属；调查保留总览及七类联系，流程、字段、范围和验收按任务调用。当前十二份参考。来源清单、前／后试用及四席审核见[audit/inference](audit/inference/README.md)，旧九来源与协同扩展的历史记录不改写。
+
+
+## R4整合职责与同步
+
+推理详细定义在references/inference-design.md，保留技能参考1.1的实际角色取得／送达域修正，1.2仅接节奏及主题接口；七类联系仍在investigation。完整时间／体验／疲劳模型及工作表在references/play-evaluation.md；主题呈现在references/theme-presentation.md。其他领域只维护调用与自己职责，不复制另一套公式或状态定义。
+
+新增13源登记及后续增量见[audit/source-manifest-r4.json](audit/source-manifest-r4.json)，不覆盖旧九源清单。来源研究与原项目历史证据的封装边界见[audit/r4-source-notes.md](audit/r4-source-notes.md)。本轮实际实改与资格见[20记录](audit/20-integration-revision.md)，架构首审见[19报告](audit/19-integration-architecture-review.md)。同步前先保留独立仓库较新提交，再对齐源包，使用无需开发脚本。

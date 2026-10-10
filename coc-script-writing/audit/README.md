@@ -4,6 +4,8 @@
 
 本次推理目标与线索分布扩展见[inference](inference/README.md)，使用产物与四席复核绑定本轮技能对象；旧包验收不自动覆盖新增参考。
 
+本轮通用方案再整合与节奏／主题扩展见[20整合记录](20-integration-revision.md)、[21内容复验](21-integration-content-review.md)、[22实际使用](22-integration-use-output.md)、[23使用裁定](23-integration-use-review.md)及[R4来源清单](source-manifest-r4.json)，旧报告保留原对象。
+
 ## 先看当前状态
 
 [acceptance.md](acceptance.md)汇总各轮的对象、结论和限制。当前文本有后续修改时，以新一轮报告绑定的对象为准。早期报告中的“阻断”“待验收”和机器路径，反映当时状态；后来的通过不会改写旧记录。
