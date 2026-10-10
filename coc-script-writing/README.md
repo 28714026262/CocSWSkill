@@ -56,7 +56,7 @@ $skillTarget = Join-Path $skillRoot 'coc-script-writing'
 if (Test-Path -LiteralPath $skillTarget) { throw '目标技能已存在，请先比较版本并安排更新。' }
 New-Item -ItemType Directory -Path $skillRoot -Force | Out-Null
 New-Item -ItemType Directory -Path $skillTarget | Out-Null
-foreach ($item in 'SKILL.md', 'README.md', 'ARCHITECTURE.md', 'LICENSE.md', 'agents', 'references', 'audit') {
+foreach ($item in 'SKILL.md', 'README.md', 'ARCHITECTURE.md', 'LICENSE.md', 'agents', 'references', 'assets', 'audit') {
     Copy-Item -LiteralPath (Join-Path './coc-script-writing' $item) -Destination $skillTarget -Recurse
 }
 ```
@@ -129,6 +129,6 @@ coc-script-writing/
 
 简要流程：前置大纲→体验设计→逐线融合→世界事实→推理／事件章程→场景施工→规则工具→测试修订→编辑交付。局部任务按需调用，不必完整走一遍；完整阶段、验收和返修路径见[工作流总图](references/workflow.md#工作流总图)。
 
-## 授权：仅允许自用
+## 授权：CC BY-NC-ND 4.0
 
-有权授权的原创内容采用[个人非商业使用许可 v1.1](LICENSE.md)：可个人下载、私下修改、安装并用于自己的非商业创作与跑团准备。除法律例外、适用平台条款或另行书面授权外，商业使用、收费服务、重新发布或分发须另获许可。许可不垄断抽象方法，不取得独立创作产物的版权；商业项目调用本内容仍须另行授权。第三方材料沿用原权利，GitHub平台内查看与Fork遵循其服务条款。
+有权授权的原创内容采用[署名—非商业性使用—禁止演绎 4.0 国际许可](LICENSE.md)：允许非商业复制和分享原文，需按协议保留署名、来源及许可说明；允许非商业私下修改，不得分享改编版本，不授予商业使用权。原文可非商业转载，不再限定个人自用。第三方材料沿用原权利；抽象方法与未复制或改编本材料的独立创作产物不因此受相同许可约束。
