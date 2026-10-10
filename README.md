@@ -78,6 +78,7 @@ cd CocSWSkill
 |---|---|
 | 使用、安装与按目标查阅 | [使用指南](coc-script-writing/README.md) |
 | AI按任务调用入口 | [SKILL.md](coc-script-writing/SKILL.md) |
+| 前置＋八阶段、验收与返修路径 | [工作流总图](coc-script-writing/references/workflow.md#工作流总图) |
 | 推理目标、认知、线索与投放 | [推理设计](coc-script-writing/references/inference-design.md) |
 | 游玩时间、节奏、疲劳与展示 | [节奏评估](coc-script-writing/references/play-evaluation.md) |
 | 主题及线索／痕迹呈现 | [主题呈现](coc-script-writing/references/theme-presentation.md) |
@@ -86,9 +87,9 @@ cd CocSWSkill
 
 ## 授权：仅允许自用
 
-本仓库原创内容采用**个人自用许可**，不是开放源码许可。允许个人下载、私下修改、安装，以及用于自己的非商业写作和跑团准备。
+本仓库有权授权的原创内容采用**个人非商业使用许可 v1.1**，属于自定义许可。允许个人下载、私下修改、安装，以及用于自己的非商业写作和跑团准备。
 
-未经权利人另行书面许可，不得商业使用、出售、提供收费服务，或重新发布、分发仓库内容及其修改版。其他用途需要另行获得授权，详见[许可全文](LICENSE.md)。引用的第三方理论、作品、商标及外部材料仍遵循各自权利和许可，本许可不授予它们的额外使用权。
+除法律例外、适用平台条款或另行书面授权外，不得商业使用、出售、提供收费服务，或重新发布、分发仓库内容及其修改版。许可不垄断抽象方法，也不取得使用者独立创作产物的版权；商业项目调用本内容仍须另行授权。GitHub平台内的查看与Fork遵循其服务条款，第三方材料遵循各自权利。完整边界见[许可全文](LICENSE.md)。
 
 ## 当前验证与维护
 
