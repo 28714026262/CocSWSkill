@@ -87,6 +87,8 @@ cd CocSWSkill
 
 ## 授权：CC BY-NC-ND 4.0
 
+<a href="https://github.com/28714026262/CocSWSkill/tree/main">CocSWSkill</a> © 2026 by <a href="https://github.com/28714026262">SuzeKip</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="Creative Commons" width="16" height="16"> <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="署名" width="16" height="16"> <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="非商业性使用" width="16" height="16"> <img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="禁止演绎" width="16" height="16">
+
 本仓库有权授权的原创内容采用 **署名—非商业性使用—禁止演绎 4.0 国际许可**：允许非商业复制和分享原文，需按协议保留署名、来源及许可说明；允许非商业私下修改，不得分享改编版本，不授予商业使用权。
 
 这意味着原文可以非商业转载，不再限定个人自用。第三方材料沿用各自权利；许可不垄断抽象方法，也不取得使用者独立创作产物的版权。完整适用范围与官方法律文本见[LICENSE.md](LICENSE.md)。

@@ -131,6 +131,8 @@ coc-script-writing/
 
 ## 授权：CC BY-NC-ND 4.0
 
+<a href="https://github.com/28714026262/CocSWSkill/tree/main">CocSWSkill</a> © 2026 by <a href="https://github.com/28714026262">SuzeKip</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a> <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="Creative Commons" width="16" height="16"> <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="署名" width="16" height="16"> <img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="非商业性使用" width="16" height="16"> <img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="禁止演绎" width="16" height="16">
+
 有权授权的原创内容采用[署名—非商业性使用—禁止演绎 4.0 国际许可](LICENSE.md)：允许非商业复制和分享原文，需按协议保留署名、来源及许可说明；允许非商业私下修改，不得分享改编版本，不授予商业使用权。原文可非商业转载，不再限定个人自用。第三方材料沿用原权利；抽象方法与未复制或改编本材料的独立创作产物不因此受相同许可约束。
 
 另提供[官方简体中文法律文本PDF](output/pdf/LICENSE-CC-BY-NC-ND-4.0.zh-CN.pdf)，供离线阅读与打印；仅作排版，不增加许可条件。
