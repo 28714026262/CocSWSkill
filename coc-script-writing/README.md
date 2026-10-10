@@ -56,7 +56,7 @@ $skillTarget = Join-Path $skillRoot 'coc-script-writing'
 if (Test-Path -LiteralPath $skillTarget) { throw '目标技能已存在，请先比较版本并安排更新。' }
 New-Item -ItemType Directory -Path $skillRoot -Force | Out-Null
 New-Item -ItemType Directory -Path $skillTarget | Out-Null
-foreach ($item in 'SKILL.md', 'README.md', 'ARCHITECTURE.md', 'LICENSE.md', 'agents', 'references', 'assets', 'audit') {
+foreach ($item in 'SKILL.md', 'README.md', 'ARCHITECTURE.md', 'LICENSE.md', 'agents', 'references', 'assets', 'output', 'audit') {
     Copy-Item -LiteralPath (Join-Path './coc-script-writing' $item) -Destination $skillTarget -Recurse
 }
 ```
@@ -132,3 +132,5 @@ coc-script-writing/
 ## 授权：CC BY-NC-ND 4.0
 
 有权授权的原创内容采用[署名—非商业性使用—禁止演绎 4.0 国际许可](LICENSE.md)：允许非商业复制和分享原文，需按协议保留署名、来源及许可说明；允许非商业私下修改，不得分享改编版本，不授予商业使用权。原文可非商业转载，不再限定个人自用。第三方材料沿用原权利；抽象方法与未复制或改编本材料的独立创作产物不因此受相同许可约束。
+
+另提供[官方简体中文法律文本PDF](output/pdf/LICENSE-CC-BY-NC-ND-4.0.zh-CN.pdf)，供离线阅读与打印；仅作排版，不增加许可条件。

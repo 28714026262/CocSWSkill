@@ -86,3 +86,6 @@ R3扩展改变了方法、入口和当时的校验器，旧R2通过只绑定旧�
 
 
 当前授权已切换为标准CC BY-NC-ND 4.0，见[25许可替换验收](25-cc-license-review.md)；旧报告中的自用许可仅对应历史对象。
+
+
+官方简体中文许可PDF的内容与排版验收见[26中文版PDF验收](26-chinese-license-pdf-review.md)。
