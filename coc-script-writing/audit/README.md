@@ -2,6 +2,8 @@
 
 这里保留技能建设、来源迁移、实际试用和独立审核的证据。普通写作从[技能入口](../SKILL.md)开始；维护或审核技能时再查本目录。
 
+本次推理目标与线索分布扩展见[inference](inference/README.md)，使用产物与四席复核绑定本轮技能对象；旧包验收不自动覆盖新增参考。
+
 ## 先看当前状态
 
 [acceptance.md](acceptance.md)汇总各轮的对象、结论和限制。当前文本有后续修改时，以新一轮报告绑定的对象为准。早期报告中的“阻断”“待验收”和机器路径，反映当时状态；后来的通过不会改写旧记录。
@@ -14,7 +16,7 @@
 |---|---|
 | 原九文是否纳入，包括备忘录 | [source-map.md](source-map.md)看经验归属；[source-manifest.json](source-manifest.json)看逐章登记和指纹 |
 | 其他会话技能如何适配 | [09扩展方案](09-skill-integration-plan.md)、[skill-sources.json](skill-sources.json)、[skill-session-evidence.json](skill-session-evidence.json) |
-| 最新一组试用怎样执行 | [R3输入](r3-behavior-inputs.md)→[13实际产物](13-r3-forward-use.md)→[14独立验收](14-r3-use-acceptance.md) |
+| 辅助技能整合时的R3试用怎样执行 | [R3输入](r3-behavior-inputs.md)→[13实际产物](13-r3-forward-use.md)→[14独立验收](14-r3-use-acceptance.md) |
 | 上一轮任务与返修怎样处理 | [R2输入](r2-behavior-inputs.md)→[07实际产物](07-r2-forward-use.md)→[08独立验收](08-r2-use-acceptance.md) |
 | 首次行为测试与基线比较 | [用例定义](validation-cases.md)、[输入](behavior-inputs.md)、[基线输出](baseline-output.md)、[行为输出](behavior-output.md)、[03验收](03-skill-review.md) |
 | 旧版结构检查实际做了什么 | [初建记录](structure-checks.md)、[R2记录](r2-structure-checks.md)、[R3记录](r3-structure-checks.md) |

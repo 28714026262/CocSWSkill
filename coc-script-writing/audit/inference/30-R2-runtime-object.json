@@ -1,0 +1,16 @@
+{
+  "SKILL.md": "a8fa6a1b5ef0d056d9c6a617509f27c568f4c1b21f983c4123fe8b149745d279",
+  "references/coc.md": "9c3f727d97d9e478e538fa503bbf0d07b4d2ed4c02b1a51513bb804ae4af7bb5",
+  "references/contracts.md": "97aa944105b611d578e76e427e609789a09ea25dfccd4d74d3759107e2f9c102",
+  "references/craft.md": "553d548a2b0d858063a8329c79587867aa7abd32067b910136ce7d75bf552996",
+  "references/inference-design.md": "7d567cd16083300c004c3ba8041c8f2dc3fd5a47aed7199d0789349085307487",
+  "references/interactive.md": "6b00fdfd24aff37057452921338f39d523da0a893a7649c0acf3974ea00eeeca",
+  "references/investigation.md": "1a2690494af2dc7f83834355ce829077aca8d7d49f809e573b0341af223bb17b",
+  "references/maintenance.md": "492c58ce3daba7ec549144711960c1432f963d315e03af68ccf840b1d6825143",
+  "references/narrative.md": "8db0e59c62df0f3f5709a9170357413c646d3890ca4a6e997a40ca7432a5ac5f",
+  "references/review.md": "33c4d51c7202d7395d1cc63d64b66ce3bdf2075dca2027f88aa84ef75f3fc6d9",
+  "references/scope.md": "b8562ef3ff96f6bce5dc85c6fa07d81cc69c3a85746ab568cbeb047d586c9960",
+  "references/skill-integration.md": "d48f54f144190455befa80e3f62a66c55eba9a406f430d32c66501878252ac2d",
+  "references/workflow.md": "7ab244296760a6d32e9fc8c8d6c041d8e2821c5dda4cd62f324e58332fac35d3",
+  "agents/openai.yaml": "876087e07f91d4118f7653d63305be5d1bde4e4cc12612b098b7753c731b300f"
+}

@@ -7,6 +7,7 @@
 - [使用与安装说明](coc-script-writing/README.md)
 - [技能入口 SKILL.md](coc-script-writing/SKILL.md)
 - [按目标选择参考文档](coc-script-writing/README.md#按目标查阅)
+- [通用推理目标与线索分布方法](coc-script-writing/references/inference-design.md)
 - [与其他技能协同](coc-script-writing/references/skill-integration.md)
 - [架构方案](coc-script-writing/ARCHITECTURE.md)
 - [当前独立验收台账](coc-script-writing/audit/acceptance.md)

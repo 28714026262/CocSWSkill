@@ -29,7 +29,7 @@
 | 诊断已有故事／支线 | [叙事](narrative.md)；若审核加[验收](review.md) | 位置、成因、影响和推荐，分析不自动改稿 |
 | 写一般大纲、场景或数字固定过场 | [叙事](narrative.md)、[技巧](craft.md) | 指定粒度的实际正文，固定过场无需增加选择树 |
 | 设计非调查互动的合作、任务或跨线 | [互动](interactive.md)；跨线加[叙事](narrative.md)及[七类联系](investigation.md#seven-links) | 条件、动作、状态与反馈；按需采用行动或信息／探索联系 |
-| 设计调查信息与推理体验 | [调查](investigation.md)，加相关[叙事](narrative.md)／[互动](interactive.md) | 玩家材料、认知动作、证明范围及行动用途 |
+| 设计调查信息与推理体验 | [推理设计](inference-design.md)，加相关[叙事](narrative.md)／[互动](interactive.md)；七类联系读[调查](investigation.md#seven-links) | 玩家材料、认知动作、证明范围及行动用途 |
 | 写COC异常或主持材料 | [COC](coc.md)，加涉及的人物／条件参考 | 符合当前系统与交付成熟度的具体产物 |
 | 整阶段／整轮开发 | [流程的媒介适配](workflow.md#媒介与任务适配)，再逐阶段加载领域参考 | 约定输入、产物、完成证据及返修位置 |
 | 验收或维护现有版本 | [验收](review.md)或[维护](maintenance.md)，加被改领域及必要[字段](contracts.md) | 对象、覆盖、问题响应与当前状态，不继承旧对象资格 |

@@ -1,0 +1,14 @@
+{
+  "type": "reference availability only; not a behavioral comparison",
+  "baseline_commit": "9980bccfcbd1be795a30fd448496b086f9323b5a",
+  "before": {
+    "单目标六状态定义": false,
+    "阶段与提供方式矩阵": false,
+    "模板事件整合卡": false
+  },
+  "after": {
+    "单目标六状态定义": true,
+    "阶段与提供方式矩阵": true,
+    "模板事件整合卡": true
+  }
+}

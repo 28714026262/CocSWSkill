@@ -56,7 +56,8 @@ coc-script-writing/
     scope.md                     类型、任务模式、交付成熟度与适用矩阵
     narrative.md                 叙事因果、支线意义、结构、关系、主题与回收
     interactive.md               参与前提、人物运行、节点、合作、依赖与反馈
-    investigation.md             证明、线索、误区、认知进程与调查行动联系
+    investigation.md             调查总览与七类推理／行动联系
+    inference-design.md          目标、双层认知、多轴线索、推理体验、投放与A—G模板
     coc.md                       异常／恐怖、系统接口、人数负担、KP手册与成品
     workflow.md                  前置＋八阶段；一般／互动适配；阶段与施工循环
     craft.md                     中文表达、场景、反转、研究转译与候选发展技巧
@@ -65,6 +66,7 @@ coc-script-writing/
     maintenance.md               事实状态、权限、版本、联查、技能维护与扩展
     skill-integration.md         按目标选择辅助技能、交接与冲突处理；核心方法仍归原领域
   audit/
+    inference/                   推理设计增量来源、前后试用、两轮委员会与当前对象
     source-manifest.json         九来源SHA256、章节列表、迁移目标与处置
     source-map.md                来源全文经验归属、备忘录细项、历史与配置隔离
     validation-cases.md          基线与技能行为验收情境、判定依据
@@ -130,3 +132,7 @@ coc-script-writing/
 参考由十份扩展为十一份，保留L1／L2／L3、领域唯一归属和前置＋八阶段。新增写作方法归入叙事、技巧和验收；工具选择与交接归入技能协同。主持和资产生产按实际请求启动。
 
 补充来源用audit/skill-sources.json登记当前源路径、读取范围、SHA、处理与目标；会话证据另存，不把现版本视为旧使用版本。独立迁移复验、六项实际使用及非作者验收按09顺序执行；旧R2报告只绑定旧对象，扩展后的当前资格见audit/acceptance.md。
+
+## 2026-10-10 推理设计增量
+
+新增[推理设计](references/inference-design.md)作为完整目标、认知、多轴线索、体验和投放模板的唯一详细归属；调查保留总览及七类联系，流程、字段、范围和验收按任务调用。当前十二份参考。来源清单、前／后试用及四席审核见[audit/inference](audit/inference/README.md)，旧九来源与协同扩展的历史记录不改写。

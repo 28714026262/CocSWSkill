@@ -70,7 +70,8 @@ foreach ($item in 'SKILL.md', 'README.md', 'ARCHITECTURE.md', 'agents', 'referen
 | 识别媒介、任务、阶段与材料状态 | [scope.md](references/scope.md) |
 | 故事、人物、关系、支线与结构 | [narrative.md](references/narrative.md) |
 | 玩家选择、人物响应、节点与状态 | [interactive.md](references/interactive.md) |
-| 证据、线索、误区、认知与行动联系 | [investigation.md](references/investigation.md) |
+| 证据总览与七类推理／行动联系 | [investigation.md](references/investigation.md) |
+| 推理目标、双层认知、线索分布、推理体验及P4 | [inference-design.md](references/inference-design.md) |
 | 异常、恐怖、规则接口与KP交付 | [coc.md](references/coc.md) |
 | 整阶段或整轮开发 | [workflow.md](references/workflow.md) |
 | 表达、研究、编辑、候选与筛选 | [craft.md](references/craft.md) |
@@ -91,7 +92,7 @@ coc-script-writing/
   README.md                   使用、结构和维护说明
   ARCHITECTURE.md              架构与分步建设方案
   agents/openai.yaml          技能显示信息
-  references/                 十一份按任务加载的参考
+  references/                 十二份按任务加载的参考
   audit/                      来源映射、实际试用及独立验收证据
 ```
 
@@ -108,6 +109,8 @@ coc-script-writing/
 已完成的建设记录包括架构、来源迁移、分类复审、辅助技能整合及实际文字试用的独立AI验收。最新对象与具体范围以验收台账为准，旧报告不自动覆盖后续修订。AI文字审核、纸面状态推演、实际工具运行、非作者KP与真人桌测分别登记。本技能未因文字验收而获得真人桌测或跨项目稳定性认证。
 
 历史本地校验器只检查本包支持的元数据格式、链接和登记关系，不能证明设计语义正确。官方 `quick_validate.py` 在原维护环境中因缺 PyYAML 未能运行，详情保留在审计记录中。
+
+2026-10-10推理设计扩展的当前方法、两轮委员会、实际调用与官方格式检查见[audit/inference](audit/inference/README.md)，不沿用上述历史资格。
 
 ## 后续维护
 

@@ -41,7 +41,7 @@
 
 ## 单一归属与来源状态
 
-运行入口是[SKILL.md](../SKILL.md)，运行方法在本references目录；本技能正文自包含。九来源原文仍保留其用途，不自动退役。迁移审计在[audit/source-map.md](../audit/source-map.md)及[audit/source-manifest.json](../audit/source-manifest.json)，它们不是创作必读。
+运行入口是[SKILL.md](../SKILL.md)，运行方法在本references目录；本技能正文自包含。原九来源原文仍保留其用途，不自动退役；2026-10-10推理设计扩展另见[audit/inference](../audit/inference/README.md)。其来源与改动单独登记，原清单指纹不据此批量更新。迁移审计在[audit/source-map.md](../audit/source-map.md)及[audit/source-manifest.json](../audit/source-manifest.json)，它们不是创作必读。
 
 新经验进入技能前，先判断适用层、任务、职责和稳定性，再修改负责该方法的唯一位置。同义定义、分类和补充规则应合并到既有归属，避免使用者需要多处拼接。
 

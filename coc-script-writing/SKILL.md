@@ -15,7 +15,8 @@ description: "Use when drafting, revising, planning, or reviewing Chinese Call o
 |---|---|
 | 故事、人物因果、支线用途、主题与交织 | [叙事](references/narrative.md)；互动动作联系按需加[七类局部节](references/investigation.md#seven-links) |
 | 参与前提、人物响应、合作、节点、依赖和成果 | [互动](references/interactive.md) |
-| 证据、推论、认知、信息释放及七类联系 | [调查](references/investigation.md) |
+| 证据总览、七类推理／行动联系 | [调查](references/investigation.md) |
+| 推理目标、认知阶段、线索分布、推理体验或P4填充 | [推理设计](references/inference-design.md)；整阶段再加[流程](references/workflow.md)和[互动](references/interactive.md) |
 | 异常、恐怖、系统接口、KP手册和成品 | [COC](references/coc.md) |
 | 整阶段或整轮开发 | [流程](references/workflow.md)，随后逐阶段加载相关领域 |
 | 大纲、场景、重写、可读性、候选发展 | [技巧](references/craft.md)及当前领域 |

@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-10",
+  "source": {
+    "repository": "https://github.com/28714026262/COCRepo",
+    "commit": "1c66fb3371b84f22a07e04d77b9f3cba8489291b",
+    "path": "design-guides/推理目标与线索分布设计通用能力.md",
+    "version": "v0.5",
+    "sha256": "bf0dca0963574a5e5ec3d364b6bb0306663b6dfe3ee6589cca209a970ae66d64"
+  },
+  "baseline_skill_commit": "9980bccfcbd1be795a30fd448496b086f9323b5a",
+  "runtime_authority": "references/inference-design.md",
+  "research": [
+    {
+      "path": "research/2026-10-10_线索分布理论_目标与认知阶段.md",
+      "sha256": "b0e7e128377450fc2111e8fb2e5ee5b7bd109410e1a992833db447f74ab4498e"
+    },
+    {
+      "path": "research/2026-10-10_线索分布理论_来源可信与功能.md",
+      "sha256": "0c8e9e76384a4947fb1bab22c853435271917c2eabc944a97179f70ab66f2317"
+    },
+    {
+      "path": "research/2026-10-10_线索分布理论_推理体验与阶段投放.md",
+      "sha256": "840c50396812da25afa57292817ef048f63e3e1e35b9e952c5855f14b81db4cb"
+    },
+    {
+      "path": "research/2026-10-10_线索分布理论_完整性与扩展_逻辑席.md",
+      "sha256": "1405c4e296e370ae723db2aa38e269a968e9efd980530ffdfe1bab9bae67c71e"
+    },
+    {
+      "path": "research/2026-10-10_线索分布理论_完整性与扩展_归属席.md",
+      "sha256": "4c225804843527efbea7825f0fe810a9e42b6d14cc30bde32549f7128f2018b8"
+    },
+    {
+      "path": "research/2026-10-10_线索分布理论_完整性与扩展_游玩席.md",
+      "sha256": "aeb4095fe2c7be30a2a64cb19dee94f175ad17ce4bde07e142b65becb4e17ba8"
+    }
+  ],
+  "excluded": [
+    "P4作品内容与项目人数/名单/分数",
+    "独立节奏评估能力完整公式",
+    "全局安装",
+    "原九来源后续漂移的全量再迁移"
+  ]
+}
