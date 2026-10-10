@@ -59,7 +59,7 @@ coc-script-writing/
     investigation.md             调查总览与七类推理／行动联系
     inference-design.md          目标、双层认知、多轴线索、推理体验、投放与A—G模板
     coc.md                       异常／恐怖、系统接口、人数负担、KP手册与成品
-    workflow.md                  前置＋八阶段；一般／互动适配；阶段与施工循环
+    workflow.md                  前置＋八阶段依赖；后续需求回溯；按游戏机制／配置及交付
     craft.md                     中文表达、场景、反转、研究转译与候选发展技巧
     contracts.md                 按需填写的最小产物字段与填写示例
     review.md                    分阶段标准、十二维、独立验收、反例、测试、停止

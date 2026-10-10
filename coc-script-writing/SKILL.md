@@ -20,6 +20,7 @@ description: "Use when drafting, revising, planning, or reviewing Chinese Call o
 | 游玩估时、节奏、疲劳、版本比较或复盘 | [时间与节奏](references/play-evaluation.md)，先读第18节合同，粗稿用第14节A—D |
 | 题材主题及线索／痕迹的呈现 | [主题呈现](references/theme-presentation.md)及当前领域 |
 | 异常、恐怖、系统接口、KP手册和成品 | [COC](references/coc.md) |
+| 后续设计缺前序条件、机制设计或按游戏配置 | [流程](references/workflow.md#后续需求与前序设计的循环)；字段需要时加[字段与例子](references/contracts.md) |
 | 整阶段或整轮开发 | [流程](references/workflow.md)，随后逐阶段加载相关领域 |
 | 大纲、场景、重写、可读性、候选发展 | [技巧](references/craft.md)及当前领域 |
 | 填写必要卡表或最小交付 | [字段与例子](references/contracts.md) |
@@ -40,7 +41,7 @@ description: "Use when drafting, revising, planning, or reviewing Chinese Call o
 
 ## 完成与验证
 
-依[流程](references/workflow.md)确定输入、工作、产物和完成依据。用户约定独立验收时，由未参与该步编写的人或代理读取实际稿并记录证据；问题实改、复验通过后再进入下一步。按实际执行情况登记验收身份与范围。
+依[流程](references/workflow.md)确定输入、工作、产物和完成依据。用户约定独立验收时，由未参与该步编写的人或代理读取实际稿并记录证据；后续需求可能要求回前序补足或修改；按影响同步，问题实改、复验通过后返回需求发起处继续，已满足依赖的工作可推进。按实际执行情况登记验收身份与范围。
 
 交付说明当前对象、完成状态、主要变化和必要开放项。旧评分只归旧稿；当前文本复核、AI模拟、非作者KP运行和真人桌测分别登记。达到本轮标准后收束，尚未解决的问题如实保留。
 
