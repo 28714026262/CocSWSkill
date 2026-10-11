@@ -25,7 +25,7 @@ description: "Use when drafting, revising, planning, or reviewing Chinese Call o
 | 整阶段或整轮开发 | [流程](references/workflow.md)，随后逐阶段加载相关领域 |
 | 大纲、场景、重写、可读性、候选发展 | [技巧](references/craft.md)及当前领域 |
 | 填写必要卡表或最小交付 | [字段与例子](references/contracts.md) |
-| 评审、返修、测试和收束 | [验收](references/review.md)及被审领域 |
+| 评审、返修、独立互动模拟或收束 | [验收](references/review.md)及被审领域；模拟先设计分席基线和信息权限 |
 | 改既定内容、交接或更新技能 | [维护](references/maintenance.md) |
 | 联用文学研究、编辑、专项审核、主持或资产工具 | [技能协同](references/skill-integration.md)，只选与实际请求相符的分支 |
 

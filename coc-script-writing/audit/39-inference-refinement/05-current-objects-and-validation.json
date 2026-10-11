@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-12",
+  "status": "passed",
+  "errors": [],
+  "counts": {
+    "working": {
+      "markdown_files_checked": 24,
+      "local_links_checked": 250,
+      "metadata_schema": "package quoted-string schema; not a general YAML parser"
+    },
+    "publish_preview": {
+      "markdown_files_checked": 24,
+      "local_links_checked": 245,
+      "metadata_schema": "package quoted-string schema; not a general YAML parser"
+    }
+  },
+  "approved_proposal_sha256": "7757db1102c6823adcce4df50344e3a65b02c767182e0afb2ebf06eb9cec7acc",
+  "base_commit": "552600e1015fa3c78f9397981e5fb6d4d25a7dcc",
+  "objects": [
+    {
+      "path": "coc-script-writing/ARCHITECTURE.md",
+      "working_sha256": "d883bcc15d18870b44425c222a860c5c43ae189057097d514726778461991831",
+      "published_sha256": "d883bcc15d18870b44425c222a860c5c43ae189057097d514726778461991831",
+      "prior_uncommitted_excluded": false
+    },
+    {
+      "path": "coc-script-writing/SKILL.md",
+      "working_sha256": "7450088bf282ba9d04d47af0b9ea203dc7a221c9fc806c3c265b0942e86fe291",
+      "published_sha256": "27390445dbe668788d4eb602abf42f745e8f45ef0e2a017a034069b3e73601df",
+      "prior_uncommitted_excluded": true
+    },
+    {
+      "path": "coc-script-writing/references/contracts.md",
+      "working_sha256": "a34b999c65084a2065f42d9b08cb28e2b68936ed2de8638b6acbec128177ec66",
+      "published_sha256": "6d11f9f2d62f08725a66ee06fd5e1992a344bafe20896b688d7d88d9066c9684",
+      "prior_uncommitted_excluded": true
+    },
+    {
+      "path": "coc-script-writing/references/inference-design.md",
+      "working_sha256": "fbba76b3b7bd662e78b6be65503b12ab1848dd6dccbee1a60a35a93335ca1429",
+      "published_sha256": "fbba76b3b7bd662e78b6be65503b12ab1848dd6dccbee1a60a35a93335ca1429",
+      "prior_uncommitted_excluded": false
+    },
+    {
+      "path": "coc-script-writing/references/interactive.md",
+      "working_sha256": "650057f428fc75870c90d419d69ca45329481e493fc7a73e3dbf41239d7c4f44",
+      "published_sha256": "650057f428fc75870c90d419d69ca45329481e493fc7a73e3dbf41239d7c4f44",
+      "prior_uncommitted_excluded": false
+    },
+    {
+      "path": "coc-script-writing/references/maintenance.md",
+      "working_sha256": "4930df656a5240a6b888fe537ff5825af947507161eee4028209123e6553817a",
+      "published_sha256": "4930df656a5240a6b888fe537ff5825af947507161eee4028209123e6553817a",
+      "prior_uncommitted_excluded": false
+    },
+    {
+      "path": "coc-script-writing/references/review.md",
+      "working_sha256": "af450008dad30b971fb85e0aef567c9e2f93459e609241819c14299f5c26940b",
+      "published_sha256": "af450008dad30b971fb85e0aef567c9e2f93459e609241819c14299f5c26940b",
+      "prior_uncommitted_excluded": false
+    },
+    {
+      "path": "coc-script-writing/references/theme-presentation.md",
+      "working_sha256": "b0aeb6a8096a8c533f6c281ec63784b97788e82bd1285db1c8a5f7340e7237ee",
+      "published_sha256": "4954c0ae6e17770e869292feebbd3845573fcaebfdbf64c31e57a08acd51a81d",
+      "prior_uncommitted_excluded": true
+    },
+    {
+      "path": "coc-script-writing/references/workflow.md",
+      "working_sha256": "210e5150098b0371eb4a020ef7787380a9475ab22df56a9f1ef0ece5eab5dacf",
+      "published_sha256": "05407f20f88e4799022ee73f5bd5bbc19ee69637d960f3f3fd1ef1c104070761",
+      "prior_uncommitted_excluded": true
+    },
+    {
+      "path": "coc-script-writing/audit/acceptance.md",
+      "working_sha256": "f5bc86dc17f3e94652aa87137eb0fc26bde917424371e96b3da6c4c02eda7d49",
+      "published_sha256": "182ee39b315acb9ea1909d979f170be8820756245149fba2c841c705357414da",
+      "prior_uncommitted_excluded": true
+    },
+    {
+      "path": "coc-script-writing/audit/README.md",
+      "working_sha256": "ba35e1aad7ad4d95c698cfcaa5d69c52025ebb051cd3094ca304065924c6591d",
+      "published_sha256": "3af33c831d28bc2d191f74937955af540268fa86f8134ffb9219158691e7dc89",
+      "prior_uncommitted_excluded": true
+    }
+  ],
+  "sources": [
+    {
+      "path": "design-guides/推理目标与线索分布设计通用能力.md",
+      "sha256": "24656eacb88de9d1d1a871b89693b3e3ddc52e6c78285499c0111026d1927128"
+    },
+    {
+      "path": "design-guides/COC完整开发流程.md",
+      "sha256": "f987f773e5db4e9691b12842cf60577ef1b12e2dfdccb9ed7e48b0d6862a2bff"
+    },
+    {
+      "path": "design-guides/调查悬疑类COC剧本通用设计与审核框架.md",
+      "sha256": "cdfc412c6f8427b66b0982371e949cac5a42bb2b4deae2a7310e0be87cdc29b6"
+    },
+    {
+      "path": "design-guides/通用方案统筹与维护.md",
+      "sha256": "7612aa7a41e9c0af670ad897e59b360dde12b8836e62e016db04673df3d99f95"
+    },
+    {
+      "path": "design-guides/主题与线索痕迹呈现通用规范.md",
+      "sha256": "ce711887ea95f8cfceb497f54f04b1e2c354ef20dd4022447e68cd87fbe1afde"
+    },
+    {
+      "path": "design-guides/通用开发备忘录.md",
+      "sha256": "6410bd2c4ff9718117209703ec553bcd3c9e19a4f57ace2faecd40139ad57ce8"
+    }
+  ],
+  "legacy_validator": {
+    "status": "preexisting historical mapping mismatch",
+    "missing_heading": "## 第2步：体验增强、融合与干扰调谐",
+    "heading_already_absent_at_base_commit": true,
+    "action": "Historical source manifests retained unchanged; no overall legacy-validator pass claimed."
+  },
+  "official_quick_validate": {
+    "status": "unavailable",
+    "reason": "ModuleNotFoundError: yaml; actual attempted invocation failed before validation"
+  },
+  "scope": "Current changed methods, active references, metadata and publication structure only. Semantic review by actual committee reports. No randomized simulation, KP run, human playtest or personal skill installation."
+}
