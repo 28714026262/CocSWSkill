@@ -1,6 +1,6 @@
 # 剧本撰写技能架构
 
-更新日期：2026-10-10。本轮在既有推理迁移基础上整合节奏、主题与当前源接口；历史建设资格保留原对象。本页解释文件职责和维护方式，普通写作从[SKILL.md](SKILL.md)开始。当前验收范围见[台账](audit/acceptance.md)，建设过程见[审计导航](audit/README.md)。
+更新日期：2026-10-11。本轮在既有推理迁移基础上整合节奏、主题与当前源接口；历史建设资格保留原对象。本页解释文件职责和维护方式，普通写作从[SKILL.md](SKILL.md)开始。当前验收范围见[台账](audit/acceptance.md)，建设过程见[审计导航](audit/README.md)。
 
 ## 1. 目标与边界
 
@@ -59,6 +59,7 @@ coc-script-writing/
     investigation.md             调查总览与七类推理／行动联系
     inference-design.md          目标、双层认知、多轴线索、推理体验、投放与A—G模板
     coc.md                       异常／恐怖、系统接口、人数负担、KP手册与成品
+    coc-rules-design.md          COC第6步数据、判定、特殊处理与KP参考表
     workflow.md                  前置＋八阶段依赖；后续需求回溯；按游戏机制／配置及交付
     craft.md                     中文表达、场景、反转、研究转译与候选发展技巧
     contracts.md                 按需填写的最小产物字段与填写示例
@@ -81,7 +82,7 @@ coc-script-writing/
 
 来源清单中的原路径只用于迁移审计。核心方法不依赖原目录、当前项目专名或其他已安装技能；普通创作按任务读取参考，维护时再查审计。
 
-入口常规只加载scope与当前任务所需参考：一般剧本读narrative/craft；互动运行读interactive；调查读investigation；COC专属设计读coc；整阶段开发读workflow；评审读review；改既定内容或交接读maintenance；填写卡表时读contracts。完整创作可逐阶段加载，避免一次装入所有文件。
+入口常规只加载scope与当前任务所需参考：一般剧本读narrative/craft；互动运行读interactive；调查读investigation；COC专属设计读coc；COC数据、判定与特殊处理读coc-rules-design；整阶段开发读workflow；评审读review；改既定内容或交接读maintenance；填写卡表时读contracts。完整创作可逐阶段加载，避免一次装入所有文件。
 
 ## 4. 迁移依据与冲突处理
 

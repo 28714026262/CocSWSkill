@@ -20,6 +20,7 @@ description: "Use when drafting, revising, planning, or reviewing Chinese Call o
 | 游玩估时、节奏、疲劳、版本比较或复盘 | [时间与节奏](references/play-evaluation.md)，先读第18节合同，粗稿用第14节A—D |
 | 题材主题及线索／痕迹的呈现 | [主题呈现](references/theme-presentation.md)及当前领域 |
 | 异常、恐怖、系统接口、KP手册和成品 | [COC](references/coc.md) |
+| COC属性／技能、线索判定、RP调整、数据或特殊机制 | [COC第6步](references/coc-rules-design.md) |
 | 后续设计缺前序条件、机制设计或按游戏配置 | [流程](references/workflow.md#后续需求与前序设计的循环)；字段需要时加[字段与例子](references/contracts.md) |
 | 整阶段或整轮开发 | [流程](references/workflow.md)，随后逐阶段加载相关领域 |
 | 大纲、场景、重写、可读性、候选发展 | [技巧](references/craft.md)及当前领域 |

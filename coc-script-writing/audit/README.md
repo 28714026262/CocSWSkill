@@ -8,6 +8,8 @@
 
 本轮工作流依赖循环与按游戏配置修订见[28修订验收](28-workflow-revision-review.md)和[29独立使用检查](29-workflow-use-check.md)，资格仅覆盖各报告绑定的对象与验证范围。
 
+本轮第2步干扰发展及COC第6步具体设计见[30修订记录](30-coc-workflow-revision.md)、[31内容验收](31-coc-workflow-content-review.md)、[32规则验收](32-coc-rules-review.md)和[33独立使用](33-coc-workflow-use-check.md)。第6步职责以本轮为准，28／29保留其当时对象与资格。
+
 ## 先看当前状态
 
 [acceptance.md](acceptance.md)汇总各轮的对象、结论和限制。当前文本有后续修改时，以新一轮报告绑定的对象为准。早期报告中的“阻断”“待验收”和机器路径，反映当时状态；后来的通过不会改写旧记录。

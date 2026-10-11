@@ -75,6 +75,7 @@ foreach ($item in 'SKILL.md', 'README.md', 'ARCHITECTURE.md', 'LICENSE.md', 'age
 | 游玩时间、节奏、疲劳与复盘 | [play-evaluation.md](references/play-evaluation.md) |
 | 主题及线索／痕迹呈现 | [theme-presentation.md](references/theme-presentation.md) |
 | 异常、恐怖、规则接口与KP交付 | [coc.md](references/coc.md) |
+| COC第6步数据、判定、RP调整与特殊处理 | [coc-rules-design.md](references/coc-rules-design.md) |
 | 整阶段或整轮开发 | [workflow.md](references/workflow.md) |
 | 表达、研究、编辑、候选与筛选 | [craft.md](references/craft.md) |
 | 填写人物、节点、线索等记录表，或查看完整短例 | [contracts.md](references/contracts.md) |
@@ -127,7 +128,7 @@ coc-script-writing/
 
 本技能来自COC开发实践与通用方法整理，目标是把故事设想发展成可读、可调查、可选择、可主持、可维护的剧本。它按媒介、任务和阶段选方法；从剧情用途连接推理目标、证据与行动；共同检查时间、体验、疲劳和主题呈现。方法特色是已有研究与实践的工程整合，不宣称学术首创或已证明真人效果。
 
-简要流程：前置大纲→体验设计→逐线融合→世界事实→推理／事件章程→场景施工→配置与规则工具→测试修订→编辑交付。阶段表示依赖、可重复进入；后续需要可返回前序补足或修改，按影响复核后继续。机制与数据按游戏配置，定版资源归最终交付。局部任务按需调用，不必完整走一遍；完整阶段、验收和返修路径见[工作流总图](references/workflow.md#工作流总图)。
+简要流程：前置大纲→体验设计→逐线融合与干扰发展→世界事实→推理／事件章程→场景施工→数据、判定与特殊机制→测试修订→编辑交付。阶段表示依赖、可重复进入；后续需要可返回前序补足或修改，按影响复核后继续。第2步明确不干扰及各类干扰的发展；第6步设计游戏数据、判定和特殊处理，本轮细化COC并提供KP参考表；定版资源归最终交付。局部任务按需调用，不必完整走一遍；完整阶段、验收和返修路径见[工作流总图](references/workflow.md#工作流总图)。
 
 ## 授权：CC BY-NC-ND 4.0
 
