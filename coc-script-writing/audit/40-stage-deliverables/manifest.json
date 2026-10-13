@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-12",
+  "status": "正式合入，三席独立AI文本集成复验及四题调用检查通过",
+  "scope": "产物合同及受影响入口；不授具体项目运行资格",
+  "files": [
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\design-guides\\剧本开发阶段产物与验收标准.md",
+      "sha256": "35572C69FB3B3B29686E07E0698FE2D6C1D667841B445D441D7ACE0AAD29F59C"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\design-guides\\README.md",
+      "sha256": "C3BD5DC0E21045B693410B2313A6FB153BBD2E55D3169809962296AE316176F3"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\design-guides\\COC完整开发流程.md",
+      "sha256": "BE4569CDEBBCA0E535F9C13F8883DAC62B5DEAA77435535C5D3B56D59FFAD5E3"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\design-guides\\通用方案统筹与维护.md",
+      "sha256": "2E131F9989186E8905EB69578FEB449C93486D29BB7604C07D7642B1CB45B87B"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\design-guides\\通用开发备忘录.md",
+      "sha256": "897E3E6C576E21663DE9D8608492257E8B1431B2F64F62379CF4D09B4B97C33F"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing\\SKILL.md",
+      "sha256": "1A899343425BA75CE7D31AAF35ECA41D5AEDF7424FF81E22B3DC8381136BB2A3"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing\\references\\deliverables.md",
+      "sha256": "6AF4B32139B729ED9007A699C0EAE458F36D36E1E81ABDC2DE50C6B7CC973EC1"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing\\references\\workflow.md",
+      "sha256": "13D6C5BC5EF777055A2A19429B8C105DACDE93D7070A46FF9FC30174FFF80001"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing\\references\\contracts.md",
+      "sha256": "A7FF6CAB5D72C1879712559F206E224404CFDBFCBC1BBC87C1FCAB04CA21E77F"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing\\references\\review.md",
+      "sha256": "4FA00BB365713881E9CB806644EC5EC373F3D89205A70B92F8FDBB0821F71BD6"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\SKILL.md",
+      "sha256": "289A351BC94399843300EC1404316576C0A761BF712E2B32789309EBA88CD896"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\deliverables.md",
+      "sha256": "6AF4B32139B729ED9007A699C0EAE458F36D36E1E81ABDC2DE50C6B7CC973EC1"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\workflow.md",
+      "sha256": "2EACC273D738F0FD2BE08A80EC1134D9B73A6166EDBE5C0444BE6A4277192E92"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\contracts.md",
+      "sha256": "6377A3F6F83125D206BB320E3DA41CF11CFDDB38C677FCECA8DB52705E4C33EC"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\review.md",
+      "sha256": "8B2E9A28C4B42150D0ADADC10817220E729A6B17F3F8B765F5F070322B16C574"
+    }
+  ],
+  "administrative_metadata_updates": [
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\design-guides\\剧本开发阶段产物与验收标准.md",
+      "reviewed_sha256": "37DD2F8FBCB062DAC6E4370BFFBFC3758BE0142748BA8BC4285CA326516BAFAE",
+      "final_sha256": "35572C69FB3B3B29686E07E0698FE2D6C1D667841B445D441D7ACE0AAD29F59C",
+      "change": "仅首部结案状态，不改正文"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing\\references\\deliverables.md",
+      "reviewed_sha256": "C0B77F686155B648A483A5012807A6C1216A483B3EDA20622679318330DA8F0F",
+      "final_sha256": "6AF4B32139B729ED9007A699C0EAE458F36D36E1E81ABDC2DE50C6B7CC973EC1",
+      "change": "仅首部结案状态，不改正文"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\deliverables.md",
+      "reviewed_sha256": "C0B77F686155B648A483A5012807A6C1216A483B3EDA20622679318330DA8F0F",
+      "final_sha256": "6AF4B32139B729ED9007A699C0EAE458F36D36E1E81ABDC2DE50C6B7CC973EC1",
+      "change": "仅首部结案状态，不改正文"
+    }
+  ]
+}

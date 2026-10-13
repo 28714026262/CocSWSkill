@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-12",
+  "method": "作者机械检查，仅核标准文件及新增入口，不代替独立语义审查",
+  "standards": [
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\design-guides\\剧本开发阶段产物与验收标准.md",
+      "sha256": "37DD2F8FBCB062DAC6E4370BFFBFC3758BE0142748BA8BC4285CA326516BAFAE",
+      "anchor_count": 15,
+      "anchors_unique": true,
+      "all_stages_present": true
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing\\references\\deliverables.md",
+      "sha256": "C0B77F686155B648A483A5012807A6C1216A483B3EDA20622679318330DA8F0F",
+      "anchor_count": 15,
+      "anchors_unique": true,
+      "all_stages_present": true
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\deliverables.md",
+      "sha256": "C0B77F686155B648A483A5012807A6C1216A483B3EDA20622679318330DA8F0F",
+      "anchor_count": 15,
+      "anchors_unique": true,
+      "all_stages_present": true
+    }
+  ],
+  "link_failures": [],
+  "skill_references_identical": true,
+  "scope": "新标准的15个显式锚点、九阶段及文件/锚点链接；未重验所有历史文档"
+}

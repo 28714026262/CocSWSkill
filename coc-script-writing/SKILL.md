@@ -21,8 +21,10 @@ description: "Use when drafting, revising, planning, or reviewing Chinese Call o
 | 题材主题及线索／痕迹的呈现 | [主题呈现](references/theme-presentation.md)及当前领域 |
 | 异常、恐怖、系统接口、KP手册和成品 | [COC](references/coc.md) |
 | COC属性／技能、线索判定、RP调整、数据或特殊机制 | [COC第6步](references/coc-rules-design.md) |
+| 推理认识引发主动行动、指导行为或启发其他目标 | [推理赋能](references/inference-design.md#inference-empowerment)，三类作用分别写实际用途；紧迫感不单独算赋能 |
 | 后续设计缺前序条件、机制设计或按游戏配置 | [流程](references/workflow.md#后续需求与前序设计的循环)；字段需要时加[字段与例子](references/contracts.md) |
 | 整阶段或整轮开发 | [流程](references/workflow.md)，随后逐阶段加载相关领域 |
+| 阶段产物、完整人物卡、规则卡或最终剧本结构 | [产物标准](references/deliverables.md)，先读共同约定，再读当前阶段；人物卡按第2／6／8阶段递进 |
 | 大纲、场景、重写、可读性、候选发展 | [技巧](references/craft.md)及当前领域 |
 | 填写必要卡表或最小交付 | [字段与例子](references/contracts.md) |
 | 评审、返修、独立互动模拟或收束 | [验收](references/review.md)及被审领域；模拟先设计分席基线和信息权限 |

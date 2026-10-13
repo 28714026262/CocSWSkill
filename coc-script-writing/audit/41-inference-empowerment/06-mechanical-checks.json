@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-13",
+  "scope": "作者机械检查：新增6.3锚点、三类、驱动力边界及来源可达；不代独立语义或实际使用审核",
+  "methods": [
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\design-guides\\推理目标与线索分布设计通用能力.md",
+      "sha256": "959DB78A9C7E4F2768E42FAB14FF0D359D4A5821EE945362C5BD1B62F9C27ED6",
+      "anchor_unique": true,
+      "categories": [
+        "A",
+        "B",
+        "C"
+      ],
+      "drive_not_independent": true
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing\\references\\inference-design.md",
+      "sha256": "E1402942C025F8E70B1F19C75DBD3D705BA12F8AE82CBC25B2F3BF8259F23D66",
+      "anchor_unique": true,
+      "categories": [
+        "A",
+        "B",
+        "C"
+      ],
+      "drive_not_independent": true
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\inference-design.md",
+      "sha256": "6DED688F08B654C33AA3CD8BA07DE6841D92C702C3F827D48EF708659FB883E2",
+      "anchor_unique": true,
+      "categories": [
+        "A",
+        "B",
+        "C"
+      ],
+      "drive_not_independent": true
+    }
+  ],
+  "missing_links": []
+}

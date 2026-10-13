@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-13",
+  "status": "用户授权采用，正式本地合入；三席文本集成及五题调用通过",
+  "method_source": "design-guides/推理目标与线索分布设计通用能力.md#inference-empowerment",
+  "source_version": "v0.7",
+  "skill_reference_version": "1.4",
+  "qualification": "仅新增方法、关联接口及来源可达，不授旧文全篇、目标实作、互动运行或真人资格",
+  "files": [
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\design-guides\\推理目标与线索分布设计通用能力.md",
+      "before_sha256": "24656EACB88DE9D1D1A871B89693B3E3DDC52E6C78285499C0111026D1927128",
+      "final_sha256": "959DB78A9C7E4F2768E42FAB14FF0D359D4A5821EE945362C5BD1B62F9C27ED6",
+      "scope": "实际方法或新增接口，独立审读范围详见各席"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\design-guides\\调查悬疑类COC剧本通用设计与审核框架.md",
+      "before_sha256": "CDFC412C6F8427B66B0982371E949CAC5A42BB2B4DEAE2A7310E0BE87CDC29B6",
+      "final_sha256": "CD3959EA199592F50131FB6165AD5C03984FDE28A1FE16DC4FFC6399ACEBD9FB",
+      "scope": "实际方法或新增接口，独立审读范围详见各席"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\design-guides\\README.md",
+      "before_sha256": "C3BD5DC0E21045B693410B2313A6FB153BBD2E55D3169809962296AE316176F3",
+      "final_sha256": "C00D89AFB33753017DEEFB7D9D9498B07D4F4258279A8022DDD46FBAC4933F84",
+      "scope": "实际方法或新增接口，独立审读范围详见各席"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\design-guides\\通用方案统筹与维护.md",
+      "before_sha256": "2E131F9989186E8905EB69578FEB449C93486D29BB7604C07D7642B1CB45B87B",
+      "final_sha256": "66ADFE247A739EF502C5C10D5785E1B0DD1C2DA0C7F7587CAF6F6844A4772EF3",
+      "scope": "实际方法或新增接口，独立审读范围详见各席"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing\\references\\inference-design.md",
+      "before_sha256": "32B8FE360740CD033C466267546F6183D2425604FB5E513197E1430B1F51F9AE",
+      "final_sha256": "E1402942C025F8E70B1F19C75DBD3D705BA12F8AE82CBC25B2F3BF8259F23D66",
+      "scope": "实际方法或新增接口，独立审读范围详见各席"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing\\references\\review.md",
+      "before_sha256": "4FA00BB365713881E9CB806644EC5EC373F3D89205A70B92F8FDBB0821F71BD6",
+      "final_sha256": "76841AC361D7AB245944F5B2CCA699D2C89ED368772AAF3088B3E42BAA75FFF9",
+      "scope": "实际方法或新增接口，独立审读范围详见各席"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing\\references\\contracts.md",
+      "before_sha256": "A7FF6CAB5D72C1879712559F206E224404CFDBFCBC1BBC87C1FCAB04CA21E77F",
+      "final_sha256": "4F69650C47E912171A8BB4ED61F6FF6683006F1C40104668F44EA43A9A805119",
+      "scope": "实际方法或新增接口，独立审读范围详见各席"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing\\SKILL.md",
+      "before_sha256": "1A899343425BA75CE7D31AAF35ECA41D5AEDF7424FF81E22B3DC8381136BB2A3",
+      "final_sha256": "F0C036F97541F20327441D42217AF14452D65736CEB6F72949D147A3A20C6238",
+      "scope": "实际方法或新增接口，独立审读范围详见各席"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing\\audit\\README.md",
+      "before_sha256": "0E12BAF34C4863F6350ECB152DE6EC5477D8A60B090D33B6C4F3C845B318D26E",
+      "final_sha256": "30CDC84149A950CBF3705B520032DAD2CB98569B23562F7E241F49A67C3ABEE2",
+      "scope": "行政导航与范围登记"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing\\audit\\acceptance.md",
+      "before_sha256": "79E58E5B2AA95C659FA2373809C403F975E4671EE550C23540AA2953EE8C456B",
+      "final_sha256": "0D7E66F2311972B1BFD928B560F96E516644A9AC2714247368B0020603EDB23C",
+      "scope": "行政导航与范围登记"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\inference-design.md",
+      "before_sha256": "FBBA76B3B7BD662E78B6BE65503B12AB1848DD6DCCBEE1A60A35A93335CA1429",
+      "final_sha256": "6DED688F08B654C33AA3CD8BA07DE6841D92C702C3F827D48EF708659FB883E2",
+      "scope": "实际方法或新增接口，独立审读范围详见各席"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\review.md",
+      "before_sha256": "8B2E9A28C4B42150D0ADADC10817220E729A6B17F3F8B765F5F070322B16C574",
+      "final_sha256": "B86B082B449EBA5C42557D558D6F773F689772A4D335FCACAC710B9760F3B4A6",
+      "scope": "实际方法或新增接口，独立审读范围详见各席"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\contracts.md",
+      "before_sha256": "6377A3F6F83125D206BB320E3DA41CF11CFDDB38C677FCECA8DB52705E4C33EC",
+      "final_sha256": "4CEF92FD91206B72AE462F16C0DB8A970D0964A1CD0A29583937D0263B7FC974",
+      "scope": "实际方法或新增接口，独立审读范围详见各席"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\SKILL.md",
+      "before_sha256": "289A351BC94399843300EC1404316576C0A761BF712E2B32789309EBA88CD896",
+      "final_sha256": "0F62782C8D046F06461212ABCDDC67A7DDEE9D08563629C702DA36DF657187E8",
+      "scope": "实际方法或新增接口，独立审读范围详见各席"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\audit\\README.md",
+      "before_sha256": "2EDF7D9FD19843FC20BDF52B272E61F166D903D19210946F29C5E67D7E6A5709",
+      "final_sha256": "06444A3B267DB62A22154BDC83FF9C563C355AD6642F3E62ABF17B34967CDB9A",
+      "scope": "行政导航与范围登记"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\audit\\acceptance.md",
+      "before_sha256": "C899369566DA98153FB00795D308E3EB2BA8F84BAD39D159C41AD147AD45F30C",
+      "final_sha256": "7CBE3288C8D4D5389E51110B9335BA01777DA38FFCFD31F38CD9A715CB80A9BA",
+      "scope": "行政导航与范围登记"
+    }
+  ],
+  "records": [
+    {
+      "name": "01-coverage-review.md",
+      "sha256": "EEB8EFB37A18DA3735C60E618B539AD5479BB4E98C17A7C0DF3EFE50112CBB3E"
+    },
+    {
+      "name": "02-structure-review.md",
+      "sha256": "824C2CE4ED8817B1EBCDA7BDF826A24339E8F531366287175B2FFB9330F935F8"
+    },
+    {
+      "name": "03-readability-review.md",
+      "sha256": "2E811CEC865DC31B7C0FA431ECC3D91B159AECD2B1BBF147713227A771B480BF"
+    },
+    {
+      "name": "04-use-check.md",
+      "sha256": "E92F0E4E91F4A0DEC27EDDEF2002BD68CF7A700CC2241C054617B32F2594D7C6"
+    }
+  ],
+  "post_review_changes": "仅00集成结案状态及审计导航/台账；受审方法正文未再改",
+  "remote_push": false
+}
