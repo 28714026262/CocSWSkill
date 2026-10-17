@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-16",
+  "status": "独立复验通过，审计资格元数据随后更新；方法正文未改",
+  "scope": "方法文本及固定条件纸面使用，不授具体项目或真实运行资格",
+  "objects": [
+    {
+      "file": "references/embedded-investigation.md",
+      "sha256": "30ee4c2c6bbd8f05fcab9634488c98a810676aa582188928212e68da3f59f7a1",
+      "source_working_equal": true,
+      "missing_relative_links": []
+    },
+    {
+      "file": "references/deliverables.md",
+      "sha256": "add6afcb6d9254546b3961cbd84c29344f3d2e64ee4b52c673fa1c780ac90f28",
+      "source_working_equal": true,
+      "missing_relative_links": []
+    },
+    {
+      "file": "audit/43-complete-p4-delivery/00-integration.md",
+      "sha256": "42a9468c994aa275416f25f656140b65d118b4d99a6514989bb27731fa72bf1c",
+      "source_working_equal": true,
+      "missing_relative_links": []
+    },
+    {
+      "file": "audit/acceptance.md",
+      "sha256": "efdb46b6b0645854f59f659b17b3601558c3d5c4ec5b4221c34e8f8872c8817e",
+      "source_working_equal": true,
+      "missing_relative_links": []
+    },
+    {
+      "file": "audit/README.md",
+      "sha256": "f466b85d02fc5df52b0fac7965fab3d7a5b1153ebf2302fd564c04ab82695429",
+      "source_working_equal": true,
+      "missing_relative_links": []
+    },
+    {
+      "file": "audit/43-complete-p4-delivery/02-independent-review.md",
+      "sha256": "c3e22f8e361b0b191b0cb856af16cdd819edb28bfe4b57ad523269ad98250b1c",
+      "source_working_equal": true,
+      "missing_relative_links": []
+    }
+  ]
+}

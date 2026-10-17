@@ -14,9 +14,12 @@ description: "Use when drafting, revising, planning, or reviewing Chinese Call o
 | 当前工作 | 读取 |
 |---|---|
 | 故事、人物因果、支线用途、主题与交织 | [叙事](references/narrative.md)；互动动作联系按需加[七类局部节](references/investigation.md#seven-links) |
+| P5空间约束、场景施工、材料与图片草稿、互动落地 | [P5实施](references/scene-construction.md)；产物按[S5](references/deliverables.md#stage-s5)，复杂空间再加专项 |
+| 多路径选优、地图诡计、多层隔离、鬼屋行进或建筑保屋 | [空间设计](references/spatial-design.md)；阶段交付加[产物](references/deliverables.md#stage-s5)，隐线信息加[推理](references/inference-design.md#optional-late-clues) |
 | 参与前提、人物响应、合作、节点、依赖和成果 | [互动](references/interactive.md) |
 | 证据总览、七类推理／行动联系 | [调查](references/investigation.md) |
 | 推理目标、认知阶段、线索分布、推理体验或P4填充 | [推理设计](references/inference-design.md)；整阶段再加[流程](references/workflow.md)和[互动](references/interactive.md) |
+| 明确侦探桥段、时序排除／物件置换／空间调查等内嵌推理玩法 | [内嵌推理桥段](references/embedded-investigation.md)，P4单列KP专项设计；一般线索仍沿原推理模块 |
 | 游玩估时、节奏、疲劳、版本比较或复盘 | [时间与节奏](references/play-evaluation.md)，先读第18节合同，粗稿用第14节A—D |
 | 题材主题及线索／痕迹的呈现 | [主题呈现](references/theme-presentation.md)及当前领域 |
 | 异常、恐怖、系统接口、KP手册和成品 | [COC](references/coc.md) |

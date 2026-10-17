@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-17",
+  "scope": "spatial methods and affected interfaces; hashes identify actual text, not gameplay qualification",
+  "status": "targeted independent text and four limited paper cases passed",
+  "files": {
+    "D:\\SZK\\Personal\\COC\\echo\\design-guides\\空间探索与地图诡计通用方案.md": {
+      "before_sha256": null,
+      "after_sha256": "72d4a857f001ecbfa23fed9df704fbb4ba6324cce256218de711e9b7529833cc"
+    },
+    "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\spatial-design.md": {
+      "before_sha256": null,
+      "after_sha256": "4c8da9cd307dbc357a809450cdd45bcbd4e6693f32a0b366de7647948b1d7943"
+    },
+    "D:\\SZK\\Personal\\COC\\echo\\design-guides\\推理目标与线索分布设计通用能力.md": {
+      "before_sha256": "031d51a31f548b22866acd18ff0948ef7928fb13258694219bb58b1c83f8d495",
+      "after_sha256": "9b893304e57e14d0f3c81ca8bf0b70014388743f9c289d99734dba2fce67c580"
+    },
+    "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\inference-design.md": {
+      "before_sha256": "fb6cba1dee8255222d4e39e4aa55d78c6e4b8ad4fe56699d987973af7d18ce56",
+      "after_sha256": "3ed889fafcf652a91e6f4a015ff7ae1885cc1fa30cf35bfca30cda6aaa6fa614"
+    },
+    "D:\\SZK\\Personal\\COC\\echo\\design-guides\\剧本开发阶段产物与验收标准.md": {
+      "before_sha256": "35572c69fb3b3b29686e07e0698fe2d6c1d667841b445d441d7ace0aad29f59c",
+      "after_sha256": "b0dd4609c0893cfbea68e8382034cadfd990ce94a79a92a8247750757b260b28"
+    },
+    "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\deliverables.md": {
+      "before_sha256": "bcfe82809506304cd5c39c64a158968f367cda8cb86e52260ef7f4971652e295",
+      "after_sha256": "acb12fd369ae467dcc5ff82d1c51e0902607665b23e6dc5d6e60ff5805d8a8f2"
+    },
+    "D:\\SZK\\Personal\\COC\\echo\\design-guides\\COC完整开发流程.md": {
+      "before_sha256": "be4569cdebbca0e535f9c13f8883dac62b5deaa77435535c5d3b56d59ffad5e3",
+      "after_sha256": "bd5e71ad8adcf9ba393f9eb924d6ae0bf31f801ff66b5ad90eddb37e38457d35"
+    },
+    "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\workflow.md": {
+      "before_sha256": "b2dc5513d6ea8fe09590c0a24bb5fd44ee3a90247aaee195ac76478930336380",
+      "after_sha256": "4af27b4b6f8782e82ac331b1038f8b2479445f66b77d675adcd4d39208a02fb9"
+    },
+    "D:\\SZK\\Personal\\COC\\echo\\design-guides\\调查悬疑类COC剧本通用设计与审核框架.md": {
+      "before_sha256": "cd3959ea199592f50131fb6165ad5c03984fde28a1fe16dc4ffc6399acebd9fb",
+      "after_sha256": "879ad479d4728dbdec130bed7e424f2a5214e9877229db29d0f2fa4b673bf5ca"
+    },
+    "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\review.md": {
+      "before_sha256": "88d2b02a93308f6860be151b2ca20b360f333c9c4c28e4e14dd4de3b64580e28",
+      "after_sha256": "bb3b36df5ef7d84c7b0779b409100f26fa5ace2d22558b985ebc501e95def12a"
+    },
+    "D:\\SZK\\Personal\\COC\\echo\\design-guides\\通用方案统筹与维护.md": {
+      "before_sha256": "66adfe247a739ef502c5c10d5785e1b0dd1c2da0c7f7587caf6f6844a4772ef3",
+      "after_sha256": "5ff98c46b15c0bd6104f7dffdbefda6b92604308c62095477fe6baab1e254778"
+    },
+    "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\maintenance.md": {
+      "before_sha256": "e472a01896a058fddcbe29167cf2f076843a43216c4ee6ef8f0326c632cea509",
+      "after_sha256": "d2d68831345cf0a1839414e6f5e77c62e81f2fd16389613957d1ba78bf130300"
+    },
+    "D:\\SZK\\Personal\\COC\\echo\\design-guides\\README.md": {
+      "before_sha256": "c00d89afb33753017deefb7d9d9498b07d4f4258279a8022ddd46fbac4933f84",
+      "after_sha256": "3425c4444895df8d331ba07deaf5aee2aba1c5173d18d9cb98dece3d93a21a9c"
+    },
+    "D:\\SZK\\Personal\\COC\\echo\\design-guides\\通用开发备忘录.md": {
+      "before_sha256": "897e3e6c576e21663de9d8608492257e8b1431b2f64f62379cf4d09b4b97c33f",
+      "after_sha256": "bc7e48e793eead552ad76f6ad8778be0d2080ca1a1a648cc77439ade62007765"
+    },
+    "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\SKILL.md": {
+      "before_sha256": "8c446ca69e07e2d6a89ace9788704a6d4118d52305f3e0018e70372c99d5f94b",
+      "after_sha256": "d5e8ab5909772984e4d7fa1bff1ada74befaf063a4cce2f0b5ece942561ce95e"
+    },
+    "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\references\\scope.md": {
+      "before_sha256": "f97858155e75dc24a62fc440d44bc2b75b6ef061bbfefb9cd290b045f26206af",
+      "after_sha256": "ba55360cbd555bb07a2b0f9c5e673a1f8f9e52523afa35435c8cf17ca8639064"
+    },
+    "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\ARCHITECTURE.md": {
+      "before_sha256": "b72ea828a5f7440dde0779d09b72ec5f9ebe4a8ab1ed26cd87c8302197e5bcc9",
+      "after_sha256": "ea412756e7082477e794ae52e06eec2e254f398de43ab62b8f2799dcda2de465"
+    },
+    "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing\\README.md": {
+      "before_sha256": "89261deb618a7bfbc16829480bee0a0e1e001f13be6c0d4826f25c6f5e8bc588",
+      "after_sha256": "ea4809ac32ea552dffde0009c8365a41df5bdd88e580a777249fb8cc213548c4"
+    }
+  },
+  "review_sha256": "445d2f0cf0cf702631e5c5a86ef6590b30b31eb6f58a35d4cc7dbf77d5f5529b",
+  "legacy_full_validator": "failed on historical heading mapping; absent also in before snapshot",
+  "installed": false,
+  "committed": false,
+  "human_playtest": false
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-16",
+  "status": "文本复验通过，FC-01关闭，未关闭必修0",
+  "objects": [
+    {
+      "file": "references/embedded-investigation.md",
+      "sha256": "c4c2974307e926567e3c0321dc0ddb661ede1a76e48145419872b3f3e9d03dc2",
+      "source_working_equal": true
+    },
+    {
+      "file": "references/deliverables.md",
+      "sha256": "7f083d313033cbf5edb936e4e1b5c559a8fbda919718fea3a8d42685f0c13c99",
+      "source_working_equal": true
+    }
+  ],
+  "report_sha256": "e04b9f29ac38747c02dbeb39c2d8d53341d3550257c80b540e418cf8d81ae290",
+  "scope": "只授本轮交付澄清文本，不授具体项目/模拟/真人资格"
+}

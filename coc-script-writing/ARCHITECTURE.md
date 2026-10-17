@@ -60,6 +60,10 @@ coc-script-writing/
     interactive.md               参与前提、人物运行、节点、合作、依赖与反馈
     investigation.md             调查总览与七类推理／行动联系
     inference-design.md          目标、双层认知、多轴线索、推理体验、投放与A—G模板
+    scene-construction.md        P5六步实施、分批施工、图文和互动联合落实
+
+    spatial-design.md            真图／剖面、选路、空间诡计、隔离、追逃与建筑危机
+    embedded-investigation.md    有明确内嵌推理玩法时，P4的KP专项设计与原库管理视图
     coc.md                       异常／恐怖、系统接口、人数负担、KP手册与成品
     coc-rules-design.md          COC第6步数据、判定、特殊处理与KP参考表
     workflow.md                  前置＋八阶段依赖；后续需求回溯；按游戏机制／配置及交付

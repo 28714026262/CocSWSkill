@@ -1,0 +1,31 @@
+{
+  "base": "778916d2a2554c489cbf1c2c6f2026e3f57f6c23",
+  "selected_files": 46,
+  "source_files": 9,
+  "links_checked": 588,
+  "anchors_checked": 103,
+  "missing_files": [],
+  "missing_anchors": [],
+  "method_parity_ignoring_paths": {
+    "P5地图与场景实施方案.md": true,
+    "内嵌推理桥段通用设计.md": true,
+    "空间探索与地图诡计通用方案.md": true
+  },
+  "rendered_table_cells": {
+    "README.md": {
+      "集中推理与空间玩法可独立深化": true,
+      "从空间约束到图文与互动的六项工作": true,
+      "路线选择、地图诡计、隔离与建筑危机": true
+    },
+    "coc-script-writing/SKILL.md": {
+      "P5空间约束、场景施工、材料与图片草稿、互动落地": true,
+      "多路径选优、地图诡计": true
+    },
+    "coc-script-writing/references/scope.md": {
+      "制作P5地图、场景与实际材料": true,
+      "设计空间探索、地图诡计": true
+    }
+  },
+  "official_skill_validator": "passed via python -X utf8 and local-only PyYAML dependency",
+  "scope": "Selected publication and affected source links/method parity/rendered tables; not all historical source mappings or actual play."
+}

@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "scope": "本轮五份方法页、现行路由、验收导航与45顶层文档的文件/链接/锚点；包专用quoted-string元数据读取，不是通用YAML或语义验收",
+  "files_checked": 13,
+  "links_checked": 245,
+  "errors": [],
+  "objects": [
+    {
+      "file": "references/inference-design.md",
+      "before_sha256": "1a5345ea5846e195afc39c5bfc40f08ec8267e987d2129af0c7262d114ed6b58",
+      "after_sha256": "3ed889fafcf652a91e6f4a015ff7ae1885cc1fa30cf35bfca30cda6aaa6fa614"
+    },
+    {
+      "file": "references/embedded-investigation.md",
+      "before_sha256": "c4c2974307e926567e3c0321dc0ddb661ede1a76e48145419872b3f3e9d03dc2",
+      "after_sha256": "0de3560e74508979976c86b9bfefaa57b1e91150e8e457a9c0f8d169c10bd886"
+    },
+    {
+      "file": "references/deliverables.md",
+      "before_sha256": "7f083d313033cbf5edb936e4e1b5c559a8fbda919718fea3a8d42685f0c13c99",
+      "after_sha256": "acb12fd369ae467dcc5ff82d1c51e0902607665b23e6dc5d6e60ff5805d8a8f2"
+    },
+    {
+      "file": "references/review.md",
+      "before_sha256": "333b969b607448c1c73e07be0c0ce0a560a0ed7fbab0f5c2f96f979bbb283902",
+      "after_sha256": "bb3b36df5ef7d84c7b0779b409100f26fa5ace2d22558b985ebc501e95def12a"
+    },
+    {
+      "file": "references/maintenance.md",
+      "before_sha256": "4930df656a5240a6b888fe537ff5825af947507161eee4028209123e6553817a",
+      "after_sha256": "d2d68831345cf0a1839414e6f5e77c62e81f2fd16389613957d1ba78bf130300"
+    }
+  ],
+  "other_attempts": {
+    "official_quick_validate": "未运行完成：当前Python缺yaml模块；没有安装依赖或声称通过",
+    "legacy_validate_package": "停于未在本轮修改的旧workflow/source-map标题映射不一致；未授全包结构通过"
+  }
+}

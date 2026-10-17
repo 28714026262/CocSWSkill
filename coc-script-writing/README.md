@@ -20,6 +20,10 @@
 
 本技能不替代正式规则书、影视／舞台行业格式规范、游戏引擎实现，也不提供独立的投骰或车卡工具。具体史实、规则数值、医疗与工程可行性需要按实际问题核验。
 
+空间探索、多路径、地图诡计、建筑隔离与生存玩法可直接调用[空间设计](references/spatial-design.md)；信息充分性及迟现材料仍归[推理参考](references/inference-design.md#optional-late-clues)。本轮新增范围见[空间记录](audit/46-spatial-design/00-integration.md)。
+
+P4有集中调查玩法时读[内嵌桥段](references/embedded-investigation.md)，交完整案件设计并共用原库；P5按[六项实施工作](references/scene-construction.md)从约束与布局推进到图文、互动和P6需求，按项目规模合并与返修。
+
 ## 快速使用
 
 ### 直接使用文档

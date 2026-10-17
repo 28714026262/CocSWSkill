@@ -1,0 +1,84 @@
+{
+  "base": "778916d2a2554c489cbf1c2c6f2026e3f57f6c23",
+  "scope": "Working method and source fingerprints. Publication mixed files omit old P3; current index bytes are reviewed separately. Historical audit hashes remain historical.",
+  "method_objects": {
+    "coc-script-writing/references/contracts.md": {
+      "before_sha256": "d129aeaebcdb21b76595bf248248cbd88ab1edda1f77903b46808bcd1134110d",
+      "current_sha256": "40a4393b2a96c0282264126e0d28af841d735f35a93a8695062982940ee57b84"
+    },
+    "coc-script-writing/references/deliverables.md": {
+      "before_sha256": "acb12fd369ae467dcc5ff82d1c51e0902607665b23e6dc5d6e60ff5805d8a8f2",
+      "current_sha256": "4e6ab3d38db4ec64ccd39b855d95f622d5c2e1962575839910d87588f01b91f7"
+    },
+    "coc-script-writing/references/embedded-investigation.md": {
+      "before_sha256": "0de3560e74508979976c86b9bfefaa57b1e91150e8e457a9c0f8d169c10bd886",
+      "current_sha256": "0c839261289990a47f049b96b2a8b603df83aceb35b1837efc1883a345da053c"
+    },
+    "coc-script-writing/references/inference-design.md": {
+      "before_sha256": "3ed889fafcf652a91e6f4a015ff7ae1885cc1fa30cf35bfca30cda6aaa6fa614",
+      "current_sha256": "cb891986b8d9c4941993f3dc78f71def2056dd7a2c7ed42b3192bc8f97fc2a57"
+    },
+    "coc-script-writing/references/maintenance.md": {
+      "before_sha256": "d2d68831345cf0a1839414e6f5e77c62e81f2fd16389613957d1ba78bf130300",
+      "current_sha256": "a6413966a6f1bad6fc8809f98e348a708a3887069a5702903e17295ee4e792e7"
+    },
+    "coc-script-writing/references/review.md": {
+      "before_sha256": "bb3b36df5ef7d84c7b0779b409100f26fa5ace2d22558b985ebc501e95def12a",
+      "current_sha256": "1d0be9d83043eaa6bf3907419644307265e55cc36613e1dd9a69bc06477344d0"
+    },
+    "coc-script-writing/references/scene-construction.md": {
+      "before_sha256": null,
+      "current_sha256": "c629960a70446c4cd48aa37fd26f8b2acda5937843107c39ee52d36f8c8a5cae"
+    },
+    "coc-script-writing/references/scope.md": {
+      "before_sha256": "ba55360cbd555bb07a2b0f9c5e673a1f8f9e52523afa35435c8cf17ca8639064",
+      "current_sha256": "2cdbcf779d531ecfdb6993c7f357156d36b7de22b65e2bf4889ebb91ff8b1b21"
+    },
+    "coc-script-writing/references/spatial-design.md": {
+      "before_sha256": "4c8da9cd307dbc357a809450cdd45bcbd4e6693f32a0b366de7647948b1d7943",
+      "current_sha256": "865b9fb698e3304ef16dfe2811aefd4d737d5639450ffcc50bfd0717cbb6b517"
+    },
+    "coc-script-writing/references/workflow.md": {
+      "before_sha256": "4af27b4b6f8782e82ac331b1038f8b2479445f66b77d675adcd4d39208a02fb9",
+      "current_sha256": "f34dc1bddb154fc0172643ef9b106c794ff5353d2cf896e0af511ca890f07996"
+    }
+  },
+  "source_objects": {
+    "design-guides/COC完整开发流程.md": {
+      "before_sha256": "bd5e71ad8adcf9ba393f9eb924d6ae0bf31f801ff66b5ad90eddb37e38457d35",
+      "current_sha256": "d6457f25782323f144dffd6995e198ab6d3c09a5157294b49386a1e46a5453b7"
+    },
+    "design-guides/P5地图与场景实施方案.md": {
+      "before_sha256": null,
+      "current_sha256": "be5d4788864e954f0fb529f64d1654663e0a175ca74494c6b0a83918646578b1"
+    },
+    "design-guides/README.md": {
+      "before_sha256": "3425c4444895df8d331ba07deaf5aee2aba1c5173d18d9cb98dece3d93a21a9c",
+      "current_sha256": "9b74b0da86bab64c0d16804289fc21239d9424a7deb2ffc080c5517f816f6418"
+    },
+    "design-guides/内嵌推理桥段通用设计.md": {
+      "before_sha256": null,
+      "current_sha256": "fc5a9f9b85a4e43fac3a1ffd3f65cecea1618098429ab237c96266de7454a8b5"
+    },
+    "design-guides/剧本开发阶段产物与验收标准.md": {
+      "before_sha256": "b0dd4609c0893cfbea68e8382034cadfd990ce94a79a92a8247750757b260b28",
+      "current_sha256": "e2ca8b4b492c4612c5c40fa67d3e7e0af6b36588d566592cf2a14a6c32cd0f5a"
+    },
+    "design-guides/推理目标与线索分布设计通用能力.md": {
+      "before_sha256": "9b893304e57e14d0f3c81ca8bf0b70014388743f9c289d99734dba2fce67c580",
+      "current_sha256": "3fc98836809a86631f018c603954c1064f818ecff05ef3848eb6252f8ccb8336"
+    },
+    "design-guides/空间探索与地图诡计通用方案.md": {
+      "before_sha256": "72d4a857f001ecbfa23fed9df704fbb4ba6324cce256218de711e9b7529833cc",
+      "current_sha256": "a3eca556fe3134b0496ea64409c78fa594b8330e107887fa5bbbab767b596f06"
+    },
+    "design-guides/调查悬疑类COC剧本通用设计与审核框架.md": {
+      "before_sha256": "879ad479d4728dbdec130bed7e424f2a5214e9877229db29d0f2fa4b673bf5ca",
+      "current_sha256": "8b1a2d0ad486bc438c46ebba240afbe917e168c8057e818dbb59ec0e31dbeb01"
+    },
+    "design-guides/通用方案统筹与维护.md": {
+      "before_sha256": "5ff98c46b15c0bd6104f7dffdbefda6b92604308c62095477fe6baab1e254778",
+      "current_sha256": "299519b03993532af7d8caf258c6f0699735c09b9062223af3b1f8e03d4e9e27"
+    }
+  }
+}

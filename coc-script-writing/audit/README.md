@@ -1,5 +1,18 @@
 # 来源与验收记录导航
 
+## 2026-10-17：时序桥段与线索组合细化（45）
+
+[采用范围与归属](45-timeline-evidence-integration/00-integration.md)记录本会话经验的去重迁入；[独立方法审读](45-timeline-evidence-integration/01-independent-method-review.md)、[新固定条件输入](45-timeline-evidence-integration/02-use-input.md)及[实际有限P4产物](45-timeline-evidence-integration/03-independent-use-output.md)分别保留。实际验收、前后对象与结构检查由45记录串联；只覆盖本轮列明增量，不授真人或跨项目效果资格，46并行空间方法另记。
+
+## 2026-10-17 空间玩法与隐线方法增量
+
+采用范围与实际新对象见[空间记录](46-spatial-design/00-integration.md)。新增空间专项、推理5.5及相关交付／路由／交接接口；后续资格以空间记录的实际复核记录为准，不继承旧全篇或真人通过。
+
+## P4内嵌推理桥段：当前新增方法
+
+2026-10-16，用户直接要求明确侦探等集中推理玩法在P4单列KP专项设计。新增[方法](../references/embedded-investigation.md)，接入调用、流程、产物、字段和审核；原推理定义不复制，普通问答不强制小游戏化。实际变更、旧方法基线与有限输入使用见[42记录](42-embedded-investigation/00-integration.md)，[独立KP审读及修复关闭](42-embedded-investigation/04-independent-kp-review.md)保其实际范围。旧方法基线已正确处理多项边界，未声称新增方法因果改善了体验。资格限方法文本与固定条件纸面使用／KP专项设计审读，不授真人、完整规则或跨项目效果；未安装、提交或远端发布。
+
+
 这里保留技能建设、来源迁移、实际试用和独立审核的证据。普通写作从[技能入口](../SKILL.md)开始；维护或审核技能时再查本目录。
 
 本次推理目标与线索分布扩展见[inference](inference/README.md)，使用产物与四席复核绑定本轮技能对象；旧包验收不自动覆盖新增参考。
@@ -9,6 +22,10 @@
 本轮工作流依赖循环与按游戏配置修订见[28修订验收](28-workflow-revision-review.md)和[29独立使用检查](29-workflow-use-check.md)，资格仅覆盖各报告绑定的对象与验证范围。
 
 本轮第2步干扰发展及COC第6步具体设计见[30修订记录](30-coc-workflow-revision.md)、[31内容验收](31-coc-workflow-content-review.md)、[32规则验收](32-coc-rules-review.md)和[33独立使用](33-coc-workflow-use-check.md)。第6步职责以本轮为准，28／29保留其当时对象与资格。
+
+## 2026-10-17：P4/P5整理、六步实施与单席审修（47）
+
+当前更新归属与发布边界见[47合入记录](47-p4-p5-integration/00-integration.md)。P4桥段、P5实施、空间专项分层；必要图文与可选资源边界已修，原P3未发布工作保留。实际单席审核、修订与发布候选复核按47报告登记；旧42—46结论保原对象，本轮不授真人或全程运行资格。
 
 ## 先看当前状态
 
@@ -54,3 +71,13 @@
 
 
 官方简体中文许可PDF的内容与排版验收见[26中文版PDF验收](26-chinese-license-pdf-review.md)。
+
+
+
+
+2026-10-16完整P4与独立桥段说明的交付澄清见[43记录](43-complete-p4-delivery/00-integration.md)：方法只在专项页维护，产物标准路由调用；[独立复验](43-complete-p4-delivery/02-independent-review.md)已通过，限报告绑定的方法文本与固定条件纸面使用，具体项目及真实运行另验。
+
+
+## 2026-10-16 完整案件专章交付澄清（44）
+
+用户纠正后，完整独立案件线索与推理设计为条件产物，速览仅为可选附件。[采用与实际改动](44-full-case-chapter/00-integration.json)；[独立文本复验](44-full-case-chapter/01-independent-review.md)。必修FC-01已关闭，资格限方法交付澄清，不授项目或游玩验证。

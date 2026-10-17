@@ -1,0 +1,72 @@
+[
+  {
+    "base": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing",
+    "file": "SKILL.md",
+    "sha256": "8c446ca69e07e2d6a89ace9788704a6d4118d52305f3e0018e70372c99d5f94b"
+  },
+  {
+    "base": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing",
+    "file": "ARCHITECTURE.md",
+    "sha256": "b72ea828a5f7440dde0779d09b72ec5f9ebe4a8ab1ed26cd87c8302197e5bcc9"
+  },
+  {
+    "base": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing",
+    "file": "references/workflow.md",
+    "sha256": "b2dc5513d6ea8fe09590c0a24bb5fd44ee3a90247aaee195ac76478930336380"
+  },
+  {
+    "base": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing",
+    "file": "references/inference-design.md",
+    "sha256": "1a5345ea5846e195afc39c5bfc40f08ec8267e987d2129af0c7262d114ed6b58"
+  },
+  {
+    "base": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing",
+    "file": "references/deliverables.md",
+    "sha256": "3ee4bf47049640bba1d554742f00b56a28dba45082018ad68662321711a958d8"
+  },
+  {
+    "base": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing",
+    "file": "references/contracts.md",
+    "sha256": "d129aeaebcdb21b76595bf248248cbd88ab1edda1f77903b46808bcd1134110d"
+  },
+  {
+    "base": "D:\\SZK\\Personal\\COC\\CocSWSkill\\coc-script-writing",
+    "file": "references/review.md",
+    "sha256": "333b969b607448c1c73e07be0c0ce0a560a0ed7fbab0f5c2f96f979bbb283902"
+  },
+  {
+    "base": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing",
+    "file": "SKILL.md",
+    "sha256": "45d4d6b87c8829451ffc1ad49b3176f7c62cc38f5a169d9eacd68880dbc25535"
+  },
+  {
+    "base": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing",
+    "file": "ARCHITECTURE.md",
+    "sha256": "3365f73fe406cc889863bd5c3030c16460a0c4433c430532e61769c22ca92484"
+  },
+  {
+    "base": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing",
+    "file": "references/workflow.md",
+    "sha256": "f2b5638c3eab83ff6fb56a695e58eda381863df9040856a4161b953539f29968"
+  },
+  {
+    "base": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing",
+    "file": "references/inference-design.md",
+    "sha256": "52041dd48baaaaad2a2952242649fcc052eb15f89200731cc191f47064526287"
+  },
+  {
+    "base": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing",
+    "file": "references/deliverables.md",
+    "sha256": "3ee4bf47049640bba1d554742f00b56a28dba45082018ad68662321711a958d8"
+  },
+  {
+    "base": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing",
+    "file": "references/contracts.md",
+    "sha256": "4df4144be193ef8fc7dbf803181c786ef93c4140e7dcccb0bebfe0ede9e38d0f"
+  },
+  {
+    "base": "D:\\SZK\\Personal\\COC\\echo\\coc-script-writing",
+    "file": "references/review.md",
+    "sha256": "cc5ac2a7b4790528dcded87f45a89255df643262e3ecb1f783c462e2f7a9d79e"
+  }
+]

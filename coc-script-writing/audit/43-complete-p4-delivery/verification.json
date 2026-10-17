@@ -1,0 +1,34 @@
+{
+  "scope": "作者内容与结构自查，独立复验待执行",
+  "checks": [
+    {
+      "file": "references/embedded-investigation.md",
+      "source_matches_working": true,
+      "relative_file_links_missing": []
+    },
+    {
+      "file": "references/deliverables.md",
+      "source_matches_working": true,
+      "relative_file_links_missing": []
+    },
+    {
+      "file": "audit/acceptance.md",
+      "source_matches_working": true,
+      "relative_file_links_missing": []
+    },
+    {
+      "file": "audit/README.md",
+      "source_matches_working": true,
+      "relative_file_links_missing": []
+    },
+    {
+      "check": "delivery_and_preview_actual_content",
+      "passed": true
+    },
+    {
+      "check": "deliverables_to_embedded_section_anchor",
+      "passed": true,
+      "anchor_rule": "Markdown中文标题保留汉字、P4小写为p4"
+    }
+  ]
+}

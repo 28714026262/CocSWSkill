@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-16",
+  "request": "用户明确独立部分应为刑侦案件线索推理设计全过程，不是独立说明页",
+  "scope": "完整产物要求纠正；速览作为可选附件，已有原源、证明及P4/P5职责不变",
+  "files": {
+    "references/embedded-investigation.md": "c4c2974307e926567e3c0321dc0ddb661ede1a76e48145419872b3f3e9d03dc2",
+    "references/deliverables.md": "7f083d313033cbf5edb936e4e1b5c559a8fbda919718fea3a8d42685f0c13c99"
+  },
+  "independent_review": "已通过；FC-01实读关闭，见01-independent-review.md",
+  "validation": "作者文本核对及源副本同步，不称运行测试"
+}

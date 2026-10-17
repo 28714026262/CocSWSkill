@@ -1,0 +1,22 @@
+[
+  {
+    "file": "references/embedded-investigation.md",
+    "before_sha256": "0a659181aa584237bd0e763eed9f4c4eee66457f1407b78aea132fcaed23bc61",
+    "working_before_sha256": "0a659181aa584237bd0e763eed9f4c4eee66457f1407b78aea132fcaed23bc61"
+  },
+  {
+    "file": "references/deliverables.md",
+    "before_sha256": "3ee4bf47049640bba1d554742f00b56a28dba45082018ad68662321711a958d8",
+    "working_before_sha256": "3ee4bf47049640bba1d554742f00b56a28dba45082018ad68662321711a958d8"
+  },
+  {
+    "file": "audit/acceptance.md",
+    "before_sha256": "5fda00b0903597ddfca8b2d513027d608682af078ae3df3b57425bb4389a9413",
+    "working_before_sha256": "94d7a29cd7bf28a86fd88f802b01dddb3d3c7eaf2965d3a527b3bb61a9bedc97"
+  },
+  {
+    "file": "audit/README.md",
+    "before_sha256": "83714396dc24944d6e8df3661473d338ac5035d1ff60303830718664ec188403",
+    "working_before_sha256": "c1b49d5c1f16c776c09da99296d9d67c0736aa09696cd2404038159804ea6ec6"
+  }
+]

@@ -39,6 +39,7 @@ CocSWSkill是一套中文剧本开发方法与可按需加载的Codex skill，�
 | 媒介、任务、阶段分别分类 | 一般叙事、互动和COC按需增加方法，局部任务无需加载整个体系 |
 | 从剧情用途设计推理 | 将目标、竞争解释、证据组合、调查路径和行动用途连接起来 |
 | 亲手推理与线索投放一起设计 | 不只决定在哪里放答案，还设计比较、验证、重估和提供机会 |
+| 集中推理与空间玩法可独立深化 | 用完整案件专章组织比较过程，用真实布局、可辨路线和状态反馈支持行动 |
 | 时间、体验与疲劳共同检查 | 分清现实时间、世界时间与个人参与，检查积累、释放和真实恢复 |
 | 主题落实到场景与材料 | 用具体行为和呈现产生体验，保留中性对照及证据公平 |
 | 真实选择与成果持续 | 提前识破、救援、取消和延迟实际生效，后续按新条件发展 |
@@ -80,6 +81,9 @@ cd CocSWSkill
 | AI按任务调用入口 | [SKILL.md](coc-script-writing/SKILL.md) |
 | 前置＋八阶段、验收与返修路径 | [工作流总图](coc-script-writing/references/workflow.md#工作流总图) |
 | 推理目标、认知、线索与投放 | [推理设计](coc-script-writing/references/inference-design.md) |
+| 集中调查桥段、时序见闻与完整案件设计 | [P4桥段](coc-script-writing/references/embedded-investigation.md) |
+| 从空间约束到图文与互动的六项工作 | [P5实施](coc-script-writing/references/scene-construction.md) |
+| 路线选择、地图诡计、隔离与建筑危机 | [空间设计](coc-script-writing/references/spatial-design.md) |
 | 游玩时间、节奏、疲劳与展示 | [节奏评估](coc-script-writing/references/play-evaluation.md) |
 | 主题及线索／痕迹呈现 | [主题呈现](coc-script-writing/references/theme-presentation.md) |
 | 文件职责和长期维护 | [架构](coc-script-writing/ARCHITECTURE.md) |

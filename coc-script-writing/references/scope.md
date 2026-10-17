@@ -31,6 +31,8 @@
 | 诊断已有故事／支线 | [叙事](narrative.md)；若审核加[验收](review.md) | 位置、成因、影响和推荐，分析不自动改稿 |
 | 写一般大纲、场景或数字固定过场 | [叙事](narrative.md)、[技巧](craft.md) | 指定粒度的实际正文，固定过场无需增加选择树 |
 | 设计非调查互动的合作、任务或跨线 | [互动](interactive.md)；跨线加[叙事](narrative.md)及[七类联系](investigation.md#seven-links) | 条件、动作、状态与反馈；按需采用行动或信息／探索联系 |
+| 制作P5地图、场景与实际材料 | [P5实施](scene-construction.md)及[产物](deliverables.md#stage-s5) | 整体约束与骨架、分批细化、实际图文、互动和P6需求 |
+| 设计空间探索、地图诡计、追逃或建筑生存 | [空间设计](spatial-design.md)，联查所属阶段 | 真图／剖面、路线选择、隔离与传播、操作反馈及实际图文 |
 | 设计调查信息与推理体验 | [推理设计](inference-design.md)，加相关[叙事](narrative.md)／[互动](interactive.md)；七类联系读[调查](investigation.md#seven-links) | 玩家材料、认知动作、证明范围及行动用途 |
 | 写COC异常或主持材料 | [COC](coc.md)，加涉及的人物／条件参考 | 符合当前系统与交付成熟度的具体产物 |
 | COC第6步数据、判定与特殊处理设计 | [COC配置专页](coc-rules-design.md)，联查[流程](workflow.md) | 默认裁定、KP参考表、事件回写与复核范围 |
