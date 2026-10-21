@@ -1,0 +1,49 @@
+{
+  "head": "1104e4f7d440ddeeeb673afcec9c52ad2bd1e91d",
+  "dirty": "",
+  "files": [
+    {
+      "path": "frontend/src/Content.jsx",
+      "sha256": "2258dae750ca9f4deaab74d7e7bcc4f3f99c43e5c9f5c338d05b7bbaea888efa"
+    },
+    {
+      "path": "frontend/src/Timeline.jsx",
+      "sha256": "58fcc785021e977c5a2cec77b27d23cc402d06e7abe244fe7387d26c9ae39eec"
+    },
+    {
+      "path": "backend/src/main/java/local/keeper/BackupService.java",
+      "sha256": "1655197f1737d4c3a05022283cefc36dbcfafe843990266ba62ec47d9f6475a7"
+    },
+    {
+      "path": "backend/src/main/java/local/keeper/FileStore.java",
+      "sha256": "9606988e2f402da3a11bc18b7c4a443f400e50fb2eed4ec497213f6dae4dfe88"
+    },
+    {
+      "path": "backend/src/main/java/local/keeper/ApiController.java",
+      "sha256": "cf51be3218a3498252e9ba3dd851fb148130b6c64fcbb85af658342ef5ef7449"
+    },
+    {
+      "path": "frontend/src/Desk.jsx",
+      "sha256": "ac6579e437813d2742981194fadc36c20cfd90c912ae5a1030ef5f9292167c1b"
+    },
+    {
+      "path": "backend/src/main/java/local/keeper/KeeperStore.java",
+      "sha256": "2bb3160874bbb2396c265fca742e241368cf0c3da59e7a0a3d3d23b3933a01ee"
+    },
+    {
+      "path": "backend/src/main/java/local/keeper/PlayerMaterials.java",
+      "sha256": "d79ec4ee34c8fe818be8f1dfcfa89480d568e3595804ee7d5b24fe109dc7dc1a"
+    }
+  ],
+  "product": "Pigeon Host / 鸽巢",
+  "checkedAt": "2026-10-21",
+  "scope": "Source inspection only; no service import or runtime acceptance in this integration.",
+  "jsonFormat": {
+    "format": "keeper-content",
+    "version": 1
+  },
+  "zipFormat": {
+    "format": "keeper-backup",
+    "version": 2
+  }
+}

@@ -1,0 +1,34 @@
+---
+name: scenario-inference
+description: "Use when designing bounded judgments, evidence and proof, cognitive progress, inference experience, clue acquisition and distribution, or how player understanding enables play and further inferences."
+---
+
+# 推理目标与线索设计
+
+确认本轮对象、目标、采用输入、固定／可改范围、受众及实际交付。已有约定直接使用；决定性缺口集中说明，独立可做部分继续。共同约定按需读[范围](../scenario-writing/references/common/scope.md)；整阶段制作／审核读[当前阶段合同](../scenario-writing/references/common/deliverables.md)，局部任务不扩成全流程。
+
+## 按任务加载
+
+|当前任务|读取|使用范围|
+|---|---|---|
+|目标／用途|[goals](references/goals.md)|再读empowerment.md，仅展开适用赋能|
+|认识阶段|[cognitive-stages](references/cognitive-stages.md)|事件与单目标、相信与根据分别记录|
+|材料／证明|[clues-and-evidence](references/clues-and-evidence.md)|内容、来源、取得及证明范围|
+|推理体验|[experience](references/experience.md)|比较、重构与验证，不用后台答案代体验|
+|投放／完整制作|[distribution](references/distribution.md)|按templates.md交实际目标、线索和运行材料|
+|完整P4／内嵌桥段|[embedded-investigation](references/embedded-investigation.md)|同时按当前阶段合同交完整进程与集中玩法|
+|理论总览／案例／反例|[inference-design](references/inference-design.md)|按分支进入investigation、worked-example、review-cases|
+
+表是条件加载入口，选择当前分支，不一次读全部参考。必要引用继续读取；已有项目卡／图／材料可直接作为输入，不因此重做其作者流程。调用skill、读取兄弟参考、执行工具、创建代理与安装是不同动作。
+
+## 执行与回写
+
+剧情处境与玩家关切→希望支持的游玩变化→成立世界事实→判断及是否需要推断→认识阶段与用途→可行行为和反馈→具体线索、证明与投放→反例走查。
+
+分析交诊断；制作交实际内容；修订按已有授权实改并同步受影响对象；审核绑定版本与证据。缺前序条件按[依赖循环](../scenario-writing/references/common/workflow.md)回到责任处，补好后返回当前任务。项目事实、具体知情、采用版本、输出和场次记录在项目目录，共同方法不回填项目数据。
+
+## 完成条件
+
+交有边界目标、实际材料／入口、证明与竞争解释、体验及应用条件。区分内容／体验／用途、任务／意图／行为／结果。主动行动、行为指导、目标间触类旁通按实际用途选，紧迫感不单独算赋能。完整阶段不以线索字典代替桥段或主稿。
+
+返回实际产物入口、采用输入／版本、主要变更、已做检查与未完成影响。独立审核由实际未参与编写者执行，作者自查不改记独立。文本、纸面模拟、工具运行和真人使用按实际证据登记；没有新问题不为轮数追加工作。

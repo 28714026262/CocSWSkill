@@ -1,0 +1,12 @@
+{
+  "originalServicesTouched": false,
+  "portsNoLongerListening": [
+    14317,
+    19879
+  ],
+  "preservedSpaces": 4,
+  "app": "console Ctrl-C with JVM graceful shutdown log",
+  "stoppedAt": "2026-10-21T07:40:50.6200235Z",
+  "preservedTestRoot": "D:/SZK/Personal/COC/echo/research/2026-10-21-skill拆分实施/tests/consumer-runtime",
+  "mysql": "mysqladmin shutdown on isolated 14317"
+}

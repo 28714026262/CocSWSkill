@@ -1,0 +1,4 @@
+interface:
+  display_name: "剧本成品与载体交付"
+  short_description: "重编完整成品并整合同版资源，完成文件导出与选定载体交接"
+  default_prompt: "请使用 $scenario-production，根据当前采用材料与本轮目标，完成相应实际产物并说明验证范围。"

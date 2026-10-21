@@ -1,0 +1,4 @@
+interface:
+  display_name: "规则适配与执行配置"
+  short_description: "按选用规则配置角色、行动和机制，形成可执行处理及查阅依据"
+  default_prompt: "请使用 $scenario-rules，根据当前采用材料与本轮目标，完成相应实际产物并说明验证范围。"

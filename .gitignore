@@ -5,3 +5,7 @@ Thumbs.db
 
 # Local development helpers are not part of the published writing skill.
 /coc-script-writing/scripts/
+
+# Local teaching assets: public distribution permission is pending.
+/coc-script-writing/assets/p8-examples/
+/skills/scenario-production/assets/p8-examples/

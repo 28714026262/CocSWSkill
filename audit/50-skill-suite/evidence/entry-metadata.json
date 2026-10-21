@@ -1,0 +1,86 @@
+{
+  "skills": [
+    {
+      "skill": "scenario-inference",
+      "official_validator": true,
+      "message": "Skill is valid!",
+      "ui_valid": true,
+      "short_description_characters": 27,
+      "implicit_selection_enabled": true
+    },
+    {
+      "skill": "scenario-media",
+      "official_validator": true,
+      "message": "Skill is valid!",
+      "ui_valid": true,
+      "short_description_characters": 29,
+      "implicit_selection_enabled": true
+    },
+    {
+      "skill": "scenario-narrative",
+      "official_validator": true,
+      "message": "Skill is valid!",
+      "ui_valid": true,
+      "short_description_characters": 27,
+      "implicit_selection_enabled": true
+    },
+    {
+      "skill": "scenario-pacing",
+      "official_validator": true,
+      "message": "Skill is valid!",
+      "ui_valid": true,
+      "short_description_characters": 27,
+      "implicit_selection_enabled": true
+    },
+    {
+      "skill": "scenario-play",
+      "official_validator": true,
+      "message": "Skill is valid!",
+      "ui_valid": true,
+      "short_description_characters": 27,
+      "implicit_selection_enabled": true
+    },
+    {
+      "skill": "scenario-production",
+      "official_validator": true,
+      "message": "Skill is valid!",
+      "ui_valid": true,
+      "short_description_characters": 27,
+      "implicit_selection_enabled": true
+    },
+    {
+      "skill": "scenario-review",
+      "official_validator": true,
+      "message": "Skill is valid!",
+      "ui_valid": true,
+      "short_description_characters": 25,
+      "implicit_selection_enabled": true
+    },
+    {
+      "skill": "scenario-rules",
+      "official_validator": true,
+      "message": "Skill is valid!",
+      "ui_valid": true,
+      "short_description_characters": 28,
+      "implicit_selection_enabled": true
+    },
+    {
+      "skill": "scenario-space",
+      "official_validator": true,
+      "message": "Skill is valid!",
+      "ui_valid": true,
+      "short_description_characters": 27,
+      "implicit_selection_enabled": true
+    },
+    {
+      "skill": "scenario-writing",
+      "official_validator": true,
+      "message": "Skill is valid!",
+      "ui_valid": true,
+      "short_description_characters": 28,
+      "implicit_selection_enabled": true
+    }
+  ],
+  "all_passed": true,
+  "runtime_note": "Used existing local PyYAML dependency via process-local sys.path; no package installed or changed. Metadata validity is not actual platform discovery."
+}

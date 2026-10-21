@@ -1,0 +1,102 @@
+{
+  "results": [
+    {
+      "case": "lightweight-pacing",
+      "members": [
+        "scenario-writing",
+        "scenario-pacing"
+      ],
+      "required_files": [
+        "scenario-writing/references/common/scope.md",
+        "scenario-pacing/references/entry-contract.md",
+        "scenario-pacing/references/time-model.md",
+        "scenario-pacing/references/worksheets.md"
+      ],
+      "missing": [],
+      "expected_missing": [],
+      "passed": true,
+      "scope": "Actual selected mandatory method files in an isolated copied installation; all conditional content branches are not automatically certified"
+    },
+    {
+      "case": "character-consistency",
+      "members": [
+        "scenario-writing",
+        "scenario-rules",
+        "scenario-narrative"
+      ],
+      "required_files": [
+        "scenario-rules/references/character-configuration.md",
+        "scenario-narrative/references/player-design.md"
+      ],
+      "missing": [],
+      "expected_missing": [],
+      "passed": true,
+      "scope": "Actual selected mandatory method files in an isolated copied installation; all conditional content branches are not automatically certified"
+    },
+    {
+      "case": "bounded-inference-review",
+      "members": [
+        "scenario-writing",
+        "scenario-review",
+        "scenario-inference"
+      ],
+      "required_files": [
+        "scenario-review/references/review.md",
+        "scenario-inference/references/goals.md",
+        "scenario-inference/references/review-cases.md"
+      ],
+      "missing": [],
+      "expected_missing": [],
+      "passed": true,
+      "scope": "Actual selected mandatory method files in an isolated copied installation; all conditional content branches are not automatically certified"
+    },
+    {
+      "case": "negative-character-without-narrative",
+      "members": [
+        "scenario-writing",
+        "scenario-rules"
+      ],
+      "required_files": [
+        "scenario-rules/references/character-configuration.md",
+        "scenario-narrative/references/player-design.md"
+      ],
+      "missing": [
+        "scenario-narrative/references/player-design.md"
+      ],
+      "expected_missing": [
+        "scenario-narrative/references/player-design.md"
+      ],
+      "passed": true,
+      "scope": "Actual selected mandatory method files in an isolated copied installation; all conditional content branches are not automatically certified"
+    },
+    {
+      "case": "negative-pacing-without-base",
+      "members": [
+        "scenario-pacing"
+      ],
+      "required_files": [
+        "scenario-writing/references/common/scope.md",
+        "scenario-pacing/references/entry-contract.md",
+        "scenario-pacing/references/time-model.md",
+        "scenario-pacing/references/worksheets.md"
+      ],
+      "missing": [
+        "scenario-writing/references/common/scope.md"
+      ],
+      "expected_missing": [
+        "scenario-writing/references/common/scope.md"
+      ],
+      "passed": true,
+      "scope": "Actual selected mandatory method files in an isolated copied installation; all conditional content branches are not automatically certified"
+    },
+    {
+      "case": "public-examples-explicitly-unavailable",
+      "index_exists": true,
+      "raw_assets_present": false,
+      "passed": true,
+      "scope": "Public method export retains conditional resource explanation; does not claim example generation/import tested"
+    }
+  ],
+  "all_passed": true,
+  "scope": "Actual isolated copies and selected mandatory-path positive/negative checks, not automatic skill selection, platform installation or all task execution."
+}

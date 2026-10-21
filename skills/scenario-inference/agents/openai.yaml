@@ -1,0 +1,4 @@
+interface:
+  display_name: "推理目标与线索设计"
+  short_description: "设计有边界判断、真实线索与推理体验，让认识支持实际游玩"
+  default_prompt: "请使用 $scenario-inference，根据当前采用材料与本轮目标，完成相应实际产物并说明验证范围。"

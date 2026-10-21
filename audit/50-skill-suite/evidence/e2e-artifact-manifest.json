@@ -1,0 +1,1159 @@
+{
+  "closed_utc": "2026-10-21T08:02:47.574163+00:00",
+  "release": "public-semantic-closure-repair-1",
+  "scope": "current actual authored artifacts, explicitly preserved initial evidence and root PDF evidence; own hash excluded",
+  "public_packages": [
+    {
+      "version": "R1",
+      "zip": "project-rain\\player-R1.zip",
+      "zip_sha256": "7FE7D831316BFEE57A51C1295D5B28CC4BB9277D58928644555C6F2880971B95",
+      "manifest": "project-rain\\player-manifest-R1.json",
+      "manifest_sha256": "EE2FA584754779A9D23011BFBD48A9106D6A9B1C0B60DFD83C986E3788103880",
+      "changed_or_new": [
+        "START.html",
+        "manual.html",
+        "shared-run.html"
+      ],
+      "files": 11,
+      "copied_probe": "records\\closure-repair-probe\\R1"
+    },
+    {
+      "version": "R1-card",
+      "zip": "project-rain\\player-R1-card.zip",
+      "zip_sha256": "5725AABF15D62E06838576680C410DC01D66E15208A0F9986629F7CD794C95D1",
+      "manifest": "project-rain\\player-manifest-R1-card.json",
+      "manifest_sha256": "8E30ECBA2CE50CC947F4B9EBB642BC5955B30ECD78A04C2B3012ED9C02353EC9",
+      "changed_or_new": [
+        "START.html",
+        "manual.html",
+        "shared-run.html"
+      ],
+      "files": 11,
+      "copied_probe": "records\\closure-repair-probe\\R1-card"
+    },
+    {
+      "version": "R2",
+      "zip": "project-rain\\player-R2.zip",
+      "zip_sha256": "69471FD0DE4235D13F5B597B1518632319D41EF74157F46199D767CDB69A5819",
+      "manifest": "project-rain\\player-manifest-R2.json",
+      "manifest_sha256": "504F523AEFD0DD81EEAA9CFA3B5B84189D61225BFF0BA196DF608DECB4882B84",
+      "changed_or_new": [
+        "START.html",
+        "manual.html",
+        "shared-run.html"
+      ],
+      "files": 11,
+      "copied_probe": "records\\closure-repair-probe\\R2"
+    }
+  ],
+  "R1_full_HTML_sha256": "410F9C9944BF7B9288A65C9FBF38E2366540DA75908342AD4B33C1348B48C976",
+  "R1_root_PDF_sha256": "923CA38DE06F53FB6ED6DC1BC5EE1D0508E8B92262C4F7DEA8AC1297A4377640",
+  "suite_integrity": {
+    "closed_utc": "2026-10-21T08:02:47.574163+00:00",
+    "source_before": "suite-before.json",
+    "source_after": "suite-after-public-repair.json",
+    "files_before": 151,
+    "files_after": 151,
+    "changed": [],
+    "added": [],
+    "removed": [],
+    "unchanged": true,
+    "scope": "closing hash comparison after public-package repair; no suite writes or new method reads"
+  },
+  "independent_original_reviewer_recheck": "pending; not author closed",
+  "excluded": [
+    "all browser profiles",
+    "duplicated relocated probe copies",
+    "old raw debug DOM/log duplicates except repair evidence",
+    "unrequested or future reviewer opinions",
+    "manifest self hash"
+  ],
+  "files": [
+    {
+      "path": "output/pdf/export-attempt1.log",
+      "bytes": 2,
+      "sha256": "7EB70257593DA06F682A3DDDA54A9D260D4FC514F645237F5CA74B08F8DA61A6",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/export-evidence.json",
+      "bytes": 2187,
+      "sha256": "BA885B71E482455CE242AA034C02DA8BC93884A5528B482E4DBF6A71FB6BB8C6",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/export.log",
+      "bytes": 2,
+      "sha256": "7EB70257593DA06F682A3DDDA54A9D260D4FC514F645237F5CA74B08F8DA61A6",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/extracted-text.txt",
+      "bytes": 32066,
+      "sha256": "21C63393FF731211108E59A695210C6B960C66CA8E20D0C8DA95798667FD9E37",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/page-01.png",
+      "bytes": 393562,
+      "sha256": "A283E1DF76E4347DAC04E4C1E3E68B319AD73CC1BF1B0963CAA8D79B0B77529F",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/page-02.png",
+      "bytes": 262742,
+      "sha256": "6B9E17EACE9E85427903D099A9888DE2AC35DD600E40D82708B0FB3BCE3D6B3F",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/page-03.png",
+      "bytes": 198633,
+      "sha256": "9499286B23702A3A4D41A36BA505F0CDF5B4B0E484F03829F5623223EB75325B",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/page-04.png",
+      "bytes": 399877,
+      "sha256": "2C2D239FAFC7983392CBC45F2F84DBA43246C7FC71EE0C632D27ABCFAD90C010",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/page-05.png",
+      "bytes": 244324,
+      "sha256": "1B9919C17F6131D1A8F2925E01231174790DF3685AB9C4B1E44023A174BFDD27",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/page-06.png",
+      "bytes": 355770,
+      "sha256": "6E37EB26A6DFE4B5E3BAB0D844592586DABD0426BDDF996CFB95060C42D41B9F",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/page-07.png",
+      "bytes": 390375,
+      "sha256": "B155D4A6BBE0C76A586C4E48E300B5B0DC865E6D3A6F2235D3B4908C16D0C2B6",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/page-08.png",
+      "bytes": 402813,
+      "sha256": "3538527BDDFE811BACCB110E69AEE7B3EE995D148952AA9BDB89EA8A9FE0D24F",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/page-09.png",
+      "bytes": 404751,
+      "sha256": "1B643AA68BEEBDB4DACFF27676338C90AE4172088A35AABDB9ECEDB32148E05A",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/page-10.png",
+      "bytes": 227325,
+      "sha256": "66F359DFF0D623BE6CADDAD55C6B31FA7C4A5DBB6A53555E164CA4D18BFC4543",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/page-11.png",
+      "bytes": 305053,
+      "sha256": "1F3069BB6E649752E4A60697105F7DFA11BB1BBF8053D32D09FCC32DD19CC296",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/pdfinfo.txt",
+      "bytes": 678,
+      "sha256": "3BC29928C573133DD9485D211455476B88A8D02919EB5D96FD5B4661D8B70C8D",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/rain-before-sealing-r1.pdf",
+      "bytes": 477585,
+      "sha256": "923CA38DE06F53FB6ED6DC1BC5EE1D0508E8B92262C4F7DEA8AC1297A4377640",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "output/pdf/visual-review.md",
+      "bytes": 2662,
+      "sha256": "5B06410AB16957C9EB4ECAFA967AACF525ABBA2CE66EA34D85938A58B3700B3B",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/cards/R1-CHEN.md",
+      "bytes": 2419,
+      "sha256": "50E4B7F77E0EE22E7C016B7119CF562E199D99CC2BDF69D74C56EE9748FBC78A",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/cards/R1-JI.md",
+      "bytes": 2674,
+      "sha256": "0128CACF445A4D95F81588DF80307A63D81C1C74825DDA064C4456B9BF46DB8A",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/cards/R1-LIN.md",
+      "bytes": 2391,
+      "sha256": "87F365D0E5045CFF8B12BA2FED00B1D0BBFFCF35B363DAB884E7B9DD1498889E",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/cards/R1-WU.md",
+      "bytes": 2423,
+      "sha256": "DEA53B1EB649DCD232D3860A287B76BAF344BB4AF130005F4C3CBE4DEDC457AB",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/maps/author-notes.md",
+      "bytes": 723,
+      "sha256": "F3ED018799D731F43D2F3EEB34601C0AB62D24BB6F6DE8ACF98D7369174A4997",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/maps/floor-cleared.svg",
+      "bytes": 3949,
+      "sha256": "55DA89F3B3DE11FC16EF358B82EE5492196AFC8A4A31CB73444B1450F5559F24",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/maps/floor-initial.svg",
+      "bytes": 4106,
+      "sha256": "CAC21C2A78A10341BEC5A1B37ED4EE8AD0BDC81AC28C278F05FC0077D3EA815A",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/maps/floor-sealed.svg",
+      "bytes": 4035,
+      "sha256": "67E531CF129BECC7489F846E27EAF5719DA95AD1C88C77074CE5AF6B7978D63C",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/maps/geometry.json",
+      "bytes": 3444,
+      "sha256": "3DD1FF44AACB5A08A115634809FCE84FEBA501A80B32929EF0693E894B2EF6FB",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/noninteractive/short-play.md",
+      "bytes": 2071,
+      "sha256": "DDC144381A61B87DADB962B11E1629A0D170AA4AA5BE15A935C2F424000C12B1",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/P8-R1-card.html",
+      "bytes": 42323,
+      "sha256": "E6F5F3EC16A6C79DD02B46D3245445E8FFECB89DB7063EB2EDE95F8F85317798",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/P8-R1-card.md",
+      "bytes": 32026,
+      "sha256": "55F776B83D8CCC7DA6AB4470E984FF53E30C78302AED95AFDB05EFCD99E47245",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/P8-R1.html",
+      "bytes": 41255,
+      "sha256": "410F9C9944BF7B9288A65C9FBF38E2366540DA75908342AD4B33C1348B48C976",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/P8-R1.md",
+      "bytes": 30963,
+      "sha256": "5E1E82539FB8BCC2AD3E3EB7E44970B33E885CB0A92335A603B613107BA24B42",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/P8-R2.html",
+      "bytes": 41314,
+      "sha256": "9815BED1D24AC0F357657B65AB35AE07EC5E86FBE8CD5558BD6715F2C3195789",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/P8-R2.md",
+      "bytes": 31022,
+      "sha256": "67F3305833570BCFDD208C11E196A075426CFFB16AA44574F1A3C4CE2F760746",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/player/R1/floor.svg",
+      "bytes": 4106,
+      "sha256": "CAC21C2A78A10341BEC5A1B37ED4EE8AD0BDC81AC28C278F05FC0077D3EA815A",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1/intro.html",
+      "bytes": 1938,
+      "sha256": "E203DDD11EA935872785F13C21B72807D4EB134D3405259EF72DF5551CEE990F",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1/manual.html",
+      "bytes": 4924,
+      "sha256": "F266C36E5D5E5ADA74317AE34BC0A828C948415DA21B6150A6995EAFF77656FA",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1/note.html",
+      "bytes": 427,
+      "sha256": "1B0C145B6F0542F13A0D1F58D03A8B69FE34380229CD8B6AEB4F3A934F8935C8",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1/plaque.html",
+      "bytes": 451,
+      "sha256": "CE4C68A2044161CA0BB783D8E4402E6BBE9355055B341ED0889DBA1441BF972B",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1/role-CHEN.html",
+      "bytes": 3897,
+      "sha256": "591088011806C22B060350730D7593FBD9CF532D934EA82ED77977CFB51042F6",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1/role-LIN.html",
+      "bytes": 3869,
+      "sha256": "45BD7CEE654E65B0E18290D8F7A101D82E963C36EAAAD10CCBB84047B404951C",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1/role-WU.html",
+      "bytes": 3901,
+      "sha256": "26C896F04FE5EC2B94CC47001FFAF93321E1D761E9280F398048196667FE384C",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1/rules.html",
+      "bytes": 7697,
+      "sha256": "58FD3C40D4EA5DEFE9152E02A5EF645C7914D85741615E2AA96A94D13657515A",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1/shared-run.html",
+      "bytes": 9491,
+      "sha256": "D498BA9D8854E24AF7460EBB0AACF049C694A480636484E266E72BCCE0ACC06E",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1/START.html",
+      "bytes": 2681,
+      "sha256": "4B2CA645F63B9C903B7BEE5DEF93DB770817748C122D3CA8C0E56479936D828F",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1-card/floor.svg",
+      "bytes": 4106,
+      "sha256": "CAC21C2A78A10341BEC5A1B37ED4EE8AD0BDC81AC28C278F05FC0077D3EA815A",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1-card/intro.html",
+      "bytes": 1948,
+      "sha256": "BE335BF17D42782DD4B22BD88FADE63A8D87E4A8BBAB460452DD102812521346",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1-card/manual.html",
+      "bytes": 4934,
+      "sha256": "F348DBDB008D64489164A4016FE0E7375987E451AA7ADE6A9EB1DB977224F761",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1-card/note.html",
+      "bytes": 427,
+      "sha256": "1B0C145B6F0542F13A0D1F58D03A8B69FE34380229CD8B6AEB4F3A934F8935C8",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1-card/plaque.html",
+      "bytes": 451,
+      "sha256": "CE4C68A2044161CA0BB783D8E4402E6BBE9355055B341ED0889DBA1441BF972B",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1-card/role-CHEN.html",
+      "bytes": 4136,
+      "sha256": "3B76A6DFD6DAFC2178EADB447DF81C83684E901D244F5036A73060401C1B3E89",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1-card/role-LIN.html",
+      "bytes": 4108,
+      "sha256": "97A01F4C08F7F5E3D4C01A1D27DD4A5FB0FF0A3FD8CFBEA89001F1C15C65F7B5",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1-card/role-WU.html",
+      "bytes": 4140,
+      "sha256": "58303680DC61B2C5311B754572388024B4F98E21446CCFF08ED389E1676F9F07",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1-card/rules.html",
+      "bytes": 7983,
+      "sha256": "8C13086EDB57B1D4D3AAF3F595BB2992EB7DDBD9425B2970692AEC6A9711B3CA",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1-card/shared-run.html",
+      "bytes": 9501,
+      "sha256": "B5DF7D157A151B0F6781A4858B53321CDE57CE353EEAD0520708348A77D8532B",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R1-card/START.html",
+      "bytes": 2691,
+      "sha256": "B6B074279342B76B1005F67FB6AF0841DC847D32755F9182945EE15EAB01D85E",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R2/floor.svg",
+      "bytes": 4106,
+      "sha256": "CAC21C2A78A10341BEC5A1B37ED4EE8AD0BDC81AC28C278F05FC0077D3EA815A",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R2/intro.html",
+      "bytes": 1938,
+      "sha256": "6867C2A0CEAD13610B2C7368DECE9E60F3650FA7AD480BE8EE7DAAE1AACE5946",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R2/manual.html",
+      "bytes": 4924,
+      "sha256": "B3605E22ABE2FE3A8A8E669997C6F92DFB28A5F9200C9DF5A6C2CD52DF82A1A7",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R2/note.html",
+      "bytes": 427,
+      "sha256": "1B0C145B6F0542F13A0D1F58D03A8B69FE34380229CD8B6AEB4F3A934F8935C8",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R2/plaque.html",
+      "bytes": 451,
+      "sha256": "CE4C68A2044161CA0BB783D8E4402E6BBE9355055B341ED0889DBA1441BF972B",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R2/role-CHEN.html",
+      "bytes": 3914,
+      "sha256": "7ED586D5801A2866EFB39199B91615DD56770A623624A23431C2E891C1D785B1",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R2/role-LIN.html",
+      "bytes": 3886,
+      "sha256": "06362CD742464B0047253E72A34DC52F3A69698B1F1B4FACA61711DA66E39C0D",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R2/role-WU.html",
+      "bytes": 3918,
+      "sha256": "73127F7A8A3E0744058A4248AF023A8BBD793B6D4356C606EB470665D68A82D8",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R2/rules.html",
+      "bytes": 7743,
+      "sha256": "A7A3D0D445C896C7918C8A4764877587751D0298ADC5AE6A15A8B9A16B82E75E",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R2/shared-run.html",
+      "bytes": 9491,
+      "sha256": "D7A908C5727C184184D4F499294422A31C5E62B1E8CBB1A2359C70B2F0AD25E9",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player/R2/START.html",
+      "bytes": 2681,
+      "sha256": "7C8D35C9756FCEA439D5A306683A01EB93CE89A03198F48789175AF60862D45F",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player-manifest-R1-card.json",
+      "bytes": 2907,
+      "sha256": "8E30ECBA2CE50CC947F4B9EBB642BC5955B30ECD78A04C2B3012ED9C02353EC9",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/player-manifest-R1.json",
+      "bytes": 2897,
+      "sha256": "EE2FA584754779A9D23011BFBD48A9106D6A9B1C0B60DFD83C986E3788103880",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/player-manifest-R2.json",
+      "bytes": 2897,
+      "sha256": "504F523AEFD0DD81EEAA9CFA3B5B84189D61225BFF0BA196DF608DECB4882B84",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/player-R1-card.zip",
+      "bytes": 26443,
+      "sha256": "5725AABF15D62E06838576680C410DC01D66E15208A0F9986629F7CD794C95D1",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player-R1.zip",
+      "bytes": 25902,
+      "sha256": "7FE7D831316BFEE57A51C1295D5B28CC4BB9277D58928644555C6F2880971B95",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/player-R2.zip",
+      "bytes": 25974,
+      "sha256": "69471FD0DE4235D13F5B597B1518632319D41EF74157F46199D767CDB69A5819",
+      "purpose": "current player release"
+    },
+    {
+      "path": "project-rain/source/adoption.md",
+      "bytes": 4642,
+      "sha256": "7EC29D530EEAB571F6112DF77084E9D454426A46E4C05A101147E1066D8E5AF2",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/source/characters.md",
+      "bytes": 5424,
+      "sha256": "0D35B1FB32AEEB81EC813DF6501D5D0412CDA9AD00E7B57E75CB2A998CAA61E1",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/source/input.md",
+      "bytes": 7291,
+      "sha256": "B611DE50091197AD0BE9691FC56107C5DEA15FC160A005AD62E48FA0FB32264E",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/source/P4-R1.md",
+      "bytes": 7615,
+      "sha256": "472D029430DC72245029F4E3F470E564FA0E45D6308EB79798D0C4BCE1E192F4",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/source/P5-R1.md",
+      "bytes": 5839,
+      "sha256": "2C4776F316882DA462B79ABB989C873FC25F8F56FB0A1C0513D1DF708ABB9A7C",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/source/P6-R1.md",
+      "bytes": 6923,
+      "sha256": "BB60D9226E7EF1B24220109E5629AB876EEB931D2FF6DF6B747B65604D5FB0BC",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/variants/comparison.md",
+      "bytes": 2383,
+      "sha256": "557B5A12CCA5AAB193778278A2CEF49DA98CF709BE88B90EA69CBA7B5D4707A3",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/variants/R1-card/cards/R1-card-CHEN.md",
+      "bytes": 2648,
+      "sha256": "B7A486CD6A98FE80A39BDE21E1EE6CAC1F2F1F08AB573A16F2943A6AEFA6DF7E",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/variants/R1-card/cards/R1-card-LIN.md",
+      "bytes": 2620,
+      "sha256": "AA152C446423F0361DC6689F823D6BCAAF3B05969323D74BB2B09E8BB813295B",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/variants/R1-card/cards/R1-card-WU.md",
+      "bytes": 2652,
+      "sha256": "1540CEDF542FBCE2F2D4E5F4E2961843BB399895F946038CD18091020AA6E7BB",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/variants/R1-card/P4-R1-card.md",
+      "bytes": 7620,
+      "sha256": "AF6A4737AD4D3B0FFA3913FB7F43E7084F30DB986D591E0AB3EC48615C00B3BA",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/variants/R1-card/P5-R1-card.md",
+      "bytes": 5854,
+      "sha256": "99E9C08D0F3A69549D41DE63EE152FE7C9D7ADE5791CD7B5ADA53DB8B4E15279",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/variants/R1-card/P6-R1-card.md",
+      "bytes": 7204,
+      "sha256": "810BA0D00780741D3006E44A37A0E3F5F713A7459EE3575D2334FCDAEB06447A",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/variants/R2/cards/R2-CHEN.md",
+      "bytes": 2436,
+      "sha256": "2A7705D7A827FDA6B5CBB3ABAFAE4B777F11A6386CD2BEA8A971D9E641F2174D",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/variants/R2/cards/R2-LIN.md",
+      "bytes": 2408,
+      "sha256": "BD00956EF9FAC716131D7FFED1800B8ACBB4D0B42ABBBA64FC708BB1DC7BDA8E",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/variants/R2/cards/R2-WU.md",
+      "bytes": 2440,
+      "sha256": "8168A2895698E15886CBA9D9F04BA703A9A2A9E4A70DE7F2E6468489E11270AB",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/variants/R2/P4-R2.md",
+      "bytes": 7615,
+      "sha256": "0C7C14E9F6BA81E75A61CCB10C041FFD47C9F63D26CF1FD14BE703BCD5D3BC66",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/variants/R2/P5-R2.md",
+      "bytes": 5839,
+      "sha256": "3E2AFDD2F1EFF608CE3CEB62EC7F3C65E9DEAFB1C15D9C85592A8660C9B3B353",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-rain/variants/R2/P6-R2.md",
+      "bytes": 6969,
+      "sha256": "9522264199DD33D3115A7D06D99D0EAFC5820A7607E68163603E0B19B83C1158",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "project-seaside/dialogue.md",
+      "bytes": 462,
+      "sha256": "07C6FF89B7FBAD9C087EC78B06D163858F480FBA643CA2E0EA0E6053A4932B3B",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1103,
+      "sha256": "3AAFAA2EEDC190962BBB66ABAB6217316A7C61B61A0B5711B18C72B9275DC4FB",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/action-log.md",
+      "bytes": 3688,
+      "sha256": "BAC7B38903682B9280E6A3F0A22F0D1C94F7B952FA1C0ACD60878321C7664B66",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/build.py",
+      "bytes": 70676,
+      "sha256": "5689B5BE97C4A823DFA181B37826D3C9639BFD2FA59E827A5096935FCB495487",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/check-public-closure.py",
+      "bytes": 3875,
+      "sha256": "F92CC3A5E63D33C52D45F18C47AECDBB9B0401D769C73F2DF47F88A2450B8DAC",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R1-card-manual.html.dom",
+      "bytes": 4938,
+      "sha256": "9BA42168BA06689AFF248F1B546BCFBD934B489A9F19C6E73A936834F3E1C121",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R1-card-manual.html.log",
+      "bytes": 0,
+      "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R1-card-shared-run.html.dom",
+      "bytes": 9505,
+      "sha256": "DC5DDCC634CEB6AB9CF0FD3BCFBB404FB84AC3E335F24E91E2CB2E42EAF0BE62",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R1-card-shared-run.html.log",
+      "bytes": 0,
+      "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R1-card-START.html.dom",
+      "bytes": 2695,
+      "sha256": "5F47CE702C04079DBC5F2A55100B49081A86523BDC4A893E4EB213AEB68CC94F",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R1-card-START.html.log",
+      "bytes": 0,
+      "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R1-manual.html.dom",
+      "bytes": 4928,
+      "sha256": "C6C7376D1EE5C31F5E01D7335B9EFBB9F5393FD12A33C1FBC2259BD0B7CAA033",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R1-manual.html.log",
+      "bytes": 0,
+      "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R1-shared-run.html.dom",
+      "bytes": 9495,
+      "sha256": "EB5E52FC48C814FBB7C240F35B02327EC38ECA7088042395C04806021A099522",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R1-shared-run.html.log",
+      "bytes": 0,
+      "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R1-START.html.dom",
+      "bytes": 2685,
+      "sha256": "0F747604CCE035579AD81E6D7A0DB260183EDDC8B5EB0138B9AF41FA55B30801",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R1-START.html.log",
+      "bytes": 0,
+      "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R2-manual.html.dom",
+      "bytes": 4928,
+      "sha256": "FB2B3566197610336D6CEB1A1E7F7603AC0C4CA7655F3BE06F115CC549D29E61",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R2-manual.html.log",
+      "bytes": 0,
+      "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R2-shared-run.html.dom",
+      "bytes": 9495,
+      "sha256": "74C7A70F8C0C7FCBC90A0B74087463258375E978FF6A074E976390BE98515BD5",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R2-shared-run.html.log",
+      "bytes": 168,
+      "sha256": "DDAF537D72BFD45BE6BBF423DC22A22F3CA691AD22192C9875E1478ED86BCE9F",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R2-START.html.dom",
+      "bytes": 2685,
+      "sha256": "C12AAB90479653FD88E5AD925B1A203A2D0DDE0AE8C6C31BDEF1C6B6E2D4888E",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/closure-repair-dom/R2-START.html.log",
+      "bytes": 0,
+      "sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/file-checks.json",
+      "bytes": 3620,
+      "sha256": "F2E8AF37CEF8A598FBBADAC12DAE63719CC3A32497EA0DE11B27DE00AB3CC9E8",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/final-local-amendments.py",
+      "bytes": 1224,
+      "sha256": "02163D71A94E97EFA558FF7D0B0DD7FA2B6774054F6742AADDB9C256EDCD3D88",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/finalize.py",
+      "bytes": 21532,
+      "sha256": "3C7820EBF208B385A1D9358A02D6F98259FBB829E5F2D0144970A1D3E88AB1B3",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/offline-checks.json",
+      "bytes": 3286,
+      "sha256": "3BD0A5E15A0EC64F845C980EE2F5F9D8EE222A240805A0C6BBD8F7E8384C7EBD",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/patch-builder.py",
+      "bytes": 1022,
+      "sha256": "EEFB031609591851C3B4A8B2B09C4994829126F870BFA7812165D1389E327C19",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/patch-finalizer.py",
+      "bytes": 3791,
+      "sha256": "2C01DCC1AFAB9CE500C2A2878CDC68212C07612533C5EB983CA67A1886D686B9",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/public-closure-checks.json",
+      "bytes": 2831,
+      "sha256": "B721D1C295DD2FDDC8BA9A5288F925A84057F1F84FFE0D6B8394F5711191C8E9",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/public-closure-offline.json",
+      "bytes": 4796,
+      "sha256": "1500D738FD19B7EE5A7EA63A5C9899DF7C381EC35B7D615E106E07F708BF2CBB",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/public-closure-repair.json",
+      "bytes": 2419,
+      "sha256": "CC397FFAA3200E33716BEF54C91FA2E8796991846BDF52B05B741A178B55B6CB",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/read-source.ps1",
+      "bytes": 1039,
+      "sha256": "55241C69F046784A4A655C9C90FD231F5EE48BBFB9B3129EC884F85336266C0D",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/repair-public-closure.py",
+      "bytes": 8012,
+      "sha256": "1B8A8B4C5A9B803E764FDFFFAABAF74950F550F3D7D9ADD2382CA95ABDC1B4D8",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/root-pdf-handoff.json",
+      "bytes": 1743,
+      "sha256": "03E92D90F243053375BF6EDAE6C8D9CC10E667F7C34636AD8ADEC8C780A257D8",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/manifest.json",
+      "bytes": 24631,
+      "sha256": "8FC4B701B626349D39693A29292344329993D99DE9614FD89458F9FBB59C7CF5",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1/player-files/floor.svg",
+      "bytes": 4106,
+      "sha256": "CAC21C2A78A10341BEC5A1B37ED4EE8AD0BDC81AC28C278F05FC0077D3EA815A",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1/player-files/intro.html",
+      "bytes": 1938,
+      "sha256": "E203DDD11EA935872785F13C21B72807D4EB134D3405259EF72DF5551CEE990F",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1/player-files/manual.html",
+      "bytes": 4702,
+      "sha256": "D1ECF88EBA8465EEAEC987D5B4031BDEF38094978FCF6A030FED727471BC60EC",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1/player-files/note.html",
+      "bytes": 427,
+      "sha256": "1B0C145B6F0542F13A0D1F58D03A8B69FE34380229CD8B6AEB4F3A934F8935C8",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1/player-files/plaque.html",
+      "bytes": 451,
+      "sha256": "CE4C68A2044161CA0BB783D8E4402E6BBE9355055B341ED0889DBA1441BF972B",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1/player-files/role-CHEN.html",
+      "bytes": 3897,
+      "sha256": "591088011806C22B060350730D7593FBD9CF532D934EA82ED77977CFB51042F6",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1/player-files/role-LIN.html",
+      "bytes": 3869,
+      "sha256": "45BD7CEE654E65B0E18290D8F7A101D82E963C36EAAAD10CCBB84047B404951C",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1/player-files/role-WU.html",
+      "bytes": 3901,
+      "sha256": "26C896F04FE5EC2B94CC47001FFAF93321E1D761E9280F398048196667FE384C",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1/player-files/rules.html",
+      "bytes": 7697,
+      "sha256": "58FD3C40D4EA5DEFE9152E02A5EF645C7914D85741615E2AA96A94D13657515A",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1/player-manifest-R1.json",
+      "bytes": 2074,
+      "sha256": "E88D757DC61603B0F9D97FF7892F8D7724316014E26F9B657D20BCCD6636C23C",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1/player-R1.zip",
+      "bytes": 18804,
+      "sha256": "314EBAEE1224829A8B523E034AD404DA331ED797FF8AA8DB4245C9F25CD1224D",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1-card/player-files/floor.svg",
+      "bytes": 4106,
+      "sha256": "CAC21C2A78A10341BEC5A1B37ED4EE8AD0BDC81AC28C278F05FC0077D3EA815A",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1-card/player-files/intro.html",
+      "bytes": 1948,
+      "sha256": "BE335BF17D42782DD4B22BD88FADE63A8D87E4A8BBAB460452DD102812521346",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1-card/player-files/manual.html",
+      "bytes": 4712,
+      "sha256": "F70C375182E08738DA03EB18504487560C25743DC1E7076D636F8AC450535488",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1-card/player-files/note.html",
+      "bytes": 427,
+      "sha256": "1B0C145B6F0542F13A0D1F58D03A8B69FE34380229CD8B6AEB4F3A934F8935C8",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1-card/player-files/plaque.html",
+      "bytes": 451,
+      "sha256": "CE4C68A2044161CA0BB783D8E4402E6BBE9355055B341ED0889DBA1441BF972B",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1-card/player-files/role-CHEN.html",
+      "bytes": 4136,
+      "sha256": "3B76A6DFD6DAFC2178EADB447DF81C83684E901D244F5036A73060401C1B3E89",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1-card/player-files/role-LIN.html",
+      "bytes": 4108,
+      "sha256": "97A01F4C08F7F5E3D4C01A1D27DD4A5FB0FF0A3FD8CFBEA89001F1C15C65F7B5",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1-card/player-files/role-WU.html",
+      "bytes": 4140,
+      "sha256": "58303680DC61B2C5311B754572388024B4F98E21446CCFF08ED389E1676F9F07",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1-card/player-files/rules.html",
+      "bytes": 7983,
+      "sha256": "8C13086EDB57B1D4D3AAF3F595BB2992EB7DDBD9425B2970692AEC6A9711B3CA",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1-card/player-manifest-R1-card.json",
+      "bytes": 2079,
+      "sha256": "E6B3760075780736C8468C16B74E63E1FB817D8E807F055D095CA2A9FDAF47B3",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R1-card/player-R1-card.zip",
+      "bytes": 19335,
+      "sha256": "8FF811AEC7B5C169665545B16F0C624800B9E0971D8591E22054B97AEE23A428",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R2/player-files/floor.svg",
+      "bytes": 4106,
+      "sha256": "CAC21C2A78A10341BEC5A1B37ED4EE8AD0BDC81AC28C278F05FC0077D3EA815A",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R2/player-files/intro.html",
+      "bytes": 1938,
+      "sha256": "6867C2A0CEAD13610B2C7368DECE9E60F3650FA7AD480BE8EE7DAAE1AACE5946",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R2/player-files/manual.html",
+      "bytes": 4702,
+      "sha256": "2FDD47744E05404DDF61F668886419217ABAD84DBC2B5B30C4CC02C2B69857AD",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R2/player-files/note.html",
+      "bytes": 427,
+      "sha256": "1B0C145B6F0542F13A0D1F58D03A8B69FE34380229CD8B6AEB4F3A934F8935C8",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R2/player-files/plaque.html",
+      "bytes": 451,
+      "sha256": "CE4C68A2044161CA0BB783D8E4402E6BBE9355055B341ED0889DBA1441BF972B",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R2/player-files/role-CHEN.html",
+      "bytes": 3914,
+      "sha256": "7ED586D5801A2866EFB39199B91615DD56770A623624A23431C2E891C1D785B1",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R2/player-files/role-LIN.html",
+      "bytes": 3886,
+      "sha256": "06362CD742464B0047253E72A34DC52F3A69698B1F1B4FACA61711DA66E39C0D",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R2/player-files/role-WU.html",
+      "bytes": 3918,
+      "sha256": "73127F7A8A3E0744058A4248AF023A8BBD793B6D4356C606EB470665D68A82D8",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R2/player-files/rules.html",
+      "bytes": 7743,
+      "sha256": "A7A3D0D445C896C7918C8A4764877587751D0298ADC5AE6A15A8B9A16B82E75E",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R2/player-manifest-R2.json",
+      "bytes": 2074,
+      "sha256": "339C1B59C163C17307D924F4712E9DE6B2EA82CF77BEF6C2BB3B5C94A5B4C96E",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/R2/player-R2.zip",
+      "bytes": 18875,
+      "sha256": "D8F932301D8209CD48A9E69E892DAA566030B455B478BACD1AD2A4D674D48EAF",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/README.md",
+      "bytes": 1097,
+      "sha256": "41E2CB6E6D0F02A0CA78C4E71ADC4B85F066A0C7D304F915E47FBBA0A9E1771A",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/report.md",
+      "bytes": 3381,
+      "sha256": "E124116AEF6AD4427F51365BC0B09DCC59BD9839FC9E0ADDF810C9E51CC7EEEE",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/round1-public-evidence/snapshot-manifest.json",
+      "bytes": 8899,
+      "sha256": "AF2FF678CD1EC29D0AF23229F2C014E1D6BD5F6C306E46790DB3EDCAC2DAFA7B",
+      "purpose": "initial round evidence"
+    },
+    {
+      "path": "records/seal-public-repair.py",
+      "bytes": 9891,
+      "sha256": "703AD895FFD645FFE3A3DD8F66C90D131A2E1DEE22841D89F25D5D22271ED704",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/source-reads.jsonl",
+      "bytes": 26613,
+      "sha256": "DEB345BE46D49E37B1023970FA4A549715ECCFBDF412C5F3352AC54BDF0DAE9A",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/suite-after-public-repair.json",
+      "bytes": 31186,
+      "sha256": "71C84E0878DF935DB486CE0E0EE8859178087D33CD0E5B63CE1B3D1D57D4545C",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/suite-after.json",
+      "bytes": 31186,
+      "sha256": "71C84E0878DF935DB486CE0E0EE8859178087D33CD0E5B63CE1B3D1D57D4545C",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/suite-before.json",
+      "bytes": 31186,
+      "sha256": "25CC76DFA9E0C59842627C60156D29D4EC58A58A2A5740D379D07939F9366CB9",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/suite-integrity-public-repair.json",
+      "bytes": 377,
+      "sha256": "6AA092C709C0476D7F5FFD4B0C9E7425FCE57ECDF9F5C0FC3E11B7962C8EB280",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/suite-integrity.json",
+      "bytes": 596,
+      "sha256": "6761EAD945F120DE648854098F6DE5C6E11DA063F239C39809B8ACB2E303FBA7",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/T02-real-revision.md",
+      "bytes": 1394,
+      "sha256": "2ABEA26BD10267327026B0B345DD8A8B88E73BA21AE6A92826CAF4D0A3AC7A8B",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/T10-review-identity.md",
+      "bytes": 948,
+      "sha256": "59EEF369AC9E18E4D4052A9D0D0205FF94A20C16F87D5F6E562D584B9241CE2F",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/task-addenda.md",
+      "bytes": 680,
+      "sha256": "795169D8F00BDD95DEF22200AD9F8C2F561CA7ACE0FE57BFB5285BB299C9E65C",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/verify-closure-offline.py",
+      "bytes": 2462,
+      "sha256": "4D01C0323B0EB89382CBE8F67FDBCE9DA0BFFBCF953BDE0DB78F699776269958",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/verify-files.py",
+      "bytes": 4914,
+      "sha256": "A20B686D7556A6F5B30C1CF0A0E5E59D157EAD67E3C5B6DD558F9FB04A51033A",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/verify-offline.py",
+      "bytes": 2257,
+      "sha256": "14AB87AFD645FB2A97B4EC011CA4B2C9C88943EDDB56EC64203F42C8950CA4BB",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/walkthrough.py",
+      "bytes": 7363,
+      "sha256": "E6BA8056F78716C85113C94C0F841194A00B68F403811861F31B3B5C061BADFA",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "records/walkthroughs.json",
+      "bytes": 57723,
+      "sha256": "DEC73636044BF4BC7B2E164D633F068DCE8AD77976C2A2C52BE7B72638242238",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "report.md",
+      "bytes": 4349,
+      "sha256": "3B51ED57CB08C32EBBF8E5C0079F365FF736DB91C9057BFD5EF5A3B89F5EB7B7",
+      "purpose": "author/test/PDF evidence"
+    },
+    {
+      "path": "sessions/rain-fiction/session-001.md",
+      "bytes": 35,
+      "sha256": "149C959214415444BD81D0BA35AF462A9736F4537DA41C6555C19916E3E7AF07",
+      "purpose": "author/test/PDF evidence"
+    }
+  ]
+}

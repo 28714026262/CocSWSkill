@@ -1,0 +1,19 @@
+{
+  "batch": "B",
+  "label": "fix1",
+  "files": {
+    "skills/scenario-writing/agents/openai.yaml": "2d3133adf51c9edb7bdbaeecb481589f7d14da062bfbf2fc54836ab17618b569",
+    "skills/scenario-writing/assets/historical/workflow-overview.png": "59db92178f2be5ba572879b1c57bd112b9c581151f1bbe8405424aed74822347",
+    "skills/scenario-writing/assets/historical/workflow-overview.svg": "8f656b4075d201c84287193ea498757be810d28130805afc17cd5831e75ebec9",
+    "skills/scenario-writing/LICENSE.md": "d1cfc5cfa243396e8a3cd25180487f0ba1f04954848c1106572a7ec13002c553",
+    "skills/scenario-writing/references/common/catalog.md": "783ee904ee90c48444dd915b04486256a1cefaf0901f14d17e7479793f40ed90",
+    "skills/scenario-writing/references/common/contracts.md": "8c4667df466ce2224c3d612d89592617814a3e007e233bf97448f964374c884d",
+    "skills/scenario-writing/references/common/deliverables.md": "040abe4936640500cb4d8bc60896c68fb5facb32b8cdea55bf4e01fb27adac60",
+    "skills/scenario-writing/references/common/maintenance.md": "faf756bc1a59d4a21b1943d855eac69eb2f7813e8c520cda72b7a85b864f68e8",
+    "skills/scenario-writing/references/common/provenance.md": "652ab86d976b5cd265c6722b2d9c1a3595f7ca6ae6f78e81363ec00fe4f53c68",
+    "skills/scenario-writing/references/common/scope.md": "3ab492826fb8a3d54739662b224bad679f41eb7dddfa52f970606d7465c8e03c",
+    "skills/scenario-writing/references/common/workflow.md": "c983bb1fc8d488139e41d77b1b394dc13cb9fc213e137309fde770cc8fb50b9b",
+    "skills/scenario-writing/SKILL.md": "bae6c60fa3f557804651b51661ec223da2d741d4be9015c0171178ceaa7bbc78"
+  },
+  "scope": "Actual candidate bytes; semantics and scope are independently reviewed"
+}

@@ -1,0 +1,141 @@
+{
+  "schema": "scenario-suite/1",
+  "version": "1.0.0",
+  "layout": "All ten scenario-* directories share one parent",
+  "purpose": "Documentation and explicit dependency inventory; not a platform installer, invocation engine or tool manifest",
+  "skills": [
+    {
+      "name": "scenario-writing",
+      "path": "scenario-writing",
+      "version": "1.0.0",
+      "common_base": "scenario-writing",
+      "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
+    },
+    {
+      "name": "scenario-narrative",
+      "path": "scenario-narrative",
+      "version": "1.0.0",
+      "common_base": "scenario-writing",
+      "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
+    },
+    {
+      "name": "scenario-play",
+      "path": "scenario-play",
+      "version": "1.0.0",
+      "common_base": "scenario-writing",
+      "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
+    },
+    {
+      "name": "scenario-inference",
+      "path": "scenario-inference",
+      "version": "1.0.0",
+      "common_base": "scenario-writing",
+      "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
+    },
+    {
+      "name": "scenario-space",
+      "path": "scenario-space",
+      "version": "1.0.0",
+      "common_base": "scenario-writing",
+      "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
+    },
+    {
+      "name": "scenario-rules",
+      "path": "scenario-rules",
+      "version": "1.0.0",
+      "common_base": "scenario-writing",
+      "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
+    },
+    {
+      "name": "scenario-media",
+      "path": "scenario-media",
+      "version": "1.0.0",
+      "common_base": "scenario-writing",
+      "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
+    },
+    {
+      "name": "scenario-pacing",
+      "path": "scenario-pacing",
+      "version": "1.0.0",
+      "common_base": "scenario-writing",
+      "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
+    },
+    {
+      "name": "scenario-production",
+      "path": "scenario-production",
+      "version": "1.0.0",
+      "common_base": "scenario-writing",
+      "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
+    },
+    {
+      "name": "scenario-review",
+      "path": "scenario-review",
+      "version": "1.0.0",
+      "common_base": "scenario-writing",
+      "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
+    }
+  ],
+  "supported_rule_adapters": [
+    {
+      "system": "COC",
+      "status": "Existing detailed design method; actual project edition and rule sources must be checked",
+      "path": "scenario-rules/references/systems/coc/README.md"
+    },
+    {
+      "system": "project-defined / diceless",
+      "status": "Generic design contract and fictional worked example; not certification of a named external rule system",
+      "path": "scenario-rules/references/rules-design.md"
+    }
+  ],
+  "task_subsets": [
+    {
+      "task": "lightweight-pacing",
+      "skills": [
+        "scenario-writing",
+        "scenario-pacing"
+      ],
+      "selected_methods": [
+        "scenario-writing/references/common/scope.md",
+        "scenario-pacing/references/entry-contract.md",
+        "scenario-pacing/references/time-model.md",
+        "scenario-pacing/references/worksheets.md"
+      ]
+    },
+    {
+      "task": "character-consistency",
+      "skills": [
+        "scenario-writing",
+        "scenario-rules",
+        "scenario-narrative"
+      ],
+      "selected_methods": [
+        "scenario-rules/references/character-configuration.md",
+        "scenario-narrative/references/player-design.md"
+      ],
+      "conditions": "Add selected rule adapter and any actual newly designed domain method"
+    },
+    {
+      "task": "bounded-inference-review",
+      "skills": [
+        "scenario-writing",
+        "scenario-review",
+        "scenario-inference"
+      ],
+      "selected_methods": [
+        "scenario-review/references/review.md",
+        "scenario-inference/references/goals.md",
+        "scenario-inference/references/review-cases.md"
+      ],
+      "conditions": "Fixed adopted scenario conditions; add action, rule or spatial methods when the task actually requires their design"
+    }
+  ],
+  "optional_resources": {
+    "path": "scenario-production/assets/p8-examples",
+    "files": 47,
+    "distribution": "local-authorized-only; public permission pending; excluded from public Git candidates",
+    "current_index": "scenario-production/references/p8/examples.md"
+  },
+  "project_state": "Stored in each project; never written into the installed common methods",
+  "legacy_entry": "Repository coc-script-writing is a thin compatibility entry; no platform auto-redirection guarantee",
+  "external_tools": "Discovered from the actual environment per task; no automatic install or fixed supplier"
+}

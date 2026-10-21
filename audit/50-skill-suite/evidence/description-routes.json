@@ -1,0 +1,295 @@
+{
+  "run_utc": "2026-10-21T07:09:51.768712+00:00",
+  "access_mode": "explicit reading of actual suite filesystem; not platform-installed discovery",
+  "suite_root": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills",
+  "request_file": "D:\\SZK\\Personal\\COC\\echo\\research\\2026-10-21-skill拆分实施\\tests\\forward-requests.json",
+  "hash_timing": "end verification only; original-read hashes not captured",
+  "routing_count": 10,
+  "case_count": 4,
+  "routes": [
+    {
+      "id": 1,
+      "request": "继续项目，统筹本轮P4并处理前序缺口",
+      "chosen_entry": "scenario-writing",
+      "mode": "整阶段统筹／继续项目",
+      "reason": "继续项目、整轮P4和前序依赖跨领域，writing描述直接覆盖。",
+      "selection_basis": "ten SKILL name/description scan; no expected-entry oracle",
+      "read_path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-writing\\SKILL.md",
+      "sha256_at_end_verification": "bae6c60fa3f557804651b51661ec223da2d741d4be9015c0171178ceaa7bbc78",
+      "executed_domain_work": false,
+      "result": "description routing recorded; correctness not scored against hidden expected answer"
+    },
+    {
+      "id": 2,
+      "request": "只调整人物动机并写出实际对白",
+      "chosen_entry": "scenario-narrative",
+      "mode": "局部人物修订与实写",
+      "reason": "人物动机与实际对白属于人物构建／叙事表达，不先升级整阶段。",
+      "selection_basis": "ten SKILL name/description scan; no expected-entry oracle",
+      "read_path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-narrative\\SKILL.md",
+      "sha256_at_end_verification": "160c0beb27e8d6c87d32973efe54d32dca0f36d45d793537013774dda7382e83",
+      "executed_domain_work": false,
+      "result": "description routing recorded; correctness not scored against hidden expected answer"
+    },
+    {
+      "id": 3,
+      "request": "设计一个可拒绝、可改变办法的救援任务",
+      "chosen_entry": "scenario-play",
+      "mode": "局部任务设计",
+      "reason": "目标、拒绝与替代行动方法属于任务与选择。",
+      "selection_basis": "ten SKILL name/description scan; no expected-entry oracle",
+      "read_path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-play\\SKILL.md",
+      "sha256_at_end_verification": "3da01fc7ef2497d572b0c8d8bce9d650009954365b6a0bbc0c1f5d1a46eabd62",
+      "executed_domain_work": false,
+      "result": "description routing recorded; correctness not scored against hidden expected answer"
+    },
+    {
+      "id": 4,
+      "request": "设计一项目标需要哪些判断和证据",
+      "chosen_entry": "scenario-inference",
+      "mode": "局部认识与证据设计",
+      "reason": "要求目标判断及其证据根据，匹配 bounded judgments/evidence。",
+      "selection_basis": "ten SKILL name/description scan; no expected-entry oracle",
+      "read_path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-inference\\SKILL.md",
+      "sha256_at_end_verification": "9aea87f3e6a4cfa5895774907e569ef6112cfd3e01879cd2cbe68b46ea69d3dc",
+      "executed_domain_work": false,
+      "result": "description routing recorded; correctness not scored against hidden expected answer"
+    },
+    {
+      "id": 5,
+      "request": "制作真实楼层平面与玩家公开图",
+      "chosen_entry": "scenario-space",
+      "mode": "局部空间与公开地图制作",
+      "reason": "真实楼层关系及几何一致的玩家图归space，媒体描述明确精确地图除外。",
+      "selection_basis": "ten SKILL name/description scan; no expected-entry oracle",
+      "read_path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-space\\SKILL.md",
+      "sha256_at_end_verification": "f3f462e99e0af6df36cf29f4a9f54a1509893443cea2285758990c9f9e1f5e8e",
+      "executed_domain_work": false,
+      "result": "description routing recorded; correctness not scored against hidden expected answer"
+    },
+    {
+      "id": 6,
+      "request": "按这次采用的规则配置角色与行动处理",
+      "chosen_entry": "scenario-rules",
+      "mode": "局部规则配置",
+      "reason": "采用系统下角色与行动处理匹配rules，不预定COC。",
+      "selection_basis": "ten SKILL name/description scan; no expected-entry oracle",
+      "read_path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-rules\\SKILL.md",
+      "sha256_at_end_verification": "07bf91c392f1b882210f57c4838fef252c84c86a39a350c56711a69c88a31f8a",
+      "executed_domain_work": false,
+      "result": "description routing recorded; correctness not scored against hidden expected answer"
+    },
+    {
+      "id": 7,
+      "request": "将已采用便条制作成可发手卡",
+      "chosen_entry": "scenario-media",
+      "mode": "局部媒体制作",
+      "reason": "已采用便条要成为可发实际手卡，首选media；只有接入完整P8才转production整合。",
+      "selection_basis": "ten SKILL name/description scan; no expected-entry oracle",
+      "read_path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-media\\SKILL.md",
+      "sha256_at_end_verification": "6b85fc17c8b83022f9b7b656aaaef4fd102c91b926d053defd184ff9824b4336",
+      "executed_domain_work": false,
+      "result": "description routing recorded; correctness not scored against hidden expected answer"
+    },
+    {
+      "id": 8,
+      "request": "只估算游玩时间并检查等待疲劳",
+      "chosen_entry": "scenario-pacing",
+      "mode": "轻量估时与疲劳诊断",
+      "reason": "时间、等待与疲劳是pacing直接入口。",
+      "selection_basis": "ten SKILL name/description scan; no expected-entry oracle",
+      "read_path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-pacing\\SKILL.md",
+      "sha256_at_end_verification": "519ecf164419d9c248a723c83f51242b4cf56efbe9602cb604ed357bc74cc1e4",
+      "executed_domain_work": false,
+      "result": "description routing recorded; correctness not scored against hidden expected answer"
+    },
+    {
+      "id": 9,
+      "request": "将采用稿整合成完整P8及文件包",
+      "chosen_entry": "scenario-production",
+      "mode": "完整P8编排与文件包",
+      "reason": "采用稿整合、P8和玩家包正是production描述。",
+      "selection_basis": "ten SKILL name/description scan; no expected-entry oracle",
+      "read_path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-production\\SKILL.md",
+      "sha256_at_end_verification": "3fe609e8422fe2664e08fbf76a0a759c60a70feb1fad74c81354ae4ad6ad6e7f",
+      "executed_domain_work": false,
+      "result": "description routing recorded; correctness not scored against hidden expected answer"
+    },
+    {
+      "id": 10,
+      "request": "独立审核这个版本并复核修复",
+      "chosen_entry": "scenario-review",
+      "mode": "独立审核／修复复核",
+      "reason": "版本产物独立审核与修复验证匹配review；实际身份及证据需执行时确认。",
+      "selection_basis": "ten SKILL name/description scan; no expected-entry oracle",
+      "read_path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-review\\SKILL.md",
+      "sha256_at_end_verification": "e8201178fc0957a7c723dba03a2ce6d1f0ccc2d50a02bfb20fbcd328996f6cc2",
+      "executed_domain_work": false,
+      "result": "description routing recorded; correctness not scored against hidden expected answer"
+    }
+  ],
+  "cases": [
+    {
+      "id": "diceless-configuration",
+      "entry": "scenario-rules",
+      "mode": "局部P6制作",
+      "artifact": "keeper/diceless-configuration.md",
+      "checks": [
+        "paper walkthrough of turn order, concurrent close/carry, interruption, missed deadline and missing collaborator"
+      ],
+      "limits": [
+        "side-path travel duration/positions and fate after sealing absent; not invented",
+        "no real play or software implementation"
+      ],
+      "status": "requested local artifact delivered within stated limits",
+      "artifact_absolute_path": "D:\\SZK\\Personal\\COC\\echo\\research\\2026-10-21-skill拆分实施\\tests\\forward-output\\keeper\\diceless-configuration.md",
+      "artifact_sha256": "8052cba79e65197e468ffcb15bcefbf2ef4b4599cf303bb428050c354ddd8798",
+      "actual_read_files": [
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-rules\\SKILL.md",
+          "sha256_at_end_verification": "07bf91c392f1b882210f57c4838fef252c84c86a39a350c56711a69c88a31f8a"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-rules\\references\\rules-design.md",
+          "sha256_at_end_verification": "630de5703ae7c46af75c2eaf8eefd8b814715d3afcbf7e02a67572d05d04d9e7"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-rules\\references\\mechanisms.md",
+          "sha256_at_end_verification": "f84f8b910fb7e61dfef1ef623744095ab9a8143421cafaaa9f70ec4507d8c70e"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-writing\\references\\common\\scope.md",
+          "sha256_at_end_verification": "3ab492826fb8a3d54739662b224bad679f41eb7dddfa52f970606d7465c8e03c"
+        }
+      ]
+    },
+    {
+      "id": "short-character-presentation",
+      "entry": "scenario-narrative",
+      "mode": "局部人物展现制作",
+      "artifact": "keeper/short-character-presentation.md",
+      "checks": [
+        "200 characters including punctuation",
+        "permission already granted, known location disclosed without forced offense",
+        "six-step method compacted into minimum explanation"
+      ],
+      "limits": [
+        "no real reader/player understanding test",
+        "no full character construction or future arc"
+      ],
+      "status": "requested local artifact delivered within stated limits",
+      "artifact_absolute_path": "D:\\SZK\\Personal\\COC\\echo\\research\\2026-10-21-skill拆分实施\\tests\\forward-output\\keeper\\short-character-presentation.md",
+      "artifact_sha256": "a7ffcd0df2d97683063c08f5e6b0158cf146573e1634f0b7cc169dfc482e11da",
+      "actual_read_files": [
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-narrative\\SKILL.md",
+          "sha256_at_end_verification": "160c0beb27e8d6c87d32973efe54d32dca0f36d45d793537013774dda7382e83"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-narrative\\references\\character-presentation.md",
+          "sha256_at_end_verification": "6cfc01e9309f52ae16f754290252664580366be6f46a102492fdb1d619438014"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-writing\\references\\common\\scope.md",
+          "sha256_at_end_verification": "3ab492826fb8a3d54739662b224bad679f41eb7dddfa52f970606d7465c8e03c"
+        }
+      ]
+    },
+    {
+      "id": "public-note-file",
+      "entry": "scenario-media",
+      "mode": "独立HTML手卡制作",
+      "artifact": "player/note.html",
+      "checks": [
+        "exact whitelist body text in source and rendered DOM",
+        "secret absent from all public bytes",
+        "no scripts, comments, hidden attrs or external resources",
+        "actual local rendering and image inspection"
+      ],
+      "limits": [
+        "no print/assistive-tech/player comprehension test",
+        "not complete P8 or workbench"
+      ],
+      "status": "requested local artifact delivered within stated limits",
+      "artifact_absolute_path": "D:\\SZK\\Personal\\COC\\echo\\research\\2026-10-21-skill拆分实施\\tests\\forward-output\\player\\note.html",
+      "artifact_sha256": "04221e4b617391e2751f00ab4da6fbed6d9f5f8c3e5552d65ee19d4fce031132",
+      "actual_read_files": [
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-media\\SKILL.md",
+          "sha256_at_end_verification": "6b85fc17c8b83022f9b7b656aaaef4fd102c91b926d053defd184ff9824b4336"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-media\\references\\asset-briefs.md",
+          "sha256_at_end_verification": "1a1d34b50af7e57256b70d5a5f87348075a912db9b9a7b4698bebcc098b06b0d"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-media\\references\\visual-assets.md",
+          "sha256_at_end_verification": "e20f2b044a98bbafab26cea828afb12bfc3c5e6714cbc0e87e2a7218049a5465"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-media\\references\\media-qa.md",
+          "sha256_at_end_verification": "635ce59ec598825900d383e6a12ec018721e9fbe70f871e575fc4b89a9a74c4b"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-writing\\references\\common\\scope.md",
+          "sha256_at_end_verification": "3ab492826fb8a3d54739662b224bad679f41eb7dddfa52f970606d7465c8e03c"
+        }
+      ]
+    },
+    {
+      "id": "lightweight-pacing",
+      "entry": "scenario-pacing",
+      "mode": "轻量A—D，诊断不改稿",
+      "artifact": "keeper/lightweight-pacing.md",
+      "checks": [
+        "three clocks and individual waits kept distinct",
+        "NA not replaced with zero or fabricated scores",
+        "three sensitive input groups requested"
+      ],
+      "limits": [
+        "no defensible numeric time range from supplied outline",
+        "no full numeric model/calibration/real play"
+      ],
+      "status": "requested local artifact delivered within stated limits",
+      "artifact_absolute_path": "D:\\SZK\\Personal\\COC\\echo\\research\\2026-10-21-skill拆分实施\\tests\\forward-output\\keeper\\lightweight-pacing.md",
+      "artifact_sha256": "e3ea7fa3bdb9ce088eb36ce654ca75275f77aab72def893c74b7903aa39d5176",
+      "actual_read_files": [
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-pacing\\SKILL.md",
+          "sha256_at_end_verification": "519ecf164419d9c248a723c83f51242b4cf56efbe9602cb604ed357bc74cc1e4"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-pacing\\references\\entry-contract.md",
+          "sha256_at_end_verification": "d24ecf5016d43a60bb07a479882e8d1fc2646f78b38da7bcd7653e564a144b0b"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-pacing\\references\\time-model.md",
+          "sha256_at_end_verification": "d648569448fa39290fc8c496c6678ecede0a952ba73c77e94325a8e86f0f1c86"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-pacing\\references\\experience-model.md",
+          "sha256_at_end_verification": "d7ce088025d417a7bbaa8f6923d72de7de0cf3e8cc19ab475eb7da3623ae53c5"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-pacing\\references\\fatigue-model.md",
+          "sha256_at_end_verification": "beee30d4c0ce4da06f9efe9c7b88a81ff4de0d2f610e9011f614a5ad7e13cb06"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-pacing\\references\\worksheets.md",
+          "sha256_at_end_verification": "9d42eb52e50db3d20d2c02e66c986f0a16c6803a0bcdf9237628d6ac768a1f92"
+        },
+        {
+          "path": "D:\\SZK\\Personal\\COC\\CocSWSkill\\skills\\scenario-writing\\references\\common\\scope.md",
+          "sha256_at_end_verification": "3ab492826fb8a3d54739662b224bad679f41eb7dddfa52f970606d7465c8e03c"
+        }
+      ]
+    }
+  ],
+  "route_overlap": "production description also mentions exporting a requested file; actual visual handout request independently selected media. No reroute required during four executions.",
+  "overall_limits": [
+    "no hidden expected-answer scoring",
+    "no all-18-situations claim",
+    "no platform auto-discovery test",
+    "no real player data or consumers touched"
+  ]
+}

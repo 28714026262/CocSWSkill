@@ -1,0 +1,1179 @@
+{
+  "schema": "scenario-migration/1",
+  "version": "1.0.0",
+  "source_object": "Frozen pre-migration dirty working tree; old path now may be a compatibility page",
+  "records": [
+    {
+      "source_sha256": "af3da505cc7af427bdb88d13adddc6df66b239b94a43a14527d4d9374337eafe",
+      "line_start": 1,
+      "line_end": 104,
+      "target": "skills/scenario-rules/references/systems/coc/rules-design.md",
+      "anchor": "src-coc-rules-design-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc-rules-design.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 1,
+      "line_end": 4,
+      "target": "skills/scenario-play/references/facilitation.md",
+      "anchor": "src-coc-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 5,
+      "line_end": 6,
+      "target": "skills/scenario-narrative/references/horror-and-anomalies.md",
+      "anchor": "src-coc-5",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 7,
+      "line_end": 7,
+      "target": "skills/scenario-play/references/interactive.md",
+      "anchor": "src-coc-7",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 8,
+      "line_end": 18,
+      "target": "skills/scenario-narrative/references/horror-and-anomalies.md",
+      "anchor": "src-coc-8",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 19,
+      "line_end": 30,
+      "target": "skills/scenario-narrative/references/craft.md",
+      "anchor": "src-coc-19",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 31,
+      "line_end": 32,
+      "target": "skills/scenario-play/references/conflict-and-combat.md",
+      "anchor": "src-coc-31",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 33,
+      "line_end": 33,
+      "target": "skills/scenario-play/references/interactive.md",
+      "anchor": "src-coc-33",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 34,
+      "line_end": 34,
+      "target": "skills/scenario-play/references/conflict-and-combat.md",
+      "anchor": "src-coc-34",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 35,
+      "line_end": 35,
+      "target": "skills/scenario-play/references/interactive.md",
+      "anchor": "src-coc-35",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 36,
+      "line_end": 38,
+      "target": "skills/scenario-play/references/conflict-and-combat.md",
+      "anchor": "src-coc-36",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 39,
+      "line_end": 39,
+      "target": "skills/scenario-rules/references/systems/coc/rules-design.md",
+      "anchor": "src-coc-39",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 40,
+      "line_end": 40,
+      "target": "skills/scenario-play/references/conflict-and-combat.md",
+      "anchor": "src-coc-40",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 41,
+      "line_end": 41,
+      "target": "skills/scenario-play/references/interactive.md",
+      "anchor": "src-coc-41",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 42,
+      "line_end": 42,
+      "target": "skills/scenario-play/references/conflict-and-combat.md",
+      "anchor": "src-coc-42",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 43,
+      "line_end": 43,
+      "target": "skills/scenario-play/references/interactive.md",
+      "anchor": "src-coc-43",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 44,
+      "line_end": 44,
+      "target": "skills/scenario-play/references/conflict-and-combat.md",
+      "anchor": "src-coc-44",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 45,
+      "line_end": 65,
+      "target": "skills/scenario-play/references/facilitation.md",
+      "anchor": "src-coc-45",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 66,
+      "line_end": 69,
+      "target": "skills/scenario-writing/references/common/catalog.md",
+      "anchor": "src-coc-66",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 70,
+      "line_end": 70,
+      "target": "skills/scenario-play/references/facilitation.md",
+      "anchor": "src-coc-70",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 71,
+      "line_end": 71,
+      "target": "skills/scenario-writing/references/common/catalog.md",
+      "anchor": "src-coc-71",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 72,
+      "line_end": 72,
+      "target": "skills/scenario-production/references/p8/delivery.md",
+      "anchor": "src-coc-72",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 73,
+      "line_end": 73,
+      "target": "skills/scenario-writing/references/common/catalog.md",
+      "anchor": "src-coc-73",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 74,
+      "line_end": 74,
+      "target": "skills/scenario-review/references/production-verification.md",
+      "anchor": "src-coc-74",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 75,
+      "line_end": 75,
+      "target": "skills/scenario-writing/references/common/catalog.md",
+      "anchor": "src-coc-75",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 76,
+      "line_end": 83,
+      "target": "skills/scenario-production/references/p8/delivery.md",
+      "anchor": "src-coc-76",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "cde18a7e0746615939e0d37b918f02177bc4858bb3183021c5a9e1917463c244",
+      "line_start": 84,
+      "line_end": 86,
+      "target": "skills/scenario-narrative/references/theme-presentation.md",
+      "anchor": "src-coc-84",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/coc.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 1,
+      "line_end": 34,
+      "target": "skills/scenario-writing/references/common/contracts.md",
+      "anchor": "src-contracts-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 35,
+      "line_end": 61,
+      "target": "skills/scenario-narrative/references/characters.md",
+      "anchor": "src-contracts-35",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 62,
+      "line_end": 87,
+      "target": "skills/scenario-play/references/interactive.md",
+      "anchor": "src-contracts-62",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 88,
+      "line_end": 99,
+      "target": "skills/scenario-narrative/references/narrative.md",
+      "anchor": "src-contracts-88",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 100,
+      "line_end": 122,
+      "target": "skills/scenario-inference/references/templates.md",
+      "anchor": "src-contracts-100",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 123,
+      "line_end": 136,
+      "target": "skills/scenario-play/references/interactive.md",
+      "anchor": "src-contracts-123",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 137,
+      "line_end": 138,
+      "target": "skills/scenario-writing/references/common/contracts.md",
+      "anchor": "src-contracts-137",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 139,
+      "line_end": 139,
+      "target": "skills/scenario-narrative/references/narrative.md",
+      "anchor": "src-contracts-139",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 140,
+      "line_end": 140,
+      "target": "skills/scenario-writing/references/common/contracts.md",
+      "anchor": "src-contracts-140",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 141,
+      "line_end": 141,
+      "target": "skills/scenario-rules/references/systems/coc/rules-design.md",
+      "anchor": "src-contracts-141",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 142,
+      "line_end": 154,
+      "target": "skills/scenario-writing/references/common/contracts.md",
+      "anchor": "src-contracts-142",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 155,
+      "line_end": 166,
+      "target": "skills/scenario-play/references/contract-example.md",
+      "anchor": "src-contracts-155",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 167,
+      "line_end": 171,
+      "target": "skills/scenario-narrative/references/theme-presentation.md",
+      "anchor": "src-contracts-167",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 172,
+      "line_end": 176,
+      "target": "skills/scenario-inference/references/templates.md",
+      "anchor": "src-contracts-172",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "042c29d4ed435ef34daedd95df81ace3452a3e53e09d18136dc38a87b747668d",
+      "line_start": 177,
+      "line_end": 179,
+      "target": "skills/scenario-writing/references/common/contracts.md",
+      "anchor": "src-contracts-177",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/contracts.md"
+    },
+    {
+      "source_sha256": "553d548a2b0d858063a8329c79587867aa7abd32067b910136ce7d75bf552996",
+      "line_start": 1,
+      "line_end": 107,
+      "target": "skills/scenario-narrative/references/craft.md",
+      "anchor": "src-craft-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/craft.md"
+    },
+    {
+      "source_sha256": "aec5bac961407d7ceff688b7f38bdb4c924efbc86a43b5c82383ade542377120",
+      "line_start": 1,
+      "line_end": 348,
+      "target": "skills/scenario-writing/references/common/deliverables.md",
+      "anchor": "src-deliverables-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/deliverables.md"
+    },
+    {
+      "source_sha256": "0c839261289990a47f049b96b2a8b603df83aceb35b1837efc1883a345da053c",
+      "line_start": 1,
+      "line_end": 123,
+      "target": "skills/scenario-inference/references/embedded-investigation.md",
+      "anchor": "src-embedded-investigation-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/embedded-investigation.md"
+    },
+    {
+      "source_sha256": "cb891986b8d9c4941993f3dc78f71def2056dd7a2c7ed42b3192bc8f97fc2a57",
+      "line_start": 1,
+      "line_end": 15,
+      "target": "skills/scenario-inference/references/inference-design.md",
+      "anchor": "src-inference-design-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/inference-design.md"
+    },
+    {
+      "source_sha256": "cb891986b8d9c4941993f3dc78f71def2056dd7a2c7ed42b3192bc8f97fc2a57",
+      "line_start": 16,
+      "line_end": 63,
+      "target": "skills/scenario-inference/references/investigation.md",
+      "anchor": "src-inference-design-16",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/inference-design.md"
+    },
+    {
+      "source_sha256": "cb891986b8d9c4941993f3dc78f71def2056dd7a2c7ed42b3192bc8f97fc2a57",
+      "line_start": 64,
+      "line_end": 154,
+      "target": "skills/scenario-inference/references/goals.md",
+      "anchor": "src-inference-design-64",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/inference-design.md"
+    },
+    {
+      "source_sha256": "cb891986b8d9c4941993f3dc78f71def2056dd7a2c7ed42b3192bc8f97fc2a57",
+      "line_start": 155,
+      "line_end": 187,
+      "target": "skills/scenario-inference/references/cognitive-stages.md",
+      "anchor": "src-inference-design-155",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/inference-design.md"
+    },
+    {
+      "source_sha256": "cb891986b8d9c4941993f3dc78f71def2056dd7a2c7ed42b3192bc8f97fc2a57",
+      "line_start": 188,
+      "line_end": 267,
+      "target": "skills/scenario-inference/references/clues-and-evidence.md",
+      "anchor": "src-inference-design-188",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/inference-design.md"
+    },
+    {
+      "source_sha256": "cb891986b8d9c4941993f3dc78f71def2056dd7a2c7ed42b3192bc8f97fc2a57",
+      "line_start": 268,
+      "line_end": 313,
+      "target": "skills/scenario-inference/references/experience.md",
+      "anchor": "src-inference-design-268",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/inference-design.md"
+    },
+    {
+      "source_sha256": "cb891986b8d9c4941993f3dc78f71def2056dd7a2c7ed42b3192bc8f97fc2a57",
+      "line_start": 314,
+      "line_end": 582,
+      "target": "skills/scenario-inference/references/empowerment.md",
+      "anchor": "src-inference-design-314",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/inference-design.md"
+    },
+    {
+      "source_sha256": "cb891986b8d9c4941993f3dc78f71def2056dd7a2c7ed42b3192bc8f97fc2a57",
+      "line_start": 583,
+      "line_end": 666,
+      "target": "skills/scenario-inference/references/distribution.md",
+      "anchor": "src-inference-design-583",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/inference-design.md"
+    },
+    {
+      "source_sha256": "cb891986b8d9c4941993f3dc78f71def2056dd7a2c7ed42b3192bc8f97fc2a57",
+      "line_start": 667,
+      "line_end": 752,
+      "target": "skills/scenario-inference/references/templates.md",
+      "anchor": "src-inference-design-667",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/inference-design.md"
+    },
+    {
+      "source_sha256": "cb891986b8d9c4941993f3dc78f71def2056dd7a2c7ed42b3192bc8f97fc2a57",
+      "line_start": 753,
+      "line_end": 829,
+      "target": "skills/scenario-inference/references/worked-example.md",
+      "anchor": "src-inference-design-753",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/inference-design.md"
+    },
+    {
+      "source_sha256": "cb891986b8d9c4941993f3dc78f71def2056dd7a2c7ed42b3192bc8f97fc2a57",
+      "line_start": 830,
+      "line_end": 847,
+      "target": "skills/scenario-inference/references/review-cases.md",
+      "anchor": "src-inference-design-830",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/inference-design.md"
+    },
+    {
+      "source_sha256": "cb891986b8d9c4941993f3dc78f71def2056dd7a2c7ed42b3192bc8f97fc2a57",
+      "line_start": 848,
+      "line_end": 852,
+      "target": "skills/scenario-inference/references/inference-design.md",
+      "anchor": "src-inference-design-848",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/inference-design.md"
+    },
+    {
+      "source_sha256": "418878c06b846b8ad44d61dc1251a40901d0e1675607a04b425f87b32fd1902f",
+      "line_start": 1,
+      "line_end": 18,
+      "target": "skills/scenario-play/references/interactive.md",
+      "anchor": "src-interactive-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/interactive.md"
+    },
+    {
+      "source_sha256": "418878c06b846b8ad44d61dc1251a40901d0e1675607a04b425f87b32fd1902f",
+      "line_start": 19,
+      "line_end": 40,
+      "target": "skills/scenario-narrative/references/characters.md",
+      "anchor": "src-interactive-19",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/interactive.md"
+    },
+    {
+      "source_sha256": "418878c06b846b8ad44d61dc1251a40901d0e1675607a04b425f87b32fd1902f",
+      "line_start": 41,
+      "line_end": 113,
+      "target": "skills/scenario-play/references/interactive.md",
+      "anchor": "src-interactive-41",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/interactive.md"
+    },
+    {
+      "source_sha256": "fc15cb72aab2aa3def12c66182b5fd10a9f7060a288c558d028afd4f09d29c84",
+      "line_start": 1,
+      "line_end": 93,
+      "target": "skills/scenario-inference/references/investigation.md",
+      "anchor": "src-investigation-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/investigation.md"
+    },
+    {
+      "source_sha256": "786b23fdfbcaf323009f86cd9a51ac8ebd4a8b569d59838290ae3a2ab7b6db86",
+      "line_start": 1,
+      "line_end": 95,
+      "target": "skills/scenario-writing/references/common/maintenance.md",
+      "anchor": "src-maintenance-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/maintenance.md"
+    },
+    {
+      "source_sha256": "dbc389c3fd2bafb45cd642ab85e895d8bd05e109ea76b3bd53e1de6ce447da6f",
+      "line_start": 1,
+      "line_end": 117,
+      "target": "skills/scenario-narrative/references/narrative.md",
+      "anchor": "src-narrative-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/narrative.md"
+    },
+    {
+      "source_sha256": "df225ef8a13ad5e22600a13a6d76368312065beb68192d9f23e3d88eec814b00",
+      "line_start": 1,
+      "line_end": 120,
+      "target": "skills/scenario-production/references/p8/content.md",
+      "anchor": "src-p8-content-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/content.md"
+    },
+    {
+      "source_sha256": "df225ef8a13ad5e22600a13a6d76368312065beb68192d9f23e3d88eec814b00",
+      "line_start": 121,
+      "line_end": 127,
+      "target": "skills/scenario-narrative/references/craft.md",
+      "anchor": "src-p8-content-121",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/content.md"
+    },
+    {
+      "source_sha256": "e786919420ecddcf7edb43281383399090e239ef121536f7e3ebb5a32af5f2aa",
+      "line_start": 1,
+      "line_end": 68,
+      "target": "skills/scenario-production/references/p8/delivery.md",
+      "anchor": "src-p8-delivery-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/delivery.md"
+    },
+    {
+      "source_sha256": "287331028d87120330270b69a6231e46c1c7d5010a2967316ea8900cd8717647",
+      "line_start": 1,
+      "line_end": 287,
+      "target": "skills/scenario-production/references/p8/integration.md",
+      "anchor": "src-p8-integration-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/integration.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 1,
+      "line_end": 7,
+      "target": "skills/scenario-production/references/p8/maps-media.md",
+      "anchor": "src-p8-maps-media-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 8,
+      "line_end": 48,
+      "target": "skills/scenario-space/references/map-construction.md",
+      "anchor": "src-p8-maps-media-8",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 49,
+      "line_end": 61,
+      "target": "skills/scenario-production/references/p8/integration.md",
+      "anchor": "src-p8-maps-media-49",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 62,
+      "line_end": 136,
+      "target": "skills/scenario-space/references/map-construction.md",
+      "anchor": "src-p8-maps-media-62",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 137,
+      "line_end": 137,
+      "target": "skills/scenario-production/references/p8/integration.md",
+      "anchor": "src-p8-maps-media-137",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 138,
+      "line_end": 138,
+      "target": "skills/scenario-space/references/map-construction.md",
+      "anchor": "src-p8-maps-media-138",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 139,
+      "line_end": 148,
+      "target": "skills/scenario-production/references/p8/integration.md",
+      "anchor": "src-p8-maps-media-139",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 149,
+      "line_end": 172,
+      "target": "skills/scenario-space/references/map-construction.md",
+      "anchor": "src-p8-maps-media-149",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 173,
+      "line_end": 179,
+      "target": "skills/scenario-media/references/visual-assets.md",
+      "anchor": "src-p8-maps-media-173",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 180,
+      "line_end": 181,
+      "target": "skills/scenario-media/references/audio-video.md",
+      "anchor": "src-p8-maps-media-180",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 182,
+      "line_end": 184,
+      "target": "skills/scenario-media/references/visual-assets.md",
+      "anchor": "src-p8-maps-media-182",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 185,
+      "line_end": 192,
+      "target": "skills/scenario-review/references/production-verification.md",
+      "anchor": "src-p8-maps-media-185",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 193,
+      "line_end": 201,
+      "target": "skills/scenario-space/references/map-qa.md",
+      "anchor": "src-p8-maps-media-193",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 202,
+      "line_end": 203,
+      "target": "skills/scenario-production/references/p8/integration.md",
+      "anchor": "src-p8-maps-media-202",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 204,
+      "line_end": 206,
+      "target": "skills/scenario-space/references/map-qa.md",
+      "anchor": "src-p8-maps-media-204",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "edb504a192b2dfcb89e4eccc4b188b7d1f48b6aff88e713b083de3da461ee647",
+      "line_start": 207,
+      "line_end": 209,
+      "target": "skills/scenario-production/references/p8/examples.md",
+      "anchor": "src-p8-maps-media-207",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/maps-media.md"
+    },
+    {
+      "source_sha256": "ec700b8a68dc3a631270b9f982162f314b2247aa18accb22d87ac542d084dd2f",
+      "line_start": 1,
+      "line_end": 27,
+      "target": "skills/scenario-production/references/p8/production-qa.md",
+      "anchor": "src-p8-production-qa-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/production-qa.md"
+    },
+    {
+      "source_sha256": "ec700b8a68dc3a631270b9f982162f314b2247aa18accb22d87ac542d084dd2f",
+      "line_start": 28,
+      "line_end": 57,
+      "target": "skills/scenario-review/references/production-verification.md",
+      "anchor": "src-p8-production-qa-28",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/production-qa.md"
+    },
+    {
+      "source_sha256": "ec700b8a68dc3a631270b9f982162f314b2247aa18accb22d87ac542d084dd2f",
+      "line_start": 58,
+      "line_end": 70,
+      "target": "skills/scenario-production/references/p8/production-qa.md",
+      "anchor": "src-p8-production-qa-58",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/production-qa.md"
+    },
+    {
+      "source_sha256": "83e22f3c6aff10d9b01f6bc10db23eab66d5b9f0a874c0b3757b8686956b4baf",
+      "line_start": 1,
+      "line_end": 89,
+      "target": "skills/scenario-production/references/p8/project-template.md",
+      "anchor": "src-p8-project-template-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/project-template.md"
+    },
+    {
+      "source_sha256": "f835285054d9e2f2c5520d62470adf48254b5409df98daaa232e2b1971d6ece6",
+      "line_start": 1,
+      "line_end": 31,
+      "target": "skills/scenario-production/references/p8/README.md",
+      "anchor": "src-p8-README-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/README.md"
+    },
+    {
+      "source_sha256": "8e0e78874300316a178f0a41370caf7f21bc88955e27c2a9c2247b49d98b1540",
+      "line_start": 1,
+      "line_end": 51,
+      "target": "skills/scenario-production/references/p8/skill-use.md",
+      "anchor": "src-p8-skill-use-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/skill-use.md"
+    },
+    {
+      "source_sha256": "7b71c7ea18837fd8541426d2c4c20f8e3d673964449802ba223cbc81d24e6e03",
+      "line_start": 1,
+      "line_end": 113,
+      "target": "skills/scenario-production/references/p8/workbench.md",
+      "anchor": "src-p8-workbench-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/p8/workbench.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 1,
+      "line_end": 51,
+      "target": "skills/scenario-pacing/references/entry-contract.md",
+      "anchor": "src-play-evaluation-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 52,
+      "line_end": 99,
+      "target": "skills/scenario-pacing/references/time-model.md",
+      "anchor": "src-play-evaluation-52",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 100,
+      "line_end": 162,
+      "target": "skills/scenario-pacing/references/experience-model.md",
+      "anchor": "src-play-evaluation-100",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 163,
+      "line_end": 201,
+      "target": "skills/scenario-pacing/references/fatigue-model.md",
+      "anchor": "src-play-evaluation-163",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 202,
+      "line_end": 289,
+      "target": "skills/scenario-pacing/references/scoring.md",
+      "anchor": "src-play-evaluation-202",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 290,
+      "line_end": 297,
+      "target": "skills/scenario-pacing/references/routes.md",
+      "anchor": "src-play-evaluation-290",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 298,
+      "line_end": 312,
+      "target": "skills/scenario-pacing/references/display.md",
+      "anchor": "src-play-evaluation-298",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 313,
+      "line_end": 327,
+      "target": "skills/scenario-pacing/references/entry-contract.md",
+      "anchor": "src-play-evaluation-313",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 328,
+      "line_end": 328,
+      "target": "skills/scenario-pacing/references/worksheets.md",
+      "anchor": "src-play-evaluation-328",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 329,
+      "line_end": 329,
+      "target": "skills/scenario-pacing/references/entry-contract.md",
+      "anchor": "src-play-evaluation-329",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 330,
+      "line_end": 435,
+      "target": "skills/scenario-pacing/references/worksheets.md",
+      "anchor": "src-play-evaluation-330",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 436,
+      "line_end": 457,
+      "target": "skills/scenario-pacing/references/entry-contract.md",
+      "anchor": "src-play-evaluation-436",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 458,
+      "line_end": 458,
+      "target": "skills/scenario-pacing/references/display.md",
+      "anchor": "src-play-evaluation-458",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 459,
+      "line_end": 459,
+      "target": "skills/scenario-pacing/references/entry-contract.md",
+      "anchor": "src-play-evaluation-459",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 460,
+      "line_end": 548,
+      "target": "skills/scenario-pacing/references/display.md",
+      "anchor": "src-play-evaluation-460",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 549,
+      "line_end": 549,
+      "target": "skills/scenario-pacing/references/parameters.md",
+      "anchor": "src-play-evaluation-549",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 550,
+      "line_end": 550,
+      "target": "skills/scenario-pacing/references/display.md",
+      "anchor": "src-play-evaluation-550",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 551,
+      "line_end": 596,
+      "target": "skills/scenario-pacing/references/parameters.md",
+      "anchor": "src-play-evaluation-551",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 597,
+      "line_end": 597,
+      "target": "skills/scenario-pacing/references/entry-contract.md",
+      "anchor": "src-play-evaluation-597",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 598,
+      "line_end": 598,
+      "target": "skills/scenario-pacing/references/parameters.md",
+      "anchor": "src-play-evaluation-598",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "6f35760ab4544feda372e84cce99ab8bf7937f034e9b1194ed8b2b42c2fdb550",
+      "line_start": 599,
+      "line_end": 639,
+      "target": "skills/scenario-pacing/references/entry-contract.md",
+      "anchor": "src-play-evaluation-599",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/play-evaluation.md"
+    },
+    {
+      "source_sha256": "e05b79186d7c119677137f76986c3b07fbca27b4d7efcedfc18621594790c514",
+      "line_start": 1,
+      "line_end": 192,
+      "target": "skills/scenario-narrative/references/player-design.md",
+      "anchor": "src-player-design-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/player-design.md"
+    },
+    {
+      "source_sha256": "d58abbbbe29e067834892ba6945d02273f8b0b14a650687da44ae7f88fe5f0a4",
+      "line_start": 1,
+      "line_end": 116,
+      "target": "skills/scenario-review/references/review.md",
+      "anchor": "src-review-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/review.md"
+    },
+    {
+      "source_sha256": "d58abbbbe29e067834892ba6945d02273f8b0b14a650687da44ae7f88fe5f0a4",
+      "line_start": 117,
+      "line_end": 130,
+      "target": "skills/scenario-review/references/migration-verification.md",
+      "anchor": "src-review-117",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/review.md"
+    },
+    {
+      "source_sha256": "d58abbbbe29e067834892ba6945d02273f8b0b14a650687da44ae7f88fe5f0a4",
+      "line_start": 131,
+      "line_end": 156,
+      "target": "skills/scenario-review/references/simulation-protocol.md",
+      "anchor": "src-review-131",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/review.md"
+    },
+    {
+      "source_sha256": "d58abbbbe29e067834892ba6945d02273f8b0b14a650687da44ae7f88fe5f0a4",
+      "line_start": 157,
+      "line_end": 177,
+      "target": "skills/scenario-review/references/review.md",
+      "anchor": "src-review-157",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/review.md"
+    },
+    {
+      "source_sha256": "484384f07cc6576ce3bc3cf5199ceb2758630d026716c81e71c208d85bf3f24a",
+      "line_start": 1,
+      "line_end": 33,
+      "target": "skills/scenario-play/references/scene-construction.md",
+      "anchor": "src-scene-construction-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/scene-construction.md"
+    },
+    {
+      "source_sha256": "484384f07cc6576ce3bc3cf5199ceb2758630d026716c81e71c208d85bf3f24a",
+      "line_start": 34,
+      "line_end": 119,
+      "target": "skills/scenario-space/references/layout-design.md",
+      "anchor": "src-scene-construction-34",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/scene-construction.md"
+    },
+    {
+      "source_sha256": "484384f07cc6576ce3bc3cf5199ceb2758630d026716c81e71c208d85bf3f24a",
+      "line_start": 120,
+      "line_end": 196,
+      "target": "skills/scenario-play/references/scene-design.md",
+      "anchor": "src-scene-construction-120",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/scene-construction.md"
+    },
+    {
+      "source_sha256": "484384f07cc6576ce3bc3cf5199ceb2758630d026716c81e71c208d85bf3f24a",
+      "line_start": 197,
+      "line_end": 250,
+      "target": "skills/scenario-play/references/scene-construction.md",
+      "anchor": "src-scene-construction-197",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/scene-construction.md"
+    },
+    {
+      "source_sha256": "484384f07cc6576ce3bc3cf5199ceb2758630d026716c81e71c208d85bf3f24a",
+      "line_start": 251,
+      "line_end": 253,
+      "target": "skills/scenario-production/references/p8/delivery.md",
+      "anchor": "src-scene-construction-251",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/scene-construction.md"
+    },
+    {
+      "source_sha256": "d93c2864f9a26dd60273724b7ca60576503d1f3ed9cdcff1efcb16f667d91a3d",
+      "line_start": 1,
+      "line_end": 105,
+      "target": "skills/scenario-writing/references/common/scope.md",
+      "anchor": "src-scope-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/scope.md"
+    },
+    {
+      "source_sha256": "d48f54f144190455befa80e3f62a66c55eba9a406f430d32c66501878252ac2d",
+      "line_start": 1,
+      "line_end": 76,
+      "target": "skills/scenario-writing/references/common/catalog.md",
+      "anchor": "src-skill-integration-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/skill-integration.md"
+    },
+    {
+      "source_sha256": "5e74c0f03e44199963f53ead5a89b54aa19b5fc27aaea9e8af0edcac16cf8280",
+      "line_start": 1,
+      "line_end": 114,
+      "target": "skills/scenario-space/references/spatial-design.md",
+      "anchor": "src-spatial-design-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/spatial-design.md"
+    },
+    {
+      "source_sha256": "b0aeb6a8096a8c533f6c281ec63784b97788e82bd1285db1c8a5f7340e7237ee",
+      "line_start": 1,
+      "line_end": 104,
+      "target": "skills/scenario-narrative/references/theme-presentation.md",
+      "anchor": "src-theme-presentation-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/theme-presentation.md"
+    },
+    {
+      "source_sha256": "93c5c0cce0b817c6bc456e8113e44c8fef6df92acaa34140bb7fab783aacef86",
+      "line_start": 1,
+      "line_end": 397,
+      "target": "skills/scenario-writing/references/common/workflow.md",
+      "anchor": "src-workflow-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "coc-script-writing/references/workflow.md"
+    },
+    {
+      "source_sha256": "46b8134f4d88f835c7dcdc10a026e3ef0177ab844643292046701094bb002f85",
+      "line_start": 1,
+      "line_end": 12,
+      "target": "skills/scenario-narrative/references/character-construction.md",
+      "anchor": "src-guide-construction-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "design-guides/人物构建理论与塑造规范.md"
+    },
+    {
+      "source_sha256": "46b8134f4d88f835c7dcdc10a026e3ef0177ab844643292046701094bb002f85",
+      "line_start": 13,
+      "line_end": 42,
+      "target": "skills/scenario-narrative/references/characters.md",
+      "anchor": "src-guide-construction-13",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "design-guides/人物构建理论与塑造规范.md"
+    },
+    {
+      "source_sha256": "46b8134f4d88f835c7dcdc10a026e3ef0177ab844643292046701094bb002f85",
+      "line_start": 43,
+      "line_end": 204,
+      "target": "skills/scenario-narrative/references/character-construction.md",
+      "anchor": "src-guide-construction-43",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "design-guides/人物构建理论与塑造规范.md"
+    },
+    {
+      "source_sha256": "9e95b3b840e1bc4a0f4a607253b1dead63c6e05567a62584e0e477b9140b6603",
+      "line_start": 1,
+      "line_end": 208,
+      "target": "skills/scenario-narrative/references/character-presentation.md",
+      "anchor": "src-guide-presentation-1",
+      "status": "已按源片段迁移；位置与字节可定位，语义与整合验收以各独立报告实际范围为准",
+      "source": "design-guides/人物展现逻辑方案.md"
+    }
+  ],
+  "limits": "31 current Markdown source objects, 130 continuous source spans and 62 source-owned targets; supplemented methods reviewed separately. This is not a claim of sentence-by-sentence review of all historical guide objects.",
+  "acceptance": "acceptance.md"
+}

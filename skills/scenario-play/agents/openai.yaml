@@ -1,0 +1,4 @@
+interface:
+  display_name: "游玩任务与场景设计"
+  short_description: "设计游戏内任务、行动选择和场景反馈，落实事件与冲突后果"
+  default_prompt: "请使用 $scenario-play，根据当前采用材料与本轮目标，完成相应实际产物并说明验证范围。"

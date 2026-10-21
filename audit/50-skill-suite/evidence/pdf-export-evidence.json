@@ -1,0 +1,37 @@
+{
+  "created_utc": "2026-10-21T07:43:17.279249+00:00",
+  "html": "D:\\SZK\\Personal\\COC\\echo\\research\\2026-10-21-skill拆分实施\\tests\\end-to-end-output\\project-rain\\P8-R1.html",
+  "html_sha256": "410f9c9944bf7b9288a65c9fbf38e2366540da75908342ad4b33c1348b48c976",
+  "pdf": "D:\\SZK\\Personal\\COC\\echo\\research\\2026-10-21-skill拆分实施\\tests\\end-to-end-output\\output\\pdf\\rain-before-sealing-r1.pdf",
+  "pdf_sha256": "923ca38de06f53fb6ed6dc1bc5ee1d0508e8b92262c4f7dea8ac1297a4377640",
+  "pages": 11,
+  "rendered_pages": {
+    "page-01.png": "a283e1df76e4347dac04e4c1e3e68b319ad73cc1bf1b0963caa8d79b0b77529f",
+    "page-02.png": "6b9e17eace9e85427903d099a9888de2ac35dd600e40d82708b0fb3bce3d6b3f",
+    "page-03.png": "9499286b23702a3a4d41a36ba505f0cdf5b4b0e484f03829f5623223eb75325b",
+    "page-04.png": "2c2d239fafc7983392cbc45f2f84dba43246c7fc71ee0c632d27abcfad90c010",
+    "page-05.png": "1b9919c17f6131d1a8f2925e01231174790df3685ab9c4b1e44023a174bfdd27",
+    "page-06.png": "6e37eb26a6dfe4b5e3bab0d844592586dabd0426bddf996cfb95060c42d41b9f",
+    "page-07.png": "b155d4a6bbe0c76a586c4e48e300b5b0dc865e6d3a6f2235d3b4908c16d0c2b6",
+    "page-08.png": "3538527bddfe811baccb110e69aee7b3ee995d148952aa9bdb89ea8a9fe0d24f",
+    "page-09.png": "1b643aa68beebdb4dacff27676338c90ae4172088a35aabdb9ecedb32148e05a",
+    "page-10.png": "66f359dff0d623be6caddad55c6b31fa7c4a5dbb6a53555e164ca4d18bfc4543",
+    "page-11.png": "1f3069bb6e649752e4a60697105f7dfa11bb1bbf8053d32d09fcc32dd19cc296"
+  },
+  "text_characters_by_page": [
+    1241,
+    763,
+    633,
+    1246,
+    872,
+    1182,
+    1229,
+    1320,
+    1224,
+    735,
+    972
+  ],
+  "replacement_character_count": 0,
+  "qualification": "Actual Edge PDF export plus Poppler page rendering and pypdf extraction; visual inspection recorded separately; no physical print or player comprehension.",
+  "export_note": "First Edge parent exited before the PDF appeared; initial missing-file assertion failed. File then appeared asynchronously. Resume performs read-only QA of that original PDF, without re-export/overwrite; Chrome retry was stopped before launching by existing-file assertion."
+}

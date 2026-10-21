@@ -1,0 +1,27 @@
+{
+  "batch": "D",
+  "label": "initial",
+  "files": {
+    "skills/scenario-pacing/agents/openai.yaml": "7c8555781c386bbf3667f06a28ba572b3ed33782a2485eedb21bc0a2e3fe3003",
+    "skills/scenario-pacing/LICENSE.md": "d1cfc5cfa243396e8a3cd25180487f0ba1f04954848c1106572a7ec13002c553",
+    "skills/scenario-pacing/references/display.md": "a6516c50dc7d520004251b4884efe06ca02247a505b1103f5e88f3c96c26f348",
+    "skills/scenario-pacing/references/entry-contract.md": "d24ecf5016d43a60bb07a479882e8d1fc2646f78b38da7bcd7653e564a144b0b",
+    "skills/scenario-pacing/references/experience-model.md": "d7ce088025d417a7bbaa8f6923d72de7de0cf3e8cc19ab475eb7da3623ae53c5",
+    "skills/scenario-pacing/references/fatigue-model.md": "beee30d4c0ce4da06f9efe9c7b88a81ff4de0d2f610e9011f614a5ad7e13cb06",
+    "skills/scenario-pacing/references/parameters.md": "7e9703fdac3e04290a43403ddff160f8a4d239697e13ccc539eb28cc3459f29c",
+    "skills/scenario-pacing/references/routes.md": "38ddaa6fff89c7720efb28558aa35a1f9593d270e0c3bea68743b1384637c4d9",
+    "skills/scenario-pacing/references/scoring.md": "d448034979d2dbe0bc6af585eda2a8d87af3e6ce1436562b8e1e1cd721576e4c",
+    "skills/scenario-pacing/references/time-model.md": "d648569448fa39290fc8c496c6678ecede0a952ba73c77e94325a8e86f0f1c86",
+    "skills/scenario-pacing/references/worksheets.md": "9d42eb52e50db3d20d2c02e66c986f0a16c6803a0bcdf9237628d6ac768a1f92",
+    "skills/scenario-pacing/SKILL.md": "519ecf164419d9c248a723c83f51242b4cf56efbe9602cb604ed357bc74cc1e4",
+    "skills/scenario-rules/agents/openai.yaml": "d11a1127978053f2f4c6c4ba58b46ec3dd9d4102e4fc8c7e1dce8ceb297a6f13",
+    "skills/scenario-rules/LICENSE.md": "d1cfc5cfa243396e8a3cd25180487f0ba1f04954848c1106572a7ec13002c553",
+    "skills/scenario-rules/references/character-configuration.md": "2515bd0c0f478c5de33e3e02af610c827a2e3b43ba4211960c98874366f614c5",
+    "skills/scenario-rules/references/mechanisms.md": "f84f8b910fb7e61dfef1ef623744095ab9a8143421cafaaa9f70ec4507d8c70e",
+    "skills/scenario-rules/references/rules-design.md": "630de5703ae7c46af75c2eaf8eefd8b814715d3afcbf7e02a67572d05d04d9e7",
+    "skills/scenario-rules/references/systems/coc/README.md": "742c941678fbc4a294e20cc3264d16aca6b54a8c167d0331e5768cf44c0fc659",
+    "skills/scenario-rules/references/systems/coc/rules-design.md": "6ef63c21dd7af18d9016b9de802c41fddd5ec989b05ddfc80a38d2cf84f52c0f",
+    "skills/scenario-rules/SKILL.md": "07bf91c392f1b882210f57c4838fef252c84c86a39a350c56711a69c88a31f8a"
+  },
+  "scope": "Actual candidate bytes; semantics and scope are independently reviewed"
+}

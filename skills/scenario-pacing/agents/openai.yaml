@@ -1,0 +1,4 @@
+interface:
+  display_name: "游玩时间与节奏评估"
+  short_description: "独立估算游玩时间、参与与疲劳，比较路线并给有依据的调整"
+  default_prompt: "请使用 $scenario-pacing，根据当前采用材料与本轮目标，完成相应实际产物并说明验证范围。"

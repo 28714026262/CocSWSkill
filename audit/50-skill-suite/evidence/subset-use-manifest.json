@@ -1,0 +1,76 @@
+{
+  "tester": "/root/subset_use_test",
+  "date": "2026-10-21",
+  "input": "inputs.json",
+  "outputs": [
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\research\\2026-10-21-skill拆分实施\\tests\\subset-output\\01-lightweight-pacing.md",
+      "sha256": "613f5b97598d4914564f1474d5d3bfe91bd5b8942a8ddb285f1f7b6a46aa2d89",
+      "bytes": 3385,
+      "object": "objects/613f5b97598d4914564f1474d5d3bfe91bd5b8942a8ddb285f1f7b6a46aa2d89.artifact",
+      "verification": "read all bytes; SHA256 archived bytes matches current output"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\research\\2026-10-21-skill拆分实施\\tests\\subset-output\\02-character-consistency.md",
+      "sha256": "4e2137163a569b6052635f1ca3b1503567eadea189981b257f8ed8f78f264432",
+      "bytes": 4900,
+      "object": "objects/4e2137163a569b6052635f1ca3b1503567eadea189981b257f8ed8f78f264432.artifact",
+      "verification": "read all bytes; SHA256 archived bytes matches current output"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\research\\2026-10-21-skill拆分实施\\tests\\subset-output\\03-bounded-inference-review.md",
+      "sha256": "b5da64498fb6374788bcbecbf8473d1eb6d1762471caee05f9c20bd8273b57a6",
+      "bytes": 5178,
+      "object": "objects/b5da64498fb6374788bcbecbf8473d1eb6d1762471caee05f9c20bd8273b57a6.artifact",
+      "verification": "read all bytes; SHA256 archived bytes matches current output"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\research\\2026-10-21-skill拆分实施\\tests\\subset-output\\report.md",
+      "sha256": "71212e8169a495660c4c45204c0db0cea6ff214e15d44feb69fb7221fef35d16",
+      "bytes": 6284,
+      "object": "objects/71212e8169a495660c4c45204c0db0cea6ff214e15d44feb69fb7221fef35d16.artifact",
+      "verification": "read all bytes; SHA256 archived bytes matches current output"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\research\\2026-10-21-skill拆分实施\\tests\\subset-output\\inputs.json",
+      "sha256": "f5172de9f4f6417e90ab9790d80f7a2d9cfcd0417e6a61f97cec38b4bbc09fd7",
+      "bytes": 1120,
+      "object": "objects/f5172de9f4f6417e90ab9790d80f7a2d9cfcd0417e6a61f97cec38b4bbc09fd7.artifact",
+      "verification": "read all bytes; SHA256 archived bytes matches current output"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\research\\2026-10-21-skill拆分实施\\tests\\subset-output\\reads.json",
+      "sha256": "5c504fe8e55cd76c3722e17e4799c9faf342a1fcb39b7741b7aa17f5db40f27e",
+      "bytes": 22929,
+      "object": "objects/5c504fe8e55cd76c3722e17e4799c9faf342a1fcb39b7741b7aa17f5db40f27e.artifact",
+      "verification": "read all bytes; SHA256 archived bytes matches current output"
+    },
+    {
+      "path": "D:\\SZK\\Personal\\COC\\echo\\research\\2026-10-21-skill拆分实施\\tests\\subset-output\\read-methods.ps1",
+      "sha256": "324cdff2b2b467816cdf73c798bc305cf96cccf5c742014f1d03c2b2c65ae9b2",
+      "bytes": 1744,
+      "object": "objects/324cdff2b2b467816cdf73c798bc305cf96cccf5c742014f1d03c2b2c65ae9b2.artifact",
+      "verification": "read all bytes; SHA256 archived bytes matches current output"
+    }
+  ],
+  "method_read_records": 41,
+  "unique_method_paths": 27,
+  "source_object_mismatches": [],
+  "arithmetic": {
+    "wall_minutes": 11,
+    "alpha_wait_minutes": 2,
+    "beta_wait_minutes": 0,
+    "alpha_occupied_minutes": 9,
+    "beta_occupied_minutes": 11
+  },
+  "strict_isolation": "failed: disclosed external process-skill read",
+  "qualification": "actual local task use / independent C0 AI textual review; own artifacts self-check; no runtime or human playtest",
+  "not_tested": [
+    "negative-character-without-narrative",
+    "negative-pacing-without-base",
+    "host auto-discovery/install",
+    "full numerical scoring",
+    "full scenario runtime",
+    "human playtest"
+  ]
+}

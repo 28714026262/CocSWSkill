@@ -1,0 +1,80 @@
+{
+  "links": {
+    "files": 99,
+    "local_links": 671,
+    "missing_files": [],
+    "missing_fragments": []
+  },
+  "legacy_links": {
+    "files": 29,
+    "local_links": 521,
+    "missing_files": [],
+    "missing_fragments": []
+  },
+  "protected_source_changes": [],
+  "HEAD_unchanged": true,
+  "index_unchanged": true,
+  "assets": {
+    "baseline_files": 47,
+    "changed_or_missing": [],
+    "publicly_tracked": []
+  },
+  "licenses": {
+    "same_original_bytes": true
+  },
+  "migration_anchor_missing": [],
+  "pacing_display_math": {
+    "before": 10,
+    "after": 10,
+    "missing": [],
+    "added": [],
+    "scope": "Exact indented/fenced source code blocks (formulas and display template) preserved; not a full mathematical or human-effect certification"
+  },
+  "pacing_tables": {
+    "source_rows": 125,
+    "missing_rows": [],
+    "scope": "Exact source table rows, including parameter/worksheet/mode definitions; not an arithmetic proof"
+  },
+  "structure": {
+    "skills": [
+      "scenario-inference",
+      "scenario-media",
+      "scenario-narrative",
+      "scenario-pacing",
+      "scenario-play",
+      "scenario-production",
+      "scenario-review",
+      "scenario-rules",
+      "scenario-space",
+      "scenario-writing"
+    ],
+    "method_files": 70
+  },
+  "public_relocation": {
+    "files": 90,
+    "local_links": 606,
+    "missing_files": [],
+    "missing_fragments": []
+  },
+  "declared_subset_paths": [
+    {
+      "task": "lightweight-pacing",
+      "selected_files_exist": true,
+      "declared_members_exist": true,
+      "scope": "Selected method existence in relocated public export; conditional execution checked separately, not all-links closure of a standalone subset"
+    },
+    {
+      "task": "character-consistency",
+      "selected_files_exist": true,
+      "declared_members_exist": true,
+      "scope": "Selected method existence in relocated public export; conditional execution checked separately, not all-links closure of a standalone subset"
+    },
+    {
+      "task": "bounded-inference-review",
+      "selected_files_exist": true,
+      "declared_members_exist": true,
+      "scope": "Selected method existence in relocated public export; conditional execution checked separately, not all-links closure of a standalone subset"
+    }
+  ],
+  "error_count": 0
+}
