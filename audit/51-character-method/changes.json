@@ -1,0 +1,62 @@
+{
+  "skills/scenario-narrative/references/character-construction.md": {
+    "before_sha256": "ae8ca70527201bd3c4b310e8c6589c6d2089c57abebb1596183ceaa8cb415328",
+    "after_sha256": "ea4aa2aa545a05abdaf2baa29e0c422a8f15bad78df30331663e21fae43a333a"
+  },
+  "skills/scenario-narrative/references/characters.md": {
+    "before_sha256": "fd1e01e4605335bd4ec99159b5eaaac356b7c1e36bb405b13bf03fd3429b124f",
+    "after_sha256": "f70a973cb74015de95ecafcfe1a53b85d3b2634a7dead79bbb5ee41334cec57f"
+  },
+  "skills/scenario-narrative/references/character-presentation.md": {
+    "before_sha256": "6cfc01e9309f52ae16f754290252664580366be6f46a102492fdb1d619438014",
+    "after_sha256": "496b7aa4fd1218caf007cb030c2d860fbe5eea818839e461d619e936f74edbe5"
+  },
+  "skills/scenario-writing/references/common/deliverables.md": {
+    "before_sha256": "040abe4936640500cb4d8bc60896c68fb5facb32b8cdea55bf4e01fb27adac60",
+    "after_sha256": "74748f29a2d49053c7cb2ed4a1ae16167c2493b81f2d6a226871e2b647f520d4"
+  },
+  "skills/scenario-writing/references/common/workflow.md": {
+    "before_sha256": "c983bb1fc8d488139e41d77b1b394dc13cb9fc213e137309fde770cc8fb50b9b",
+    "after_sha256": "1a5f560d5038f11850d41746c47d352b8ba818b3f82b928ecae10249bac3b10e"
+  },
+  "skills/scenario-narrative/SKILL.md": {
+    "before_sha256": "160c0beb27e8d6c87d32973efe54d32dca0f36d45d793537013774dda7382e83",
+    "after_sha256": "37519563534b36b300936e8fa4654b38c5d749c97b60fd4b930641df098f4c7b"
+  },
+  "skills/scenario-narrative/references/narrative.md": {
+    "before_sha256": "b5a711df572cd0c8a61ed81fb49f1c2c090afa1c64c8013d0cb6b08501ab0671",
+    "after_sha256": "7da4e442e92c0bf54c4af27b7a90bfc8d46378e1460f312d4cbf585a640b3c80"
+  },
+  "skills/scenario-play/references/interactive.md": {
+    "before_sha256": "b3590c45e070d010855803e16a27918f2e974c862073d2663e6098ee62e998ec",
+    "after_sha256": "8a958391895f3e27df902651d30679efa70b6d4b251e20fe99f5341cb7b853d1"
+  },
+  "README.md": {
+    "before_sha256": "f80c848c4814a8c633e46e271b5e04a04ebb67f4301515fbe95a3c37699ab836",
+    "after_sha256": "e6778056a082e2eb8c24c414327f6d36ff37dc3f95bd8c5b294494dde4a2d55f"
+  },
+  "skills/scenario-narrative/references/craft.md": {
+    "before_sha256": "e32fd69a85300bce6b3d7ab877bfae817f611807f2c0daf3443e0529977cb2fa",
+    "after_sha256": "56e9d18da7a2c37ff8e26b80effa05b355d87de4b6efe057add20e0a087d23b7"
+  },
+  "skills/scenario-review/references/review.md": {
+    "before_sha256": "316424111e8c63ae2bab63cbb00123357c78baaaa5c452fedf78c82b40c1dfed",
+    "after_sha256": "cf505dff0ec57459773d6f0bb98ab5083c34bf55661fde172f870bf815800139"
+  },
+  "skills/scenario-writing/references/common/maintenance.md": {
+    "before_sha256": "faf756bc1a59d4a21b1943d855eac69eb2f7813e8c520cda72b7a85b864f68e8",
+    "after_sha256": "dd04673608a17dca230629c887b59af3254424b01ec6b2142bd13ba5ece02e6e"
+  },
+  "skills/scenario-writing/references/common/provenance.md": {
+    "before_sha256": "652ab86d976b5cd265c6722b2d9c1a3595f7ca6ae6f78e81363ec00fe4f53c68",
+    "after_sha256": "59fb0ee1dd3d5fb2c7c5bdcd90512d3240427c8f36634d2f2acd4cb7e5cfe280"
+  },
+  "skills/suite.json": {
+    "before_sha256": "2b2c4ce0549fba67f2bcdbc456b5aaf69f86da38ad20d7ced8ad3e6f032df200",
+    "after_sha256": "b08e1035eecd45c4c245229b31c14459b69e59b0c7afd1887bc34f74ef95dc8b"
+  },
+  "skills/scenario-writing/references/common/contracts.md": {
+    "before_sha256": "8c4667df466ce2224c3d612d89592617814a3e007e233bf97448f964374c884d",
+    "after_sha256": "6e74a1fb360de829cfd5984d850a102022cfaed2e10b15abe1c49430c9a5c635"
+  }
+}

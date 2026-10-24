@@ -14,7 +14,7 @@ description: "Use when developing story causality, main plots and subplots, char
 |当前任务|读取|使用范围|
 |---|---|---|
 |故事／主支线|[narrative](references/narrative.md)|先人物与事件因果，再干扰、融合及回收|
-|人物构建／比较／发展|[characters](references/characters.md)＋[character-construction](references/character-construction.md)|五部分定义及发展更新唯一在characters；按叙述空间取舍|
+|人物构建／比较／发展|[characters](references/characters.md)＋[character-construction](references/character-construction.md)|完整三部定义、五维分析及发展唯一在character-construction；characters维护运行抽取；前置建立、P2深化、P6按规则补数据|
 |人物展现|[character-presentation](references/character-presentation.md)及采用人物依据|完整六步接实际正文；改模型再读characters，运行可达联查游玩|
 |PC耦合／介入、P2叙事|[player-design](references/player-design.md)|两步总方法；规则实现归规则专项|
 |语言／技巧／主题|[craft](references/craft.md)|局部表达直做；主题再读theme-presentation.md|

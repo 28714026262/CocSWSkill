@@ -1,0 +1,47 @@
+{
+  "content_commit": "eb01743",
+  "handoff_commit": "aaf8978",
+  "records": [
+    {
+      "source": "design-guides/人物构建理论与塑造规范.md",
+      "sha256": "5c261e9a23ece9c883f28ec05b86251264f318786ad71028da0d3247e7ef0c7d",
+      "matches_source_reviews": true
+    },
+    {
+      "source": "design-guides/通用开发备忘录.md",
+      "sha256": "2fc48e2157965c7f66521a0d26c77d4bd4f2a382e9cc4e58d60101d3dc3cff80",
+      "matches_source_reviews": true
+    },
+    {
+      "source": "design-guides/人物展现逻辑方案.md",
+      "sha256": "244be8166e641fe05be8caa91115c9143890b8abe28d368b931209d00fb481e8",
+      "matches_source_reviews": true
+    },
+    {
+      "source": "design-guides/剧本开发阶段产物与验收标准.md",
+      "sha256": "9a70d2802ec10558ad31cb23218055eeebe59ce88610d13a93833dbe7ad13e62",
+      "matches_source_reviews": true
+    },
+    {
+      "source": "design-guides/通用方案统筹与维护.md",
+      "sha256": "5abb3b2831a739f2018bcb49584a2624e5a7ff6033023ee476385bfbd3c78bc4",
+      "matches_source_reviews": true
+    },
+    {
+      "source": "design-guides/README.md",
+      "sha256": "4831b13ff4e21c82ac42bf6dd1f982b89883079d8b0be7baa8fbcbd8eaed5cce",
+      "matches_source_reviews": true
+    },
+    {
+      "source": "design-guides/COC完整开发流程.md",
+      "sha256": "85529e8bf23c35e45e286c19937c491a52e8ad6e071de095954f9d7f956a908a",
+      "matches_source_reviews": true
+    },
+    {
+      "source": "design-guides/调查悬疑类COC剧本通用设计与审核框架.md",
+      "sha256": "0b1a9309cf5566ffbab59911190eb27bb3f89bd2b83f67ec85fb3e0cf4ddc791",
+      "matches_source_reviews": true
+    }
+  ],
+  "status": "semantic adaptation; independent review recorded separately; old source-map remains frozen"
+}

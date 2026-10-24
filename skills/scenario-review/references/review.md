@@ -164,3 +164,5 @@
 复测覆盖实改影响；只有新改动、失败或未解决的疑问需要时，才扩大到全文重评。
 
 用户反馈推翻核心体验或可读性时，登记实际退回，旧高分保留为旧对象历史。修订当前主稿后，独立复核可读性、事实和开发价值，并注明执行的是全文复核还是局部差异检查。母版、技能、阶段稿和成品分别保留自己的通过资格。
+
+人物审核核[前置建立合同](../../scenario-writing/references/common/deliverables.md#character-setup)及[三部定义](../../scenario-narrative/references/character-construction.md#character-definition)：五维仅分析，S2深化而非初建，S6量化与既有定性条件相符，S8同版完整；定义、实际展现和受众认识分别验收。有限人物不强补长人格或规则卡；维护信息外置但正文保认知来源与操作条件。

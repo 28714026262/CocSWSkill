@@ -1,76 +1,76 @@
 {
   "schema": "scenario-suite/1",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "layout": "All ten scenario-* directories share one parent",
   "purpose": "Documentation and explicit dependency inventory; not a platform installer, invocation engine or tool manifest",
   "skills": [
     {
       "name": "scenario-writing",
       "path": "scenario-writing",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "common_base": "scenario-writing",
       "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
     },
     {
       "name": "scenario-narrative",
       "path": "scenario-narrative",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "common_base": "scenario-writing",
       "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
     },
     {
       "name": "scenario-play",
       "path": "scenario-play",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "common_base": "scenario-writing",
       "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
     },
     {
       "name": "scenario-inference",
       "path": "scenario-inference",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "common_base": "scenario-writing",
       "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
     },
     {
       "name": "scenario-space",
       "path": "scenario-space",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "common_base": "scenario-writing",
       "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
     },
     {
       "name": "scenario-rules",
       "path": "scenario-rules",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "common_base": "scenario-writing",
       "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
     },
     {
       "name": "scenario-media",
       "path": "scenario-media",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "common_base": "scenario-writing",
       "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
     },
     {
       "name": "scenario-pacing",
       "path": "scenario-pacing",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "common_base": "scenario-writing",
       "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
     },
     {
       "name": "scenario-production",
       "path": "scenario-production",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "common_base": "scenario-writing",
       "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
     },
     {
       "name": "scenario-review",
       "path": "scenario-review",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "common_base": "scenario-writing",
       "conditional_dependencies": "Select current task branches from SKILL.md; continue required method references transitively"
     }

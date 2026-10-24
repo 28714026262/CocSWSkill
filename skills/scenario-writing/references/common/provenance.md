@@ -78,3 +78,5 @@
 <a id="history-1fc9262e493b"></a>
 
 - `调查悬疑类COC剧本通用设计与审核框架.md`：SHA256 `fcafeda97bbf8bfe0d992fb4eb8e2ba6da33e733bc8a0d59e5e299b16d0ed222`。
+
+2026-10-24人物来源迁移与前置合同调整：本套件仓库audit/51-character-method登记来源对象、实际语义落位及验证边界；2026-10-23接收记录保历史登记。当前三部方法见[人物构建](../../../scenario-narrative/references/character-construction.md#character-definition)，前置合同见[阶段标准](deliverables.md#character-setup)。

@@ -75,7 +75,7 @@
 
 基础推进应能通过普通探索、目睹、交涉或目标行动成立。玩家主动设计实验或诱导时，结算其真实收益；这类操作是额外路径，不能预设玩家一定会做。
 
-角色的耦合、接入、个人材料及后续一致性配置按[可玩角色方法](../../scenario-narrative/references/player-design.md)组织。参与前提沿本页；角色已知、玩家已看材料和另一角色实际获知分别记录。NPC依据[人物模型](../../scenario-narrative/references/characters.md#src-interactive-19)运行，PC未来选择由玩家掌握。
+角色的耦合、接入、个人材料及后续一致性配置按[可玩角色方法](../../scenario-narrative/references/player-design.md)组织。参与前提沿本页；角色已知、玩家已看材料和另一角色实际获知分别记录。NPC从[同一三部人物定义的运行视图](../../scenario-narrative/references/characters.md#src-interactive-19)运行，PC未来选择由玩家掌握。
 
 <a id="src-interactive-41"></a>
 ## 消息、离屏行动与披露

@@ -3,7 +3,7 @@
 <a id="src-contracts-1"></a>
 ## 最小产物字段与短例
 
-本页提供局部记录字段，不替代[阶段产物标准](deliverables.md)中的完整主文、人物卡和成品要求。完整人物卡的阶段归属与结构见[第2步叙事卡](deliverables.md#src-deliverables-135)、[第6步规则卡](deliverables.md#src-deliverables-257)、[第8步最终卡](deliverables.md#src-deliverables-312)；下方短例仅示范最小局部记录，不据此授整阶段资格。
+本页提供局部记录字段，不替代[阶段产物标准](deliverables.md)中的完整主文、人物卡和成品要求。完整人物卡的阶段归属与结构见[前置人物设定](deliverables.md#character-setup)、[第2步叙事深化](deliverables.md#src-deliverables-135)、[第6步规则卡](deliverables.md#src-deliverables-257)、[第8步最终卡](deliverables.md#src-deliverables-312)；下方短例仅示范最小局部记录，不据此授整阶段资格。
 
 职责：提供输出字段，具体含义由各领域参考维护。按当前任务选字段，可直接合入已有卡表。缺少资料时写“候选”或“待核”，不为填满表格编造事实；小任务只填写有关部分。
 

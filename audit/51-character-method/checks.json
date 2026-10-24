@@ -1,0 +1,9 @@
+{
+  "affected_local_links_and_anchors": [],
+  "scenario-narrative_entry_frontmatter": true,
+  "scenario-writing_entry_frontmatter": true,
+  "scenario-play_entry_frontmatter": true,
+  "scenario-review_entry_frontmatter": true,
+  "suite_version": "2.0.0",
+  "scope": "Text and structural verification only; no new behavioral run, installation or publication"
+}
